@@ -1,0 +1,33 @@
+{
+    "context": "client",
+    "identifier": "com.pa.grandhomie.maps",
+    "display_name": "Grand Homie's map pack - unshared 2v2, 3v3 and 4v4 planets.",
+    "description": "Custom single planet systems made for unshared battles.  New 3v3 and 4v4 planets plus a collection of existing 1v1 maps modified for 2v2 unshared.  Symmetrical and Balanced.",
+    "author": "Grand Homie",
+    "version": "1.0",
+    "build": "105067",
+    "date": "2017/10/14",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/exodus-esports-map-pack.71887/",
+    "icon": "http://i.imgur.com/gx0DSMK.png",
+    "category": [
+        "maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/grandhomie/maps.js"
+    ],
+    "searchable": [
+        "grand homie",
+        "map",
+        "pack",
+        "maps",
+        "systems",
+        "system",
+        "planet"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
