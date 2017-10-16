@@ -1,6 +1,6 @@
 {
     "name": "Castillon 4v4 NS",
-    "description":"TODO",
+    "description":"4v4 unshared map.  Many metal clusters that 1, 2 or even 3 players from each team can fight for.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[8, 8],

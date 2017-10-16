@@ -1,6 +1,6 @@
 {
     "name": "Bosworth Field 4v4 NS",
-    "description":"TODO",
+    "description":"4v4 unshared map.  North vs South battle over 4 lanes (1 per player).  Not a lot of metal around the equator to avoid the snowball effect.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[8, 8],

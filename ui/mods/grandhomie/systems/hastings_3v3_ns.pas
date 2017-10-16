@@ -1,6 +1,6 @@
 {
     "name": "Hastings 3v3 NS",
-    "description":"TODO",
+    "description":"3v3 unshared map.  North vs South.  3 lanes for 3 one versus one but with many ways to go between lanes for good teamwork.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[6, 6],
