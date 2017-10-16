@@ -1,5 +1,7 @@
 {
     "name": "Wadiya No Crater",
+    "description":"Wadiya without the craters.",
+    "creator":"AndreasG",
     "planets": [
         {
             "name": "Nostalgica",

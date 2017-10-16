@@ -1,6 +1,6 @@
 {
     "name": "Cannae 4v4 NS",
-    "description":"TODO",
+    "description":"4v4 unshared map.  North vs South battle over 4 lanes (1 per player).  2 big clusters of metal around the equator.  Team work is crucial to claim these metal fields.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[8, 8],

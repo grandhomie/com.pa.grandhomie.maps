@@ -1,6 +1,6 @@
 {
     "name": "Lune 3v3 NS",
-    "description":"TODO",
+    "description":"3v3 unshared map.  Symmetrical metal like TheClassyBarren but with more metal and less clusters like Wadiya.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[6, 6],
