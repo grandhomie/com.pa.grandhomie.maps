@@ -1,11 +1,9 @@
 {
     "name": "Lugaan 2v2 NS",
+    "version":"1.0",
     "creator": "WPMarshall",
-    "description": "Lugaan modified for 2v2 unshared.  This medium sized ice-planet, also suitable for team games (particularly 2v2), provides multiple routes to attack your opponent as well as some key central expansion sites that will encourage raiding and combat.",
-    "players": [
-        4,
-        4
-    ],
+    "description": "Lugaan modified for 2v2 unshared.  This medium sized ice-planet provides multiple routes to attack your opponent as well as some key central expansion sites that will encourage raiding and combat.",
+    "players":[4, 4],
     "planets": [
         {
             "name": "Lugaan",
@@ -37,40 +35,13 @@
                 "symmetricalStarts": true,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 154
+                "landingZoneSize": 136
             },
             "planetCSG": [
                 {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 113,
-                    "scale": [
-                        1.3999996185302734,
-                        1.3999996185302734,
-                        1.3999996185302734
-                    ],
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "weightHard": false,
-                    "position": [
-                        -76.43368530273438,
-                        -447.894775390625,
-                        199.10797119140625
-                    ],
-                    "height": 505.0804443359375,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": 0.8399997353553772,
+                    "op": "BO_Add",
                     "transform": [
                         0.815132200717926,
                         -1.1175999641418457,
@@ -85,25 +56,23 @@
                         0.5619070529937744,
                         202.72024536132812
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.8399997353553772,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 113,
-                    "scale": [
-                        1.3999996185302734,
-                        1.3999996185302734,
-                        1.3999996185302734
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -76.43368530273438,
+                        -447.894775390625,
+                        199.10797119140625
                     ],
+                    "height": 505.0804443359375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3999996185302734,
+                        1.3999996185302734,
+                        1.3999996185302734
                     ],
                     "weight": [
                         1,
@@ -112,14 +81,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -76.43368530273438,
-                        -447.894775390625,
-                        199.10797119140625
-                    ],
-                    "height": 505.0804443359375,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": 0.8399997353553772,
+                    "op": "BO_Add",
                     "transform": [
                         0.815132200717926,
                         -1.1175999641418457,
@@ -134,25 +105,23 @@
                         -0.5619070529937744,
                         -202.72024536132812
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.8399997353553772,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 114,
-                    "scale": [
-                        1.4599995613098145,
-                        1.4599995613098145,
-                        1.4599995613098145
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -76.43368530273438,
+                        -447.894775390625,
+                        199.10797119140625
                     ],
+                    "height": 505.0804443359375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3999996185302734,
+                        1.3999996185302734,
+                        1.3999996185302734
                     ],
                     "weight": [
                         1,
@@ -161,14 +130,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -142.04620361328125,
-                        -455.510986328125,
-                        133.69482421875
-                    ],
-                    "height": 507.5216064453125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": 3.8199970722198486,
+                    "op": "BO_Add",
                     "transform": [
                         -0.8730202317237854,
                         1.0928277969360352,
@@ -183,25 +154,23 @@
                         0.39391690492630005,
                         136.93247985839844
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.8199970722198486,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 114,
-                    "scale": [
-                        1.4599995613098145,
-                        1.4599995613098145,
-                        1.4599995613098145
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -142.04620361328125,
+                        -455.510986328125,
+                        133.69482421875
                     ],
+                    "height": 507.5216064453125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.4599995613098145,
+                        1.4599995613098145,
+                        1.4599995613098145
                     ],
                     "weight": [
                         1,
@@ -210,14 +179,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -142.04620361328125,
-                        -455.510986328125,
-                        133.69482421875
-                    ],
-                    "height": 507.5216064453125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": 3.8199970722198486,
+                    "op": "BO_Add",
                     "transform": [
                         -0.8730202317237854,
                         1.0928277969360352,
@@ -232,25 +203,23 @@
                         -0.39391690492630005,
                         -136.93247985839844
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.8199970722198486,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 116,
-                    "scale": [
-                        2.2599987983703613,
-                        2.2599987983703613,
-                        2.2599987983703613
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -142.04620361328125,
+                        -455.510986328125,
+                        133.69482421875
                     ],
+                    "height": 507.5216064453125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.4599995613098145,
+                        1.4599995613098145,
+                        1.4599995613098145
                     ],
                     "weight": [
                         1,
@@ -259,14 +228,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        152.25091552734375,
-                        -353.3158264160156,
-                        317.31805419921875
-                    ],
-                    "height": 511.70147705078125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": 1.0599995851516724,
+                    "op": "BO_Add",
                     "transform": [
                         1.302522897720337,
                         -1.71317720413208,
@@ -281,25 +252,23 @@
                         1.4380114078521729,
                         325.5898132324219
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.0599995851516724,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 116,
-                    "scale": [
-                        2.2599987983703613,
-                        2.2599987983703613,
-                        2.2599987983703613
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        152.25091552734375,
+                        -353.3158264160156,
+                        317.31805419921875
                     ],
+                    "height": 511.70147705078125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.2599987983703613,
+                        2.2599987983703613,
+                        2.2599987983703613
                     ],
                     "weight": [
                         1,
@@ -308,14 +277,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        152.25091552734375,
-                        -353.3158264160156,
-                        317.31805419921875
-                    ],
-                    "height": 511.70147705078125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": 1.0599995851516724,
+                    "op": "BO_Add",
                     "transform": [
                         1.302522897720337,
                         -1.71317720413208,
@@ -330,25 +301,23 @@
                         -1.4380114078521729,
                         -325.58978271484375
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.0599995851516724,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 117,
-                    "scale": [
-                        1,
-                        1,
-                        1
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        152.25091552734375,
+                        -353.3158264160156,
+                        317.31805419921875
                     ],
+                    "height": 511.70147705078125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.2599987983703613,
+                        2.2599987983703613,
+                        2.2599987983703613
                     ],
                     "weight": [
                         1,
@@ -357,14 +326,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -490.0829772949219,
-                        -68.64605712890625,
-                        -20.931968688964844
-                    ],
-                    "height": 495.30975341796875,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         -0.022204995155334473,
                         -0.14318051934242249,
@@ -379,22 +350,20 @@
                         -0.04226028919219971,
                         -20.931934356689453
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 117,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -490.0829772949219,
+                        -68.64605712890625,
+                        -20.931968688964844
+                    ],
+                    "height": 495.30975341796875,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -406,14 +375,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -490.0829772949219,
-                        -68.64605712890625,
-                        -20.931968688964844
-                    ],
-                    "height": 495.30975341796875,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         -0.022204995155334473,
                         -0.14318051934242249,
@@ -428,22 +399,20 @@
                         0.04226028919219971,
                         20.931934356689453
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 118,
-                    "scale": [
-                        1.059999942779541,
-                        1.059999942779541,
-                        1.059999942779541
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -490.0829772949219,
+                        -68.64605712890625,
+                        -20.931968688964844
                     ],
+                    "height": 495.30975341796875,
                     "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
                         1,
                         1,
                         1
@@ -455,14 +424,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -477.8509521484375,
-                        -127.32205200195312,
-                        -26.723609924316406
-                    ],
-                    "height": 495.2439880371094,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0.7799997925758362,
+                    "op": "BO_Add",
                     "transform": [
                         -0.1834857165813446,
                         -0.20944924652576447,
@@ -477,25 +448,23 @@
                         -0.057198066264390945,
                         -26.72358512878418
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.7799997925758362,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 118,
-                    "scale": [
-                        1.059999942779541,
-                        1.059999942779541,
-                        1.059999942779541
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -477.8509521484375,
+                        -127.32205200195312,
+                        -26.723609924316406
                     ],
+                    "height": 495.2439880371094,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.059999942779541,
+                        1.059999942779541,
+                        1.059999942779541
                     ],
                     "weight": [
                         1,
@@ -504,14 +473,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -477.8509521484375,
-                        -127.32205200195312,
-                        -26.723609924316406
-                    ],
-                    "height": 495.2439880371094,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0.7799997925758362,
+                    "op": "BO_Add",
                     "transform": [
                         -0.1834857165813446,
                         -0.20944924652576447,
@@ -526,25 +497,23 @@
                         0.057198066264390945,
                         26.72358512878418
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.7799997925758362,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 119,
-                    "scale": [
-                        1.2599997520446777,
-                        1.2599997520446777,
-                        1.2599997520446777
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -477.8509521484375,
+                        -127.32205200195312,
+                        -26.723609924316406
                     ],
+                    "height": 495.2439880371094,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.059999942779541,
+                        1.059999942779541,
+                        1.059999942779541
                     ],
                     "weight": [
                         1,
@@ -553,14 +522,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -456.564697265625,
-                        -188.9001922607422,
-                        -35.83296203613281
-                    ],
-                    "height": 495.3974304199219,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": -0.8999996781349182,
+                    "op": "BO_Add",
                     "transform": [
                         0.4400002062320709,
                         -0.21339891850948334,
@@ -575,25 +546,23 @@
                         -0.09113788604736328,
                         -35.83292007446289
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.8999996781349182,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 119,
-                    "scale": [
-                        1.2599997520446777,
-                        1.2599997520446777,
-                        1.2599997520446777
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -456.564697265625,
+                        -188.9001922607422,
+                        -35.83296203613281
                     ],
+                    "height": 495.3974304199219,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.2599997520446777,
+                        1.2599997520446777,
+                        1.2599997520446777
                     ],
                     "weight": [
                         1,
@@ -602,14 +571,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -456.564697265625,
-                        -188.9001922607422,
-                        -35.83296203613281
-                    ],
-                    "height": 495.3974304199219,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": -0.8999996781349182,
+                    "op": "BO_Add",
                     "transform": [
                         0.4400002062320709,
                         -0.21339891850948334,
@@ -624,25 +595,23 @@
                         0.09113788604736328,
                         35.83292007446289
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.8999996781349182,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 120,
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        1.7199993133544922
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -456.564697265625,
+                        -188.9001922607422,
+                        -35.83296203613281
                     ],
+                    "height": 495.3974304199219,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.2599997520446777,
+                        1.2599997520446777,
+                        1.2599997520446777
                     ],
                     "weight": [
                         1,
@@ -651,14 +620,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -413.61395263671875,
-                        -272.7283935546875,
-                        2.0900421142578125
-                    ],
-                    "height": 495.44085693359375,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": -1.6999989748001099,
+                    "op": "BO_Add",
                     "transform": [
                         0.712755024433136,
                         0.6232964396476746,
@@ -673,25 +644,23 @@
                         0.007255746517330408,
                         2.0899970531463623
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.6999989748001099,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 120,
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        1.7199993133544922
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -413.61395263671875,
+                        -272.7283935546875,
+                        2.0900421142578125
                     ],
+                    "height": 495.44085693359375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7199993133544922,
+                        1.7199993133544922,
+                        1.7199993133544922
                     ],
                     "weight": [
                         1,
@@ -700,14 +669,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -413.61395263671875,
-                        -272.7283935546875,
-                        2.0900421142578125
-                    ],
-                    "height": 495.44085693359375,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": -1.6999989748001099,
+                    "op": "BO_Add",
                     "transform": [
                         0.712755024433136,
                         0.6232964396476746,
@@ -722,25 +693,23 @@
                         -0.007255746517330408,
                         -2.0899970531463623
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.6999989748001099,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 122,
-                    "scale": [
-                        1,
-                        1,
-                        1
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -413.61395263671875,
+                        -272.7283935546875,
+                        2.0900421142578125
                     ],
+                    "height": 495.44085693359375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7199993133544922,
+                        1.7199993133544922,
+                        1.7199993133544922
                     ],
                     "weight": [
                         1,
@@ -749,14 +718,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        226.30450439453125,
-                        -154.07940673828125,
-                        -416.7098388671875
-                    ],
-                    "height": 496.59930419921875,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_t2_medium_long.json",
+                    "rotation": -1.9499987363815308,
+                    "op": "BO_Add",
                     "transform": [
                         -0.6991900205612183,
                         -0.5523820519447327,
@@ -771,22 +742,20 @@
                         -0.8357610702514648,
                         -415.0383605957031
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.9499987363815308,
-                    "spec": "/pa/terrain/ice/brushes/ice_t2_medium_long.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 122,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        226.30450439453125,
+                        -154.07940673828125,
+                        -416.7098388671875
+                    ],
+                    "height": 496.59930419921875,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -798,14 +767,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        226.30450439453125,
-                        -154.07940673828125,
-                        -416.7098388671875
-                    ],
-                    "height": 496.59930419921875,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_t2_medium_long.json",
+                    "rotation": -1.9499987363815308,
+                    "op": "BO_Add",
                     "transform": [
                         -0.6991900205612183,
                         -0.5523820519447327,
@@ -820,22 +791,20 @@
                         0.8357610702514648,
                         415.03839111328125
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.9499987363815308,
-                    "spec": "/pa/terrain/ice/brushes/ice_t2_medium_long.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 127,
-                    "scale": [
-                        1.3399996757507324,
-                        1.3399996757507324,
-                        1.3399996757507324
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        226.30450439453125,
+                        -154.07940673828125,
+                        -416.7098388671875
                     ],
+                    "height": 496.59930419921875,
                     "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
                         1,
                         1,
                         1
@@ -847,14 +816,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -367.6666259765625,
-                        -323.602783203125,
-                        74.47198486328125
-                    ],
-                    "height": 495.4226379394531,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.6984315514564514,
                         -0.5646779537200928,
@@ -869,25 +840,23 @@
                         0.20142866671085358,
                         74.4719009399414
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 127,
-                    "scale": [
-                        1.3399996757507324,
-                        1.3399996757507324,
-                        1.3399996757507324
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -367.6666259765625,
+                        -323.602783203125,
+                        74.47198486328125
                     ],
+                    "height": 495.4226379394531,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3399996757507324,
+                        1.3399996757507324,
+                        1.3399996757507324
                     ],
                     "weight": [
                         1,
@@ -896,14 +865,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -367.6666259765625,
-                        -323.602783203125,
-                        74.47198486328125
-                    ],
-                    "height": 495.4226379394531,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.6984315514564514,
                         -0.5646779537200928,
@@ -918,25 +889,23 @@
                         -0.20142866671085358,
                         -74.4719009399414
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 128,
-                    "scale": [
-                        1.3399996757507324,
-                        1.3399996757507324,
-                        1.3399996757507324
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -367.6666259765625,
+                        -323.602783203125,
+                        74.47198486328125
                     ],
+                    "height": 495.4226379394531,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3399996757507324,
+                        1.3399996757507324,
+                        1.3399996757507324
                     ],
                     "weight": [
                         1,
@@ -945,14 +914,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -307.25970458984375,
-                        -371.20947265625,
-                        115.3461685180664
-                    ],
-                    "height": 495.4893798828125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 1.2399994134902954,
+                    "op": "BO_Add",
                     "transform": [
                         -0.17812961339950562,
                         -1.0360442399978638,
@@ -967,25 +938,23 @@
                         0.31194162368774414,
                         115.34612274169922
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.2399994134902954,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 128,
-                    "scale": [
-                        1.3399996757507324,
-                        1.3399996757507324,
-                        1.3399996757507324
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -307.25970458984375,
+                        -371.20947265625,
+                        115.3461685180664
                     ],
+                    "height": 495.4893798828125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3399996757507324,
+                        1.3399996757507324,
+                        1.3399996757507324
                     ],
                     "weight": [
                         1,
@@ -994,14 +963,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -307.25970458984375,
-                        -371.20947265625,
-                        115.3461685180664
-                    ],
-                    "height": 495.4893798828125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 1.2399994134902954,
+                    "op": "BO_Add",
                     "transform": [
                         -0.17812961339950562,
                         -1.0360442399978638,
@@ -1016,25 +987,23 @@
                         -0.31194162368774414,
                         -115.34612274169922
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.2399994134902954,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 129,
-                    "scale": [
-                        1.4399995803833008,
-                        1.4399995803833008,
-                        1.4399995803833008
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -307.25970458984375,
+                        -371.20947265625,
+                        115.3461685180664
                     ],
+                    "height": 495.4893798828125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3399996757507324,
+                        1.3399996757507324,
+                        1.3399996757507324
                     ],
                     "weight": [
                         1,
@@ -1043,14 +1012,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -230.3026123046875,
-                        -423.9561767578125,
-                        112.18207550048828
-                    ],
-                    "height": 495.34124755859375,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": -0.5899999737739563,
+                    "op": "BO_Add",
                     "transform": [
                         1.2455999851226807,
                         0.2717287242412567,
@@ -1065,25 +1036,23 @@
                         0.3261229693889618,
                         112.18208312988281
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.5899999737739563,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 129,
-                    "scale": [
-                        1.4399995803833008,
-                        1.4399995803833008,
-                        1.4399995803833008
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -230.3026123046875,
+                        -423.9561767578125,
+                        112.18207550048828
                     ],
+                    "height": 495.34124755859375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.4399995803833008,
+                        1.4399995803833008,
+                        1.4399995803833008
                     ],
                     "weight": [
                         1,
@@ -1092,14 +1061,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -230.3026123046875,
-                        -423.9561767578125,
-                        112.18207550048828
-                    ],
-                    "height": 495.34124755859375,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": -0.5899999737739563,
+                    "op": "BO_Add",
                     "transform": [
                         1.2455999851226807,
                         0.2717287242412567,
@@ -1114,25 +1085,23 @@
                         -0.3261229693889618,
                         -112.18208312988281
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.5899999737739563,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 130,
-                    "scale": [
-                        1.7999992370605469,
-                        1.7999992370605469,
-                        1.7999992370605469
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -230.3026123046875,
+                        -423.9561767578125,
+                        112.18207550048828
                     ],
+                    "height": 495.34124755859375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.4399995803833008,
+                        1.4399995803833008,
+                        1.4399995803833008
                     ],
                     "weight": [
                         1,
@@ -1141,14 +1110,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        133.2514190673828,
-                        -276.0809326171875,
-                        392.48931884765625
-                    ],
-                    "height": 512.0205688476562,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": -0.7199998497962952,
+                    "op": "BO_Add",
                     "transform": [
                         1.2006163597106934,
                         1.2516261339187622,
@@ -1163,25 +1134,23 @@
                         1.4185770750045776,
                         403.5227355957031
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.7199998497962952,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 130,
-                    "scale": [
-                        1.7999992370605469,
-                        1.7999992370605469,
-                        1.7999992370605469
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        133.2514190673828,
+                        -276.0809326171875,
+                        392.48931884765625
                     ],
+                    "height": 512.0205688476562,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7999992370605469,
+                        1.7999992370605469,
+                        1.7999992370605469
                     ],
                     "weight": [
                         1,
@@ -1190,14 +1159,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        133.2514190673828,
-                        -276.0809326171875,
-                        392.48931884765625
-                    ],
-                    "height": 512.0205688476562,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": -0.7199998497962952,
+                    "op": "BO_Add",
                     "transform": [
                         1.2006163597106934,
                         1.2516261339187622,
@@ -1212,25 +1183,23 @@
                         -1.4185770750045776,
                         -403.5227355957031
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.7199998497962952,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 132,
-                    "scale": [
-                        1.5899994373321533,
-                        1.5899994373321533,
-                        1.5899994373321533
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        133.2514190673828,
+                        -276.0809326171875,
+                        392.48931884765625
                     ],
+                    "height": 512.0205688476562,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7999992370605469,
+                        1.7999992370605469,
+                        1.7999992370605469
                     ],
                     "weight": [
                         1,
@@ -1239,14 +1208,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        78.83390045166016,
-                        -203.10125732421875,
-                        447.57098388671875
-                    ],
-                    "height": 504.77978515625,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": 1.4499989748001099,
+                    "op": "BO_Add",
                     "transform": [
                         0.24277570843696594,
                         -1.5510480403900146,
@@ -1261,25 +1232,23 @@
                         1.4296233654022217,
                         453.86492919921875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.4499989748001099,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 132,
-                    "scale": [
-                        1.5899994373321533,
-                        1.5899994373321533,
-                        1.5899994373321533
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        78.83390045166016,
+                        -203.10125732421875,
+                        447.57098388671875
                     ],
+                    "height": 504.77978515625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.5899994373321533,
+                        1.5899994373321533,
+                        1.5899994373321533
                     ],
                     "weight": [
                         1,
@@ -1288,14 +1257,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        78.83390045166016,
-                        -203.10125732421875,
-                        447.57098388671875
-                    ],
-                    "height": 504.77978515625,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": 1.4499989748001099,
+                    "op": "BO_Add",
                     "transform": [
                         0.24277570843696594,
                         -1.5510480403900146,
@@ -1310,25 +1281,23 @@
                         -1.4296233654022217,
                         -453.86492919921875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.4499989748001099,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 133,
-                    "scale": [
-                        1.5299994945526123,
-                        1.5299994945526123,
-                        1.5299994945526123
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        78.83390045166016,
+                        -203.10125732421875,
+                        447.57098388671875
                     ],
+                    "height": 504.77978515625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.5899994373321533,
+                        1.5899994373321533,
+                        1.5899994373321533
                     ],
                     "weight": [
                         1,
@@ -1337,14 +1306,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        55.17658996582031,
-                        -154.7353057861328,
-                        469.17535400390625
-                    ],
-                    "height": 511.1046142578125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "rotation": 0.7499995827674866,
+                    "op": "BO_Add",
                     "transform": [
                         1.1309255361557007,
                         -1.0163984298706055,
@@ -1359,25 +1330,23 @@
                         1.4440382719039917,
                         482.3887939453125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.7499995827674866,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 133,
-                    "scale": [
-                        1.5299994945526123,
-                        1.5299994945526123,
-                        1.5299994945526123
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        55.17658996582031,
+                        -154.7353057861328,
+                        469.17535400390625
                     ],
+                    "height": 511.1046142578125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.5299994945526123,
+                        1.5299994945526123,
+                        1.5299994945526123
                     ],
                     "weight": [
                         1,
@@ -1386,14 +1355,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        55.17658996582031,
-                        -154.7353057861328,
-                        469.17535400390625
-                    ],
-                    "height": 511.1046142578125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "rotation": 0.7499995827674866,
+                    "op": "BO_Add",
                     "transform": [
                         1.1309255361557007,
                         -1.0163984298706055,
@@ -1408,25 +1379,23 @@
                         -1.4440382719039917,
                         -482.3887939453125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.7499995827674866,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 134,
-                    "scale": [
-                        2.3199987411499023,
-                        2.3199987411499023,
-                        2.3199987411499023
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        55.17658996582031,
+                        -154.7353057861328,
+                        469.17535400390625
                     ],
+                    "height": 511.1046142578125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.5299994945526123,
+                        1.5299994945526123,
+                        1.5299994945526123
                     ],
                     "weight": [
                         1,
@@ -1435,14 +1404,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        36.157127380371094,
-                        -99.59049987792969,
-                        485.6949768066406
-                    ],
-                    "height": 504.1169128417969,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "rotation": 0.45999982953071594,
+                    "op": "BO_Add",
                     "transform": [
                         2.080869436264038,
                         -1.0118809938430786,
@@ -1457,25 +1428,23 @@
                         2.266693592071533,
                         492.5341491699219
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.45999982953071594,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 134,
-                    "scale": [
-                        2.3199987411499023,
-                        2.3199987411499023,
-                        2.3199987411499023
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        36.157127380371094,
+                        -99.59049987792969,
+                        485.6949768066406
                     ],
+                    "height": 504.1169128417969,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.3199987411499023,
+                        2.3199987411499023,
+                        2.3199987411499023
                     ],
                     "weight": [
                         1,
@@ -1484,14 +1453,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        36.157127380371094,
-                        -99.59049987792969,
-                        485.6949768066406
-                    ],
-                    "height": 504.1169128417969,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "rotation": 0.45999982953071594,
+                    "op": "BO_Add",
                     "transform": [
                         2.080869436264038,
                         -1.0118809938430786,
@@ -1506,25 +1477,23 @@
                         -2.266693592071533,
                         -492.5341491699219
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.45999982953071594,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 139,
-                    "scale": [
-                        0.7200002670288086,
-                        0.7200002670288086,
-                        0.7200002670288086
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        36.157127380371094,
+                        -99.59049987792969,
+                        485.6949768066406
                     ],
+                    "height": 504.1169128417969,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.3199987411499023,
+                        2.3199987411499023,
+                        2.3199987411499023
                     ],
                     "weight": [
                         1,
@@ -1533,14 +1502,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        467.39337158203125,
-                        -66.86139678955078,
-                        149.93919372558594
-                    ],
-                    "height": 495.38751220703125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_bend.json",
+                    "rotation": 0.8799996972084045,
+                    "op": "BO_Add",
                     "transform": [
                         0.19951164722442627,
                         -0.1308773159980774,
@@ -1555,25 +1526,23 @@
                         0.21792295575141907,
                         149.93927001953125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.8799996972084045,
-                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_bend.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 139,
-                    "scale": [
-                        0.7200002670288086,
-                        0.7200002670288086,
-                        0.7200002670288086
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        467.39337158203125,
+                        -66.86139678955078,
+                        149.93919372558594
                     ],
+                    "height": 495.38751220703125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.7200002670288086,
+                        0.7200002670288086,
+                        0.7200002670288086
                     ],
                     "weight": [
                         1,
@@ -1582,14 +1551,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        467.39337158203125,
-                        -66.86139678955078,
-                        149.93919372558594
-                    ],
-                    "height": 495.38751220703125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_bend.json",
+                    "rotation": 0.8799996972084045,
+                    "op": "BO_Add",
                     "transform": [
                         0.19951164722442627,
                         -0.1308773159980774,
@@ -1604,25 +1575,23 @@
                         -0.21792295575141907,
                         -149.9392547607422
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.8799996972084045,
-                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_bend.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 143,
-                    "scale": [
-                        2.5699985027313232,
-                        2.5699985027313232,
-                        2.5699985027313232
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        467.39337158203125,
+                        -66.86139678955078,
+                        149.93919372558594
                     ],
+                    "height": 495.38751220703125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.7200002670288086,
+                        0.7200002670288086,
+                        0.7200002670288086
                     ],
                     "weight": [
                         1,
@@ -1631,14 +1600,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        463.2864990234375,
-                        -175.35415649414062,
-                        8.840736389160156
-                    ],
-                    "height": 495.4408264160156,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.3621606230735779,
                         0.8356676697731018,
@@ -1653,25 +1624,23 @@
                         0.04586002603173256,
                         8.84083366394043
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 143,
-                    "scale": [
-                        2.5699985027313232,
-                        2.5699985027313232,
-                        2.5699985027313232
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        463.2864990234375,
+                        -175.35415649414062,
+                        8.840736389160156
                     ],
+                    "height": 495.4408264160156,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.5699985027313232,
+                        2.5699985027313232,
+                        2.5699985027313232
                     ],
                     "weight": [
                         1,
@@ -1680,14 +1649,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        463.2864990234375,
-                        -175.35415649414062,
-                        8.840736389160156
-                    ],
-                    "height": 495.4408264160156,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.3621606230735779,
                         0.8356676697731018,
@@ -1702,25 +1673,23 @@
                         -0.04586002603173256,
                         -8.840832710266113
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 144,
-                    "scale": [
-                        1.1999998092651367,
-                        1.1999998092651367,
-                        1.1999998092651367
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        463.2864990234375,
+                        -175.35415649414062,
+                        8.840736389160156
                     ],
+                    "height": 495.4408264160156,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.5699985027313232,
+                        2.5699985027313232,
+                        2.5699985027313232
                     ],
                     "weight": [
                         1,
@@ -1729,14 +1698,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -468.7825927734375,
-                        159.9429931640625,
-                        14.58349609375
-                    ],
-                    "height": 495.5315856933594,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.15675878524780273,
                         0.3559413254261017,
@@ -1751,25 +1722,23 @@
                         0.03531588986515999,
                         14.583451271057129
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 144,
-                    "scale": [
-                        1.1999998092651367,
-                        1.1999998092651367,
-                        1.1999998092651367
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -468.7825927734375,
+                        159.9429931640625,
+                        14.58349609375
                     ],
+                    "height": 495.5315856933594,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.1999998092651367,
+                        1.1999998092651367,
+                        1.1999998092651367
                     ],
                     "weight": [
                         1,
@@ -1778,14 +1747,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -468.7825927734375,
-                        159.9429931640625,
-                        14.58349609375
-                    ],
-                    "height": 495.5315856933594,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.15675878524780273,
                         0.3559413254261017,
@@ -1800,25 +1771,23 @@
                         -0.03531588986515999,
                         -14.583451271057129
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 146,
-                    "scale": [
-                        2.229998826980591,
-                        2.229998826980591,
-                        2.229998826980591
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -468.7825927734375,
+                        159.9429931640625,
+                        14.58349609375
                     ],
+                    "height": 495.5315856933594,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.1999998092651367,
+                        1.1999998092651367,
+                        1.1999998092651367
                     ],
                     "weight": [
                         1,
@@ -1827,14 +1796,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        245.4315185546875,
-                        -346.3494567871094,
-                        263.28546142578125
-                    ],
-                    "height": 499.5135803222656,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": 2.5399982929229736,
+                    "op": "BO_Add",
                     "transform": [
                         -1.266278624534607,
                         -1.472717523574829,
@@ -1849,25 +1820,23 @@
                         1.1753958463668823,
                         263.28546142578125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 2.5399982929229736,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 146,
-                    "scale": [
-                        2.229998826980591,
-                        2.229998826980591,
-                        2.229998826980591
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        245.4315185546875,
+                        -346.3494567871094,
+                        263.28546142578125
                     ],
+                    "height": 499.5135803222656,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.229998826980591,
+                        2.229998826980591,
+                        2.229998826980591
                     ],
                     "weight": [
                         1,
@@ -1876,14 +1845,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        245.4315185546875,
-                        -346.3494567871094,
-                        263.28546142578125
-                    ],
-                    "height": 499.5135803222656,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": 2.5399982929229736,
+                    "op": "BO_Add",
                     "transform": [
                         -1.266278624534607,
                         -1.472717523574829,
@@ -1898,25 +1869,23 @@
                         -1.1753958463668823,
                         -263.28546142578125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 2.5399982929229736,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 147,
-                    "scale": [
-                        2.4199986457824707,
-                        2.4199986457824707,
-                        2.4199986457824707
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        245.4315185546875,
+                        -346.3494567871094,
+                        263.28546142578125
                     ],
+                    "height": 499.5135803222656,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.229998826980591,
+                        2.229998826980591,
+                        2.229998826980591
                     ],
                     "weight": [
                         1,
@@ -1925,14 +1894,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        283.18963623046875,
-                        -321.2125244140625,
-                        262.58746337890625
-                    ],
-                    "height": 502.3206481933594,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         1.9148961305618286,
                         0.5729208588600159,
@@ -1947,25 +1918,23 @@
                         1.2650511264801025,
                         262.58746337890625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 147,
-                    "scale": [
-                        2.4199986457824707,
-                        2.4199986457824707,
-                        2.4199986457824707
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        283.18963623046875,
+                        -321.2125244140625,
+                        262.58746337890625
                     ],
+                    "height": 502.3206481933594,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.4199986457824707,
+                        2.4199986457824707,
+                        2.4199986457824707
                     ],
                     "weight": [
                         1,
@@ -1974,14 +1943,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        283.18963623046875,
-                        -321.2125244140625,
-                        262.58746337890625
-                    ],
-                    "height": 502.3206481933594,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         1.9148961305618286,
                         0.5729208588600159,
@@ -1996,25 +1967,23 @@
                         -1.2650511264801025,
                         -262.58746337890625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 149,
-                    "scale": [
-                        1.97999906539917,
-                        1.97999906539917,
-                        1.97999906539917
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        283.18963623046875,
+                        -321.2125244140625,
+                        262.58746337890625
                     ],
+                    "height": 502.3206481933594,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.4199986457824707,
+                        2.4199986457824707,
+                        2.4199986457824707
                     ],
                     "weight": [
                         1,
@@ -2023,14 +1992,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        434.8067932128906,
-                        -157.98757934570312,
-                        193.2989959716797
-                    ],
-                    "height": 501.379638671875,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": -0.21999996900558472,
+                    "op": "BO_Add",
                     "transform": [
                         0.7982100248336792,
                         0.5786513686180115,
@@ -2045,25 +2016,23 @@
                         0.7633571624755859,
                         193.2989501953125
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.21999996900558472,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 149,
-                    "scale": [
-                        1.97999906539917,
-                        1.97999906539917,
-                        1.97999906539917
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        434.8067932128906,
+                        -157.98757934570312,
+                        193.2989959716797
                     ],
+                    "height": 501.379638671875,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.97999906539917,
+                        1.97999906539917,
+                        1.97999906539917
                     ],
                     "weight": [
                         1,
@@ -2072,14 +2041,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        434.8067932128906,
-                        -157.98757934570312,
-                        193.2989959716797
-                    ],
-                    "height": 501.379638671875,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": -0.21999996900558472,
+                    "op": "BO_Add",
                     "transform": [
                         0.7982100248336792,
                         0.5786513686180115,
@@ -2094,25 +2065,23 @@
                         -0.7633571624755859,
                         -193.2989501953125
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.21999996900558472,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 150,
-                    "scale": [
-                        2.4799985885620117,
-                        2.4799985885620117,
-                        2.4799985885620117
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        434.8067932128906,
+                        -157.98757934570312,
+                        193.2989959716797
                     ],
+                    "height": 501.379638671875,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.97999906539917,
+                        1.97999906539917,
+                        1.97999906539917
                     ],
                     "weight": [
                         1,
@@ -2121,14 +2090,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        417.2623291015625,
-                        -132.3788299560547,
-                        244.74200439453125
-                    ],
-                    "height": 501.5283203125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         1.3263378143310547,
                         0.36600542068481445,
@@ -2143,25 +2114,23 @@
                         1.210220456123352,
                         244.74200439453125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 150,
-                    "scale": [
-                        2.4799985885620117,
-                        2.4799985885620117,
-                        2.4799985885620117
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        417.2623291015625,
+                        -132.3788299560547,
+                        244.74200439453125
                     ],
+                    "height": 501.5283203125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.4799985885620117,
+                        2.4799985885620117,
+                        2.4799985885620117
                     ],
                     "weight": [
                         1,
@@ -2170,14 +2139,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        417.2623291015625,
-                        -132.3788299560547,
-                        244.74200439453125
-                    ],
-                    "height": 501.5283203125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         1.3263378143310547,
                         0.36600542068481445,
@@ -2192,25 +2163,23 @@
                         -1.210220456123352,
                         -244.74200439453125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 151,
-                    "scale": [
-                        2.269998788833618,
-                        2.269998788833618,
-                        2.269998788833618
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        417.2623291015625,
+                        -132.3788299560547,
+                        244.74200439453125
                     ],
+                    "height": 501.5283203125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.4799985885620117,
+                        2.4799985885620117,
+                        2.4799985885620117
                     ],
                     "weight": [
                         1,
@@ -2219,14 +2188,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -251.75531005859375,
-                        341.21484375,
-                        256.218017578125
-                    ],
-                    "height": 518.4351806640625,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json",
+                    "rotation": -0.9199994206428528,
+                    "op": "BO_Add",
                     "transform": [
                         0.7245506048202515,
                         1.8158632516860962,
@@ -2241,25 +2212,23 @@
                         1.1739469766616821,
                         268.1126708984375
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.9199994206428528,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 151,
-                    "scale": [
-                        2.269998788833618,
-                        2.269998788833618,
-                        2.269998788833618
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -251.75531005859375,
+                        341.21484375,
+                        256.218017578125
                     ],
+                    "height": 518.4351806640625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.269998788833618,
+                        2.269998788833618,
+                        2.269998788833618
                     ],
                     "weight": [
                         1,
@@ -2268,14 +2237,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -251.75531005859375,
-                        341.21484375,
-                        256.218017578125
-                    ],
-                    "height": 518.4351806640625,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json",
+                    "rotation": -0.9199994206428528,
+                    "op": "BO_Add",
                     "transform": [
                         0.7245506048202515,
                         1.8158632516860962,
@@ -2290,25 +2261,23 @@
                         -1.1739469766616821,
                         -268.1126708984375
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.9199994206428528,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 155,
-                    "scale": [
-                        1.0699999332427979,
-                        1.0699999332427979,
-                        1.0799999237060547
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -251.75531005859375,
+                        341.21484375,
+                        256.218017578125
                     ],
+                    "height": 518.4351806640625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.269998788833618,
+                        2.269998788833618,
+                        2.269998788833618
                     ],
                     "weight": [
                         1,
@@ -2317,14 +2286,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -341.241943359375,
-                        325.593994140625,
-                        -151.5389404296875
-                    ],
-                    "height": 483.400390625,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_wide_ramp.json",
+                    "rotation": 1.8899987936019897,
+                    "op": "BO_Add",
                     "transform": [
                         0.5563814640045166,
                         -0.5404763221740723,
@@ -2339,25 +2310,23 @@
                         -0.33036279678344727,
                         -147.86807250976562
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.8899987936019897,
-                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_wide_ramp.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 155,
-                    "scale": [
-                        1.0699999332427979,
-                        1.0699999332427979,
-                        1.0799999237060547
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -341.241943359375,
+                        325.593994140625,
+                        -151.5389404296875
                     ],
+                    "height": 483.400390625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.0699999332427979,
+                        1.0699999332427979,
+                        1.0799999237060547
                     ],
                     "weight": [
                         1,
@@ -2366,14 +2335,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -341.241943359375,
-                        325.593994140625,
-                        -151.5389404296875
-                    ],
-                    "height": 483.400390625,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_wide_ramp.json",
+                    "rotation": 1.8899987936019897,
+                    "op": "BO_Add",
                     "transform": [
                         0.5563814640045166,
                         -0.5404763221740723,
@@ -2388,25 +2359,23 @@
                         0.33036279678344727,
                         147.86807250976562
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.8899987936019897,
-                    "spec": "/pa/terrain/ice/brushes/ice_metal_t2_medium_wide_ramp.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 156,
-                    "scale": [
-                        1.059999942779541,
-                        1.059999942779541,
-                        1.059999942779541
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -341.241943359375,
+                        325.593994140625,
+                        -151.5389404296875
                     ],
+                    "height": 483.400390625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.0699999332427979,
+                        1.0699999332427979,
+                        1.0799999237060547
                     ],
                     "weight": [
                         1,
@@ -2415,14 +2384,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        155.02621459960938,
-                        417.39739990234375,
-                        222.2207794189453
-                    ],
-                    "height": 497.63018798828125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_metal_t3_small_3_ramp.json",
+                    "rotation": 1.9799987077713013,
+                    "op": "BO_Add",
                     "transform": [
                         -0.5691211223602295,
                         -0.8310567140579224,
@@ -2437,25 +2408,23 @@
                         0.4733516573905945,
                         222.2208251953125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.9799987077713013,
-                    "spec": "/pa/terrain/ice/brushes/ice_metal_t3_small_3_ramp.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 156,
-                    "scale": [
-                        1.059999942779541,
-                        1.059999942779541,
-                        1.059999942779541
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        155.02621459960938,
+                        417.39739990234375,
+                        222.2207794189453
                     ],
+                    "height": 497.63018798828125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.059999942779541,
+                        1.059999942779541,
+                        1.059999942779541
                     ],
                     "weight": [
                         1,
@@ -2464,14 +2433,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        155.02621459960938,
-                        417.39739990234375,
-                        222.2207794189453
-                    ],
-                    "height": 497.63018798828125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_metal_t3_small_3_ramp.json",
+                    "rotation": 1.9799987077713013,
+                    "op": "BO_Add",
                     "transform": [
                         -0.5691211223602295,
                         -0.8310567140579224,
@@ -2486,25 +2457,23 @@
                         -0.4733516573905945,
                         -222.2208251953125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.9799987077713013,
-                    "spec": "/pa/terrain/ice/brushes/ice_metal_t3_small_3_ramp.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": true,
-                    "twinId": 159,
-                    "scale": [
-                        1.3999996185302734,
-                        1.3999996185302734,
-                        1.3999996185302734
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        155.02621459960938,
+                        417.39739990234375,
+                        222.2207794189453
                     ],
+                    "height": 497.63018798828125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.059999942779541,
+                        1.059999942779541,
+                        1.059999942779541
                     ],
                     "weight": [
                         1,
@@ -2513,14 +2482,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        13.974752426147461,
-                        508.008056640625,
-                        -55.00440979003906
-                    ],
-                    "height": 511.1682434082031,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_crack_02.json",
+                    "rotation": 3.3299975395202637,
+                    "op": "BO_Subtract",
                     "transform": [
                         -1.3660905361175537,
                         0.30385956168174744,
@@ -2535,25 +2506,23 @@
                         -0.15064726769924164,
                         -55.004371643066406
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 3.3299975395202637,
-                    "spec": "/pa/terrain/ice/brushes/ice_crack_02.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": true,
-                    "twinId": 159,
-                    "scale": [
-                        1.3999996185302734,
-                        1.3999996185302734,
-                        1.3999996185302734
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        13.974752426147461,
+                        508.008056640625,
+                        -55.00440979003906
                     ],
+                    "height": 511.1682434082031,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3999996185302734,
+                        1.3999996185302734,
+                        1.3999996185302734
                     ],
                     "weight": [
                         1,
@@ -2562,14 +2531,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        13.974752426147461,
-                        508.008056640625,
-                        -55.00440979003906
-                    ],
-                    "height": 511.1682434082031,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": true,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_crack_02.json",
+                    "rotation": 3.3299975395202637,
+                    "op": "BO_Subtract",
                     "transform": [
                         -1.3660905361175537,
                         0.30385956168174744,
@@ -2584,25 +2555,23 @@
                         0.15064726769924164,
                         55.00437545776367
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 3.3299975395202637,
-                    "spec": "/pa/terrain/ice/brushes/ice_crack_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 161,
-                    "scale": [
-                        1,
-                        1,
-                        1.1699998378753662
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        13.974752426147461,
+                        508.008056640625,
+                        -55.00440979003906
                     ],
+                    "height": 511.1682434082031,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.3999996185302734,
+                        1.3999996185302734,
+                        1.3999996185302734
                     ],
                     "weight": [
                         1,
@@ -2611,14 +2580,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -206.47463989257812,
-                        -48.580116271972656,
-                        449.0609130859375
-                    ],
-                    "height": 496.6361999511719,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": true,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_t2_small_2_ramp.json",
+                    "rotation": -0.46999984979629517,
+                    "op": "BO_Add",
                     "transform": [
                         0.8203126788139343,
                         0.39273661375045776,
@@ -2633,25 +2604,23 @@
                         1.0579196214675903,
                         449.0609130859375
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.46999984979629517,
-                    "spec": "/pa/terrain/ice/brushes/ice_t2_small_2_ramp.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 161,
-                    "scale": [
-                        1,
-                        1,
-                        1.1699998378753662
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -206.47463989257812,
+                        -48.580116271972656,
+                        449.0609130859375
                     ],
+                    "height": 496.6361999511719,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1.1699998378753662
                     ],
                     "weight": [
                         1,
@@ -2660,14 +2629,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -206.47463989257812,
-                        -48.580116271972656,
-                        449.0609130859375
-                    ],
-                    "height": 496.6361999511719,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_t2_small_2_ramp.json",
+                    "rotation": -0.46999984979629517,
+                    "op": "BO_Add",
                     "transform": [
                         0.8203126788139343,
                         0.39273661375045776,
@@ -2682,25 +2653,23 @@
                         -1.0579196214675903,
                         -449.0609130859375
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.46999984979629517,
-                    "spec": "/pa/terrain/ice/brushes/ice_t2_small_2_ramp.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 164,
-                    "scale": [
-                        2.099998950958252,
-                        2.099998950958252,
-                        2.099998950958252
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -206.47463989257812,
+                        -48.580116271972656,
+                        449.0609130859375
                     ],
+                    "height": 496.6361999511719,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1.1699998378753662
                     ],
                     "weight": [
                         1,
@@ -2709,14 +2678,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        461.5223388671875,
-                        86.94107055664062,
-                        171.83692932128906
-                    ],
-                    "height": 500.0895690917969,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": 1.1599994897842407,
+                    "op": "BO_Add",
                     "transform": [
                         0.07712008059024811,
                         -0.8050010204315186,
@@ -2731,25 +2702,23 @@
                         0.7215855121612549,
                         171.83692932128906
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.1599994897842407,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 164,
-                    "scale": [
-                        2.099998950958252,
-                        2.099998950958252,
-                        2.099998950958252
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        461.5223388671875,
+                        86.94107055664062,
+                        171.83692932128906
                     ],
+                    "height": 500.0895690917969,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.099998950958252,
+                        2.099998950958252,
+                        2.099998950958252
                     ],
                     "weight": [
                         1,
@@ -2758,14 +2727,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        461.5223388671875,
-                        86.94107055664062,
-                        171.83692932128906
-                    ],
-                    "height": 500.0895690917969,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": 1.1599994897842407,
+                    "op": "BO_Add",
                     "transform": [
                         0.07712008059024811,
                         -0.8050010204315186,
@@ -2780,25 +2751,23 @@
                         -0.7215855121612549,
                         -171.83694458007812
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.1599994897842407,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 166,
-                    "scale": [
-                        1.7399992942810059,
-                        1.7399992942810059,
-                        1.7399992942810059
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        461.5223388671875,
+                        86.94107055664062,
+                        171.83692932128906
                     ],
+                    "height": 500.0895690917969,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.099998950958252,
+                        2.099998950958252,
+                        2.099998950958252
                     ],
                     "weight": [
                         1,
@@ -2807,14 +2776,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -487.396728515625,
-                        -58.84682846069336,
-                        -78.00364685058594
-                    ],
-                    "height": 497.09466552734375,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         -0.244115948677063,
                         -0.23955614864826202,
@@ -2829,25 +2800,23 @@
                         -0.27303916215896606,
                         -78.003662109375
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 166,
-                    "scale": [
-                        1.7399992942810059,
-                        1.7399992942810059,
-                        1.7399992942810059
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -487.396728515625,
+                        -58.84682846069336,
+                        -78.00364685058594
                     ],
+                    "height": 497.09466552734375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7399992942810059,
+                        1.7399992942810059,
+                        1.7399992942810059
                     ],
                     "weight": [
                         1,
@@ -2856,14 +2825,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -487.396728515625,
-                        -58.84682846069336,
-                        -78.00364685058594
-                    ],
-                    "height": 497.09466552734375,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         -0.244115948677063,
                         -0.23955614864826202,
@@ -2878,25 +2849,23 @@
                         0.27303916215896606,
                         78.00366973876953
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 168,
-                    "scale": [
-                        1.1499994993209839,
-                        1.1499994993209839,
-                        1.1499994993209839
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -487.396728515625,
+                        -58.84682846069336,
+                        -78.00364685058594
                     ],
+                    "height": 497.09466552734375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7399992942810059,
+                        1.7399992942810059,
+                        1.7399992942810059
                     ],
                     "weight": [
                         1,
@@ -2905,14 +2874,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        384.6796875,
-                        243.73971557617188,
-                        215.39340209960938
-                    ],
-                    "height": 503.76763916015625,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
+                    "rotation": 2.1799983978271484,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.6333467364311218,
                         -0.38759592175483704,
@@ -2927,25 +2898,23 @@
                         0.4916993975639343,
                         215.39337158203125
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.1799983978271484,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_03.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 168,
-                    "scale": [
-                        1.1499994993209839,
-                        1.1499994993209839,
-                        1.1499994993209839
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        384.6796875,
+                        243.73971557617188,
+                        215.39340209960938
                     ],
+                    "height": 503.76763916015625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.1499994993209839,
+                        1.1499994993209839,
+                        1.1499994993209839
                     ],
                     "weight": [
                         1,
@@ -2954,14 +2923,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        384.6796875,
-                        243.73971557617188,
-                        215.39340209960938
-                    ],
-                    "height": 503.76763916015625,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
+                    "rotation": 2.1799983978271484,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.6333467364311218,
                         -0.38759592175483704,
@@ -2976,25 +2947,23 @@
                         -0.4916993975639343,
                         -215.3933868408203
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.1799983978271484,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_03.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 169,
-                    "scale": [
-                        0.6699999570846558,
-                        0.6699999570846558,
-                        0.6699999570846558
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        384.6796875,
+                        243.73971557617188,
+                        215.39340209960938
                     ],
+                    "height": 503.76763916015625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.1499994993209839,
+                        1.1499994993209839,
+                        1.1499994993209839
                     ],
                     "weight": [
                         1,
@@ -3003,14 +2972,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        248.48825073242188,
-                        408.1964416503906,
-                        138.00869750976562
-                    ],
-                    "height": 497.4104309082031,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
+                    "rotation": -2.3499984741210938,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.22585825622081757,
                         0.5346575379371643,
@@ -3025,25 +2996,23 @@
                         0.1858944147825241,
                         138.00869750976562
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": -2.3499984741210938,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 169,
-                    "scale": [
-                        0.6699999570846558,
-                        0.6699999570846558,
-                        0.6699999570846558
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        248.48825073242188,
+                        408.1964416503906,
+                        138.00869750976562
                     ],
+                    "height": 497.4104309082031,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.6699999570846558,
+                        0.6699999570846558,
+                        0.6699999570846558
                     ],
                     "weight": [
                         1,
@@ -3052,14 +3021,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        248.48825073242188,
-                        408.1964416503906,
-                        138.00869750976562
-                    ],
-                    "height": 497.4104309082031,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
+                    "rotation": -2.3499984741210938,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.22585825622081757,
                         0.5346575379371643,
@@ -3074,25 +3045,23 @@
                         -0.1858944147825241,
                         -138.00869750976562
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": -2.3499984741210938,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 171,
-                    "scale": [
-                        0.4000002145767212,
-                        0.4000002145767212,
-                        0.4000002145767212
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        248.48825073242188,
+                        408.1964416503906,
+                        138.00869750976562
                     ],
+                    "height": 497.4104309082031,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.6699999570846558,
+                        0.6699999570846558,
+                        0.6699999570846558
                     ],
                     "weight": [
                         1,
@@ -3101,14 +3070,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        462.4684143066406,
-                        151.97317504882812,
-                        -124.28620147705078
-                    ],
-                    "height": 502.41412353515625,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
+                    "rotation": 2.569998025894165,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.037731148302555084,
                         0.1516818106174469,
@@ -3123,25 +3094,23 @@
                         -0.0989512950181961,
                         -124.2862548828125
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.569998025894165,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 171,
-                    "scale": [
-                        0.4000002145767212,
-                        0.4000002145767212,
-                        0.4000002145767212
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        462.4684143066406,
+                        151.97317504882812,
+                        -124.28620147705078
                     ],
+                    "height": 502.41412353515625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.4000002145767212,
+                        0.4000002145767212,
+                        0.4000002145767212
                     ],
                     "weight": [
                         1,
@@ -3150,14 +3119,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        462.4684143066406,
-                        151.97317504882812,
-                        -124.28620147705078
-                    ],
-                    "height": 502.41412353515625,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
+                    "rotation": 2.569998025894165,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.037731148302555084,
                         0.1516818106174469,
@@ -3172,25 +3143,23 @@
                         0.0989512950181961,
                         124.28626251220703
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.569998025894165,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 173,
-                    "scale": [
-                        2.099998950958252,
-                        2.099998950958252,
-                        2.099998950958252
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        462.4684143066406,
+                        151.97317504882812,
+                        -124.28620147705078
                     ],
+                    "height": 502.41412353515625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.4000002145767212,
+                        0.4000002145767212,
+                        0.4000002145767212
                     ],
                     "weight": [
                         1,
@@ -3199,14 +3168,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        286.6575927734375,
-                        350.518798828125,
-                        205.390869140625
-                    ],
-                    "height": 497.2136535644531,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": -0.8999996781349182,
+                    "op": "BO_Add",
                     "transform": [
                         1.471462607383728,
                         0.882597804069519,
@@ -3221,25 +3192,23 @@
                         0.8674752712249756,
                         205.39083862304688
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.8999996781349182,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 173,
-                    "scale": [
-                        2.099998950958252,
-                        2.099998950958252,
-                        2.099998950958252
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        286.6575927734375,
+                        350.518798828125,
+                        205.390869140625
                     ],
+                    "height": 497.2136535644531,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.099998950958252,
+                        2.099998950958252,
+                        2.099998950958252
                     ],
                     "weight": [
                         1,
@@ -3248,14 +3217,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        286.6575927734375,
-                        350.518798828125,
-                        205.390869140625
-                    ],
-                    "height": 497.2136535644531,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
+                    "rotation": -0.8999996781349182,
+                    "op": "BO_Add",
                     "transform": [
                         1.471462607383728,
                         0.882597804069519,
@@ -3270,25 +3241,23 @@
                         -0.8674752712249756,
                         -205.3908233642578
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.8999996781349182,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 174,
-                    "scale": [
-                        2.0799989700317383,
-                        2.0799989700317383,
-                        2.0799989700317383
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        286.6575927734375,
+                        350.518798828125,
+                        205.390869140625
                     ],
+                    "height": 497.2136535644531,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.099998950958252,
+                        2.099998950958252,
+                        2.099998950958252
                     ],
                     "weight": [
                         1,
@@ -3297,14 +3266,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        442.61285400390625,
-                        173.3307342529297,
-                        164.01727294921875
-                    ],
-                    "height": 502.84326171875,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "rotation": -1.8399988412857056,
+                    "op": "BO_Add",
                     "transform": [
                         0.22873033583164215,
                         0.9602290391921997,
@@ -3319,25 +3290,23 @@
                         0.6784535050392151,
                         164.0172882080078
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.8399988412857056,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 174,
-                    "scale": [
-                        2.0799989700317383,
-                        2.0799989700317383,
-                        2.0799989700317383
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        442.61285400390625,
+                        173.3307342529297,
+                        164.01727294921875
                     ],
+                    "height": 502.84326171875,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.0799989700317383,
+                        2.0799989700317383,
+                        2.0799989700317383
                     ],
                     "weight": [
                         1,
@@ -3346,14 +3315,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        442.61285400390625,
-                        173.3307342529297,
-                        164.01727294921875
-                    ],
-                    "height": 502.84326171875,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "rotation": -1.8399988412857056,
+                    "op": "BO_Add",
                     "transform": [
                         0.22873033583164215,
                         0.9602290391921997,
@@ -3368,123 +3339,23 @@
                         -0.6784535050392151,
                         -164.0172882080078
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.8399988412857056,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 175,
-                    "scale": [
-                        1.0699999332427979,
-                        1.0699999332427979,
-                        1.0699999332427979
-                    ],
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "weightHard": false,
-                    "position": [
-                        -1.7260284423828125,
-                        252.96160888671875,
-                        440.07415771484375
-                    ],
-                    "height": 513.6000366210938,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
-                    "transform": [
-                        -0.8815893530845642,
-                        -0.6063717603683472,
-                        -0.0036383969709277153,
-                        -1.74643075466156,
-                        0.5242184400558472,
-                        -0.7653481960296631,
-                        0.5332326889038086,
-                        255.95172119140625,
-                        -0.3047868311405182,
-                        0.43755605816841125,
-                        0.9276580810546875,
-                        445.27593994140625
-                    ],
-                    "op": "BO_Add",
-                    "rotation": 2.5399980545043945,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 175,
-                    "scale": [
-                        1.0699999332427979,
-                        1.0699999332427979,
-                        1.0699999332427979
-                    ],
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "weightHard": false,
-                    "position": [
-                        -1.7260284423828125,
-                        252.96160888671875,
-                        440.07415771484375
-                    ],
-                    "height": 513.6000366210938,
                     "mirrored": true,
                     "proj": "BP_Bend",
-                    "transform": [
-                        -0.8815893530845642,
-                        -0.6063717603683472,
-                        -0.0036383969709277153,
-                        -1.74643075466156,
-                        0.5242184400558472,
-                        -0.7653481960296631,
-                        0.5332326889038086,
-                        255.95172119140625,
-                        0.3047868311405182,
-                        -0.43755605816841125,
-                        -0.9276580810546875,
-                        -445.2759094238281
+                    "position": [
+                        442.61285400390625,
+                        173.3307342529297,
+                        164.01727294921875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 2.5399980545043945,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 178,
-                    "scale": [
-                        1,
-                        1,
-                        1
-                    ],
+                    "height": 502.84326171875,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        2.0799989700317383,
+                        2.0799989700317383,
+                        2.0799989700317383
                     ],
                     "weight": [
                         1,
@@ -3493,14 +3364,114 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -131.670654296875,
-                        346.97314453125,
-                        337.0648498535156
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "rotation": 1.5499989986419678,
+                    "op": "BO_Add",
+                    "transform": [
+                        0.047568026930093765,
+                        -1.0608030557632446,
+                        -0.13165894150733948,
+                        -62.538326263427734,
+                        0.9932604432106018,
+                        -0.004842832684516907,
+                        0.39788204431533813,
+                        188.99496459960938,
+                        -0.3950580358505249,
+                        -0.13990475237369537,
+                        0.9845077991485596,
+                        467.6436767578125
                     ],
-                    "height": 501.33843994140625,
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "position": [
+                        -62.538330078125,
+                        188.9949951171875,
+                        467.6436767578125
+                    ],
+                    "height": 508.2526550292969,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
+                        1.0699999332427979,
+                        1.0699999332427979,
+                        1.0699999332427979
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "weightHard": false,
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
+                    "rotation": 1.5499989986419678,
+                    "op": "BO_Add",
+                    "transform": [
+                        0.047568026930093765,
+                        -1.0608030557632446,
+                        -0.13165894150733948,
+                        -62.538326263427734,
+                        0.9932604432106018,
+                        -0.004842832684516907,
+                        0.39788204431533813,
+                        188.9949493408203,
+                        0.3950580358505249,
+                        0.13990475237369537,
+                        -0.9845077991485596,
+                        -467.6436767578125
+                    ],
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -62.538330078125,
+                        188.9949951171875,
+                        467.6436767578125
+                    ],
+                    "height": 508.2526550292969,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
+                        1.0699999332427979,
+                        1.0699999332427979,
+                        1.0699999332427979
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "weightHard": false,
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.9587528705596924,
                         0.10869283229112625,
@@ -3515,22 +3486,20 @@
                         0.6723299026489258,
                         337.0648193359375
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 178,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -131.670654296875,
+                        346.97314453125,
+                        337.0648498535156
+                    ],
+                    "height": 501.33843994140625,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -3542,14 +3511,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -131.670654296875,
-                        346.97314453125,
-                        337.0648498535156
-                    ],
-                    "height": 501.33843994140625,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.9587528705596924,
                         0.10869283229112625,
@@ -3564,22 +3535,20 @@
                         -0.6723299026489258,
                         -337.0648193359375
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 181,
-                    "scale": [
-                        1.5799994468688965,
-                        1.5799994468688965,
-                        1.5799994468688965
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -131.670654296875,
+                        346.97314453125,
+                        337.0648498535156
                     ],
+                    "height": 501.33843994140625,
                     "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
                         1,
                         1,
                         1
@@ -3591,14 +3560,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        497.11785888671875,
-                        45.777793884277344,
-                        6.820625305175781
-                    ],
-                    "height": 499.26776123046875,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "rotation": -1.5899990797042847,
+                    "op": "BO_Add",
                     "transform": [
                         0.14160974323749542,
                         0.03741522133350372,
@@ -3613,25 +3584,23 @@
                         0.021585073322057724,
                         6.820718765258789
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.5899990797042847,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 181,
-                    "scale": [
-                        1.5799994468688965,
-                        1.5799994468688965,
-                        1.5799994468688965
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        497.11785888671875,
+                        45.777793884277344,
+                        6.820625305175781
                     ],
+                    "height": 499.26776123046875,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.5799994468688965,
+                        1.5799994468688965,
+                        1.5799994468688965
                     ],
                     "weight": [
                         1,
@@ -3640,14 +3609,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        497.11785888671875,
-                        45.777793884277344,
-                        6.820625305175781
-                    ],
-                    "height": 499.26776123046875,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "rotation": -1.5899990797042847,
+                    "op": "BO_Add",
                     "transform": [
                         0.14160974323749542,
                         0.03741522133350372,
@@ -3662,25 +3633,23 @@
                         -0.021585073322057724,
                         -6.820718288421631
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.5899990797042847,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 188,
-                    "scale": [
-                        1,
-                        1,
-                        1
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        497.11785888671875,
+                        45.777793884277344,
+                        6.820625305175781
                     ],
+                    "height": 499.26776123046875,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.5799994468688965,
+                        1.5799994468688965,
+                        1.5799994468688965
                     ],
                     "weight": [
                         1,
@@ -3689,14 +3658,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -483.92974853515625,
-                        -57.93999481201172,
-                        113.00859069824219
-                    ],
-                    "height": 500.3158874511719,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.2368144989013672,
                         -0.09137475490570068,
@@ -3711,22 +3682,20 @@
                         0.22587436437606812,
                         113.00852966308594
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 188,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -483.92974853515625,
+                        -57.93999481201172,
+                        113.00859069824219
+                    ],
+                    "height": 500.3158874511719,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -3738,14 +3707,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -483.92974853515625,
-                        -57.93999481201172,
-                        113.00859069824219
-                    ],
-                    "height": 500.3158874511719,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.2368144989013672,
                         -0.09137475490570068,
@@ -3760,22 +3731,20 @@
                         -0.22587436437606812,
                         -113.00853729248047
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        0.7200002670288086,
-                        0.7200002670288086,
-                        0.7200002670288086
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -483.92974853515625,
+                        -57.93999481201172,
+                        113.00859069824219
                     ],
+                    "height": 500.3158874511719,
                     "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
                         1,
                         1,
                         1
@@ -3787,14 +3756,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        143.82354736328125,
-                        -473.97943115234375,
-                        -1.920806884765625
-                    ],
-                    "height": 495.32354736328125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.6590602993965149,
                         0.2008313685655594,
@@ -3809,25 +3780,23 @@
                         -0.0027919874992221594,
                         -1.9207453727722168
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 193,
-                    "scale": [
-                        1.2199997901916504,
-                        1.2199997901916504,
-                        1.2199997901916504
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        143.82354736328125,
+                        -473.97943115234375,
+                        -1.920806884765625
                     ],
+                    "height": 495.32354736328125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.7200002670288086,
+                        0.7200002670288086,
+                        0.7200002670288086
                     ],
                     "weight": [
                         1,
@@ -3836,14 +3805,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -389.30047607421875,
-                        -182.10226440429688,
-                        256.7847900390625
-                    ],
-                    "height": 500.65411376953125,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.7324216365814209,
                         -0.22807341814041138,
@@ -3858,25 +3829,23 @@
                         0.6257362961769104,
                         256.78485107421875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 193,
-                    "scale": [
-                        1.2199997901916504,
-                        1.2199997901916504,
-                        1.2199997901916504
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -389.30047607421875,
+                        -182.10226440429688,
+                        256.7847900390625
                     ],
+                    "height": 500.65411376953125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.2199997901916504,
+                        1.2199997901916504,
+                        1.2199997901916504
                     ],
                     "weight": [
                         1,
@@ -3885,14 +3854,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -389.30047607421875,
-                        -182.10226440429688,
-                        256.7847900390625
-                    ],
-                    "height": 500.65411376953125,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.7324216365814209,
                         -0.22807341814041138,
@@ -3907,25 +3878,23 @@
                         -0.6257362961769104,
                         -256.78485107421875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 194,
-                    "scale": [
-                        0.940000057220459,
-                        0.940000057220459,
-                        0.940000057220459
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -389.30047607421875,
+                        -182.10226440429688,
+                        256.7847900390625
                     ],
+                    "height": 500.65411376953125,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.2199997901916504,
+                        1.2199997901916504,
+                        1.2199997901916504
                     ],
                     "weight": [
                         1,
@@ -3934,14 +3903,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -362.16241455078125,
-                        -205.9389190673828,
-                        288.7985534667969
-                    ],
-                    "height": 506.9290466308594,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": -0.14999999105930328,
+                    "op": "BO_Add",
                     "transform": [
                         0.6532008051872253,
                         -0.0770554468035698,
@@ -3956,25 +3927,23 @@
                         0.535520076751709,
                         288.7985534667969
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.14999999105930328,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 194,
-                    "scale": [
-                        0.940000057220459,
-                        0.940000057220459,
-                        0.940000057220459
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -362.16241455078125,
+                        -205.9389190673828,
+                        288.7985534667969
                     ],
+                    "height": 506.9290466308594,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.940000057220459,
+                        0.940000057220459,
+                        0.940000057220459
                     ],
                     "weight": [
                         1,
@@ -3983,14 +3952,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -362.16241455078125,
-                        -205.9389190673828,
-                        288.7985534667969
-                    ],
-                    "height": 506.9290466308594,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
+                    "rotation": -0.14999999105930328,
+                    "op": "BO_Add",
                     "transform": [
                         0.6532008051872253,
                         -0.0770554468035698,
@@ -4005,25 +3976,23 @@
                         -0.535520076751709,
                         -288.7985534667969
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.14999999105930328,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 195,
-                    "scale": [
-                        1,
-                        1,
-                        1
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -362.16241455078125,
+                        -205.9389190673828,
+                        288.7985534667969
                     ],
+                    "height": 506.9290466308594,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.940000057220459,
+                        0.940000057220459,
+                        0.940000057220459
                     ],
                     "weight": [
                         1,
@@ -4032,14 +4001,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -450.489990234375,
-                        -140.65553283691406,
-                        150.3495330810547
-                    ],
-                    "height": 495.3081970214844,
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "rotation": -3.5699973106384277,
+                    "op": "BO_Add",
                     "transform": [
                         -0.4146985709667206,
                         0.028431594371795654,
@@ -4054,22 +4025,20 @@
                         0.30354735255241394,
                         150.34950256347656
                     ],
-                    "op": "BO_Add",
-                    "rotation": -3.5699973106384277,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 195,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -450.489990234375,
+                        -140.65553283691406,
+                        150.3495330810547
+                    ],
+                    "height": 495.3081970214844,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -4081,14 +4050,16 @@
                         1
                     ],
                     "weightHard": false,
-                    "position": [
-                        -450.489990234375,
-                        -140.65553283691406,
-                        150.3495330810547
-                    ],
-                    "height": 495.3081970214844,
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
+                    "rotation": -3.5699973106384277,
+                    "op": "BO_Add",
                     "transform": [
                         -0.4146985709667206,
                         0.028431594371795654,
@@ -4103,9 +4074,36 @@
                         -0.30354735255241394,
                         -150.34950256347656
                     ],
-                    "op": "BO_Add",
-                    "rotation": -3.5699973106384277,
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json"
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -450.489990234375,
+                        -140.65553283691406,
+                        150.3495330810547
+                    ],
+                    "height": 495.3081970214844,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "weight": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "weightHard": false,
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
                 }
             ],
             "metal_spots": [
@@ -4285,46 +4283,6 @@
                     -74.0505142211914
                 ],
                 [
-                    -50.99549865722656,
-                    182.9035186767578,
-                    -470.40814208984375
-                ],
-                [
-                    -50.99549865722656,
-                    182.9035186767578,
-                    470.40814208984375
-                ],
-                [
-                    -82.06537628173828,
-                    149.88409423828125,
-                    -478.1939697265625
-                ],
-                [
-                    -82.06537628173828,
-                    149.88409423828125,
-                    478.1939697265625
-                ],
-                [
-                    -5.186506271362305,
-                    185.73110961914062,
-                    -469.17718505859375
-                ],
-                [
-                    -5.186506271362305,
-                    185.73110961914062,
-                    469.17718505859375
-                ],
-                [
-                    30.941940307617188,
-                    159.367919921875,
-                    -475.6688232421875
-                ],
-                [
-                    30.941940307617188,
-                    159.367919921875,
-                    475.6688232421875
-                ],
-                [
                     -307.80279541015625,
                     -367.6011047363281,
                     0.0368804931640625
@@ -4375,56 +4333,6 @@
                     -445.49505615234375
                 ],
                 [
-                    187.23745727539062,
-                    156.90927124023438,
-                    432.271240234375
-                ],
-                [
-                    187.23745727539062,
-                    156.90927124023438,
-                    -432.271240234375
-                ],
-                [
-                    146.4110107421875,
-                    221.48529052734375,
-                    426.060791015625
-                ],
-                [
-                    146.4110107421875,
-                    221.48529052734375,
-                    -426.060791015625
-                ],
-                [
-                    -317.2750244140625,
-                    61.186004638671875,
-                    381.98486328125
-                ],
-                [
-                    -317.2750244140625,
-                    61.186004638671875,
-                    -381.98486328125
-                ],
-                [
-                    329.40106201171875,
-                    210.4493865966797,
-                    318.9873352050781
-                ],
-                [
-                    329.40106201171875,
-                    210.4493865966797,
-                    -318.9873352050781
-                ],
-                [
-                    -265.122314453125,
-                    165.30856323242188,
-                    392.332275390625
-                ],
-                [
-                    -265.122314453125,
-                    165.30856323242188,
-                    -392.332275390625
-                ],
-                [
                     -353.31884765625,
                     153.2796173095703,
                     325.57513427734375
@@ -4433,6 +4341,156 @@
                     -353.31884765625,
                     153.2796173095703,
                     -325.57513427734375
+                ],
+                [
+                    -208.96743774414062,
+                    156.38018798828125,
+                    433.3546142578125
+                ],
+                [
+                    -208.96743774414062,
+                    156.38018798828125,
+                    -433.3546142578125
+                ],
+                [
+                    -155.81155395507812,
+                    164.9552001953125,
+                    456.3203125
+                ],
+                [
+                    -155.81155395507812,
+                    164.9552001953125,
+                    -456.3203125
+                ],
+                [
+                    -155.734130859375,
+                    222.74942016601562,
+                    432.090087890625
+                ],
+                [
+                    -155.734130859375,
+                    222.74942016601562,
+                    -432.090087890625
+                ],
+                [
+                    -211.47491455078125,
+                    214.92767333984375,
+                    405.1688232421875
+                ],
+                [
+                    -211.47491455078125,
+                    214.92767333984375,
+                    -405.1688232421875
+                ],
+                [
+                    33.86286926269531,
+                    157.7757568359375,
+                    -475.9945068359375
+                ],
+                [
+                    33.86286926269531,
+                    157.7757568359375,
+                    475.9945068359375
+                ],
+                [
+                    26.805633544921875,
+                    224.6402587890625,
+                    -451.8521728515625
+                ],
+                [
+                    26.805633544921875,
+                    224.6402587890625,
+                    451.8521728515625
+                ],
+                [
+                    89.76884460449219,
+                    226.74053955078125,
+                    -440.955078125
+                ],
+                [
+                    89.76884460449219,
+                    226.74053955078125,
+                    440.955078125
+                ],
+                [
+                    98.58055877685547,
+                    161.81195068359375,
+                    -464.7005615234375
+                ],
+                [
+                    98.58055877685547,
+                    161.81195068359375,
+                    464.7005615234375
+                ],
+                [
+                    36.79443359375,
+                    89.826171875,
+                    -491.645263671875
+                ],
+                [
+                    36.79443359375,
+                    89.826171875,
+                    491.645263671875
+                ],
+                [
+                    148.6441650390625,
+                    253.72991943359375,
+                    -407.8658447265625
+                ],
+                [
+                    148.6441650390625,
+                    253.72991943359375,
+                    407.8658447265625
+                ],
+                [
+                    -152.48907470703125,
+                    301.27294921875,
+                    -371.0235595703125
+                ],
+                [
+                    -152.48907470703125,
+                    301.27294921875,
+                    371.0235595703125
+                ],
+                [
+                    -462.41748046875,
+                    88.50894165039062,
+                    -193.6020965576172
+                ],
+                [
+                    -462.41748046875,
+                    88.50894165039062,
+                    193.6020965576172
+                ],
+                [
+                    -436.8209228515625,
+                    45.268768310546875,
+                    -259.82818603515625
+                ],
+                [
+                    -436.8209228515625,
+                    45.268768310546875,
+                    259.82818603515625
+                ],
+                [
+                    480.3216552734375,
+                    -66.90928649902344,
+                    -157.6785125732422
+                ],
+                [
+                    480.3216552734375,
+                    -66.90928649902344,
+                    157.6785125732422
+                ],
+                [
+                    97.98342895507812,
+                    -435.7313232421875,
+                    -174.23504638671875
+                ],
+                [
+                    97.98342895507812,
+                    -435.7313232421875,
+                    174.23504638671875
                 ]
             ],
             "landing_zones": {
@@ -4456,24 +4514,24 @@
                 ],
                 "list": [
                     [
-                        85.06632995605469,
-                        153.24359130859375,
-                        470.884033203125
+                        -244.67376708984375,
+                        202.554931640625,
+                        390.79150390625
                     ],
                     [
-                        -143.50534057617188,
-                        143.64056396484375,
-                        466.436279296875
+                        97.74494934082031,
+                        184.24346923828125,
+                        457.62890625
                     ],
                     [
-                        -143.50534057617188,
-                        143.64056396484375,
-                        -466.436279296875
+                        -244.67376708984375,
+                        202.554931640625,
+                        -390.79150390625
                     ],
                     [
-                        85.06632995605469,
-                        153.24359130859375,
-                        -470.884033203125
+                        97.74494934082031,
+                        184.24346923828125,
+                        -457.62890625
                     ]
                 ]
             }
