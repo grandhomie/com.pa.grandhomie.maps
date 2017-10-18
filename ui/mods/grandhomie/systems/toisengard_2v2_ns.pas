@@ -8,10 +8,10 @@
         {
             "name": "TheHobbits",
             "mass": 20000,
-            "position_x": 64700,
-            "position_y": -14600,
-            "velocity_x": 19.111896514892578,
-            "velocity_y": 84.69451904296875,
+            "position_x": 64900,
+            "position_y": -14800,
+            "velocity_x": 19.269330978393555,
+            "velocity_y": 84.49864196777344,
             "required_thrust_to_move": 0,
             "starting_planet": true,
             "respawn": false,
@@ -56,8 +56,8 @@
                         0.7672744393348694,
                         587.76220703125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 721.4099731445312,
                     "position": [
                         -376.9789733886719,
@@ -74,17 +74,17 @@
                         0.9417403936386108,
                         0.9417403936386108
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 1,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 1,
                     "mergeable": false
                 },
                 {
@@ -105,8 +105,8 @@
                         0.8894963264465332,
                         635.9695434570312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 708.0977783203125,
                     "position": [
                         -69.7103271484375,
@@ -123,17 +123,17 @@
                         0.9903782606124878,
                         0.9903782606124878
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 7,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 7,
                     "mergeable": false
                 },
                 {
@@ -154,8 +154,8 @@
                         0.5342710614204407,
                         447.6393737792969
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 714.233642578125,
                     "position": [
                         -109.92478942871094,
@@ -172,17 +172,17 @@
                         0.8524593710899353,
                         0.8524593710899353
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 10,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 10,
                     "mergeable": false
                 },
                 {
@@ -203,8 +203,8 @@
                         0.8720834255218506,
                         597.133056640625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 698.9043579101562,
                     "position": [
                         -210.95135498046875,
@@ -221,17 +221,17 @@
                         1.020715355873108,
                         1.020715355873108
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 15,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 15,
                     "mergeable": false
                 },
                 {
@@ -252,8 +252,8 @@
                         0.6355010271072388,
                         431.2419128417969
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 721.9415893554688,
                     "position": [
                         -247.24517822265625,
@@ -270,17 +270,17 @@
                         1.0638915300369263,
                         1.0638915300369263
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 25,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 25,
                     "mergeable": false
                 },
                 {
@@ -301,8 +301,8 @@
                         0.660726010799408,
                         591.6670532226562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 723.5011596679688,
                     "position": [
                         397.5162658691406,
@@ -319,17 +319,17 @@
                         0.8079476952552795,
                         0.8079476952552795
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 28,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 28,
                     "mergeable": false
                 },
                 {
@@ -350,8 +350,8 @@
                         0.3755601942539215,
                         267.2845458984375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 726.5164794921875,
                     "position": [
                         -545.6915283203125,
@@ -368,17 +368,17 @@
                         1.020824670791626,
                         1.020824670791626
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 34,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 34,
                     "mergeable": false
                 },
                 {
@@ -399,8 +399,8 @@
                         0.27905744314193726,
                         223.67745971679688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 746.46533203125,
                     "position": [
                         -571.709716796875,
@@ -417,17 +417,17 @@
                         0.9312816858291626,
                         0.9312816858291626
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 41,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 41,
                     "mergeable": false
                 },
                 {
@@ -448,8 +448,8 @@
                         0.7304654121398926,
                         583.2596435546875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 723.009765625,
                     "position": [
                         -374.9949035644531,
@@ -466,17 +466,17 @@
                         0.9054863452911377,
                         0.9054863452911377
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 42,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 42,
                     "mergeable": false
                 },
                 {
@@ -497,8 +497,8 @@
                         0.6515253782272339,
                         496.4805908203125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 728.9195556640625,
                     "position": [
                         -496.4808044433594,
@@ -515,17 +515,17 @@
                         0.9565522074699402,
                         0.9565522074699402
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 69,
+                    "weightHard": false,
+                    "no_features": true,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": true,
+                    "twinId": 69,
                     "mergeable": false
                 },
                 {
@@ -546,8 +546,8 @@
                         0.1692240834236145,
                         101.32333374023438
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 659.1216430664062,
                     "position": [
                         -646.6690063476562,
@@ -564,17 +564,17 @@
                         1.1008249521255493,
                         1.1008249521255493
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 101,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 101,
                     "mergeable": false
                 },
                 {
@@ -595,8 +595,8 @@
                         0.35610267519950867,
                         210.7930908203125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 648.8072509765625,
                     "position": [
                         -38.401641845703125,
@@ -613,17 +613,17 @@
                         1.0960606336593628,
                         1.0960606336593628
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 102,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 102,
                     "mergeable": false
                 },
                 {
@@ -644,8 +644,8 @@
                         0.6742173433303833,
                         356.5807189941406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 667.208740234375,
                     "position": [
                         314.6091003417969,
@@ -662,17 +662,17 @@
                         1.2615480422973633,
                         1.2615480422973633
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 103,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 103,
                     "mergeable": false
                 },
                 {
@@ -693,8 +693,8 @@
                         1.0687671899795532,
                         648.5972290039062
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 688.7677001953125,
                     "position": [
                         -49.60496139526367,
@@ -711,17 +711,17 @@
                         1.134960651397705,
                         1.134960651397705
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 104,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 104,
                     "mergeable": false
                 },
                 {
@@ -742,8 +742,8 @@
                         0.5591342449188232,
                         346.87261962890625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 682.0336303710938,
                     "position": [
                         -556.5634155273438,
@@ -760,17 +760,17 @@
                         1.0993901491165161,
                         1.0993901491165161
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 105,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 105,
                     "mergeable": false
                 },
                 {
@@ -791,8 +791,8 @@
                         0.11117202788591385,
                         73.10723876953125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 672.5941162109375,
                     "position": [
                         -409.3642272949219,
@@ -809,17 +809,17 @@
                         1.0227941274642944,
                         1.0227941274642944
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 107,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 107,
                     "mergeable": false
                 },
                 {
@@ -840,8 +840,8 @@
                         0.7229520082473755,
                         645.1044921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 650.5453491210938,
                     "position": [
                         -82.93896484375,
@@ -858,17 +858,17 @@
                         0.7290494441986084,
                         0.7290494441986084
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 108,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 108,
                     "mergeable": false
                 },
                 {
@@ -889,8 +889,8 @@
                         0.04755855351686478,
                         34.69507598876953
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 652.3325805664062,
                     "position": [
                         -191.9657745361328,
@@ -907,17 +907,17 @@
                         0.8941900730133057,
                         0.8941900730133057
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 109,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 109,
                     "mergeable": false
                 },
                 {
@@ -938,8 +938,8 @@
                         0.5213766694068909,
                         274.6268005371094
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 663.9404296875,
                     "position": [
                         192.5305633544922,
@@ -956,17 +956,17 @@
                         1.2604854106903076,
                         1.2604854106903076
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 110,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 110,
                     "mergeable": false
                 },
                 {
@@ -987,8 +987,8 @@
                         0.20029281079769135,
                         125.14899444580078
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 662.0806274414062,
                     "position": [
                         -144.97314453125,
@@ -1005,17 +1005,17 @@
                         1.0596169233322144,
                         1.0596169233322144
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 111,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 111,
                     "mergeable": false
                 },
                 {
@@ -1036,8 +1036,8 @@
                         0.5716237425804138,
                         294.50103759765625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 664.20556640625,
                     "position": [
                         348.6737365722656,
@@ -1054,17 +1054,17 @@
                         1.2892167568206787,
                         1.2892167568206787
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 112,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 112,
                     "mergeable": false
                 },
                 {
@@ -1085,8 +1085,8 @@
                         0.799623966217041,
                         607.2117919921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 675.260986328125,
                     "position": [
                         277.55902099609375,
@@ -1103,17 +1103,17 @@
                         0.8892364501953125,
                         0.8892364501953125
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 113,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 113,
                     "mergeable": false
                 },
                 {
@@ -1134,8 +1134,8 @@
                         0.3721051514148712,
                         268.9238586425781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 629.7339477539062,
                     "position": [
                         -395.6944580078125,
@@ -1152,17 +1152,17 @@
                         0.8713516592979431,
                         0.8713516592979431
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 0,
                     "mergeable": false
                 },
                 {
@@ -1183,8 +1183,8 @@
                         0.9990174770355225,
                         560.677978515625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 672.8841552734375,
                     "position": [
                         -357.57965087890625,
@@ -1201,17 +1201,17 @@
                         1.1989467144012451,
                         1.1989467144012451
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 114,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 114,
                     "mergeable": false
                 },
                 {
@@ -1232,8 +1232,8 @@
                         -0.125174418091774,
                         -82.85523223876953
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 672.1461181640625,
                     "position": [
                         -538.587646484375,
@@ -1250,17 +1250,17 @@
                         1.0154517889022827,
                         1.0154517889022827
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 115,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 115,
                     "mergeable": false
                 },
                 {
@@ -1281,8 +1281,8 @@
                         -0.1576118767261505,
                         -91.18144226074219
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 676.938232421875,
                     "position": [
                         -557.421875,
@@ -1299,17 +1299,17 @@
                         1.1701229810714722,
                         1.1701229810714722
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 116,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 116,
                     "mergeable": false
                 },
                 {
@@ -1330,8 +1330,8 @@
                         0.5399438142776489,
                         314.6840515136719
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 670.8955688476562,
                     "position": [
                         -276.990478515625,
@@ -1348,17 +1348,17 @@
                         1.15114164352417,
                         1.15114164352417
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 117,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 117,
                     "mergeable": false
                 },
                 {
@@ -1379,8 +1379,8 @@
                         1.2077680826187134,
                         636.5216064453125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 673.839599609375,
                     "position": [
                         -136.38565063476562,
@@ -1397,17 +1397,17 @@
                         1.2785770893096924,
                         1.2785770893096924
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 118,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 118,
                     "mergeable": false
                 },
                 {
@@ -1428,8 +1428,8 @@
                         0.3973572850227356,
                         212.26783752441406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 648.0735473632812,
                     "position": [
                         -36.284149169921875,
@@ -1446,17 +1446,17 @@
                         1.2131690979003906,
                         1.2131690979003906
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 119,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 119,
                     "mergeable": false
                 },
                 {
@@ -1477,8 +1477,8 @@
                         -0.13858357071876526,
                         -111.03005981445312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 664.318359375,
                     "position": [
                         -499.1199035644531,
@@ -1495,17 +1495,17 @@
                         0.8291773796081543,
                         0.8291773796081543
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 120,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 120,
                     "mergeable": false
                 },
                 {
@@ -1526,8 +1526,8 @@
                         0.1982938051223755,
                         139.00509643554688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 661.2896118164062,
                     "position": [
                         -588.0248413085938,
@@ -1544,17 +1544,17 @@
                         0.9433441162109375,
                         0.9433441162109375
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 121,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 121,
                     "mergeable": false
                 },
                 {
@@ -1575,8 +1575,8 @@
                         0.9455081820487976,
                         576.9927978515625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 649.9092407226562,
                     "position": [
                         -88.124267578125,
@@ -1593,17 +1593,17 @@
                         1.0649950504302979,
                         1.0649950504302979
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 122,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 122,
                     "mergeable": false
                 },
                 {
@@ -1624,8 +1624,8 @@
                         0.31978335976600647,
                         286.4690246582031
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 665.4212646484375,
                     "position": [
                         199.04786682128906,
@@ -1642,17 +1642,17 @@
                         0.7428050637245178,
                         0.7428050637245178
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 123,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 123,
                     "mergeable": false
                 },
                 {
@@ -1673,8 +1673,8 @@
                         0.29919853806495667,
                         186.97592163085938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 681.4669189453125,
                     "position": [
                         -414.58465576171875,
@@ -1691,17 +1691,17 @@
                         1.090482234954834,
                         1.090482234954834
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 124,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 124,
                     "mergeable": false
                 },
                 {
@@ -1722,8 +1722,8 @@
                         1.0587046146392822,
                         607.7174072265625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 669.9628295898438,
                     "position": [
                         265.1612243652344,
@@ -1740,17 +1740,17 @@
                         1.167142391204834,
                         1.167142391204834
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 125,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 125,
                     "mergeable": false
                 },
                 {
@@ -1771,8 +1771,8 @@
                         0.1556248664855957,
                         80.55155181884766
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 645.7379760742188,
                     "position": [
                         -164.83033752441406,
@@ -1789,17 +1789,17 @@
                         1.247559905052185,
                         1.247559905052185
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 126,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 126,
                     "mergeable": false
                 },
                 {
@@ -1820,8 +1820,8 @@
                         -0.03127187490463257,
                         -18.35122299194336
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 642.8306274414062,
                     "position": [
                         -641.44189453125,
@@ -1838,17 +1838,17 @@
                         1.0954320430755615,
                         1.0954320430755615
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 127,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 127,
                     "mergeable": false
                 },
                 {
@@ -1869,8 +1869,8 @@
                         0.758695662021637,
                         418.488037109375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 665.6187744140625,
                     "position": [
                         -505.511962890625,
@@ -1887,17 +1887,17 @@
                         1.2067300081253052,
                         1.2067300081253052
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 128,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 128,
                     "mergeable": false
                 },
                 {
@@ -1918,8 +1918,8 @@
                         0.017808446660637856,
                         12.01933765411377
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 658.1751098632812,
                     "position": [
                         -13.318955421447754,
@@ -1936,17 +1936,17 @@
                         0.9751848578453064,
                         0.9751848578453064
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 0,
                     "mergeable": false
                 },
                 {
@@ -1967,8 +1967,8 @@
                         0.7735545635223389,
                         389.7815246582031
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 645.9933471679688,
                     "position": [
                         -354.2558898925781,
@@ -1985,17 +1985,17 @@
                         1.2820286750793457,
                         1.2820286750793457
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 129,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 129,
                     "mergeable": false
                 },
                 {
@@ -2016,8 +2016,8 @@
                         0.46478337049484253,
                         276.6654052734375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 664.3328857421875,
                     "position": [
                         199.00439453125,
@@ -2034,17 +2034,17 @@
                         1.116044521331787,
                         1.116044521331787
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 130,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 130,
                     "mergeable": false
                 },
                 {
@@ -2065,8 +2065,8 @@
                         0.3810209631919861,
                         211.34234619140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 649.9483642578125,
                     "position": [
                         -429.84686279296875,
@@ -2083,17 +2083,17 @@
                         1.1717668771743774,
                         1.1717668771743774
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 131,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 131,
                     "mergeable": false
                 },
                 {
@@ -2114,8 +2114,8 @@
                         0.8232658505439758,
                         560.3687744140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 675.6876831054688,
                     "position": [
                         233.9343719482422,
@@ -2132,17 +2132,17 @@
                         0.9926866292953491,
                         0.9926866292953491
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 132,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 132,
                     "mergeable": false
                 },
                 {
@@ -2163,8 +2163,8 @@
                         0.49226894974708557,
                         279.5198059082031
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 655.0951538085938,
                     "position": [
                         -528.568115234375,
@@ -2181,17 +2181,17 @@
                         1.1537035703659058,
                         1.1537035703659058
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 133,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 133,
                     "mergeable": false
                 },
                 {
@@ -2212,8 +2212,8 @@
                         0.14548200368881226,
                         96.78133392333984
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 653.635986328125,
                     "position": [
                         -640.1405029296875,
@@ -2230,17 +2230,17 @@
                         0.9825477004051208,
                         0.9825477004051208
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 134,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 134,
                     "mergeable": false
                 },
                 {
@@ -2261,8 +2261,8 @@
                         1.098892331123352,
                         650.3827514648438
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 699.1290893554688,
                     "position": [
                         -4.010957717895508,
@@ -2279,17 +2279,17 @@
                         1.1812546253204346,
                         1.1812546253204346
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 135,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 135,
                     "mergeable": false
                 },
                 {
@@ -2310,8 +2310,8 @@
                         0.7748963832855225,
                         577.5859375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 684.7001342773438,
                     "position": [
                         292.9985046386719,
@@ -2328,17 +2328,17 @@
                         0.9186020493507385,
                         0.9186020493507385
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 136,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 136,
                     "mergeable": false
                 },
                 {
@@ -2359,8 +2359,8 @@
                         0.7012040615081787,
                         371.78021240234375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 639.5052490234375,
                     "position": [
                         -346.83197021484375,
@@ -2377,17 +2377,17 @@
                         1.2061526775360107,
                         1.2061526775360107
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 137,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 137,
                     "mergeable": false
                 },
                 {
@@ -2408,8 +2408,8 @@
                         0.11161058396100998,
                         99.03246307373047
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 668.6333618164062,
                     "position": [
                         20.404632568359375,
@@ -2426,17 +2426,17 @@
                         0.7535565495491028,
                         0.7535565495491028
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 138,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 138,
                     "mergeable": false
                 },
                 {
@@ -2457,8 +2457,8 @@
                         0.8939217329025269,
                         660.0499267578125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 685.559814453125,
                     "position": [
                         -137.51707458496094,
@@ -2475,17 +2475,17 @@
                         0.9284703731536865,
                         0.9284703731536865
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 139,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 139,
                     "mergeable": false
                 },
                 {
@@ -2506,8 +2506,8 @@
                         0.17390605807304382,
                         117.0268325805664
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 675.0294189453125,
                     "position": [
                         -389.3544921875,
@@ -2524,17 +2524,17 @@
                         1.0031177997589111,
                         1.0031177997589111
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 140,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 140,
                     "mergeable": false
                 },
                 {
@@ -2555,8 +2555,8 @@
                         0.3068569600582123,
                         232.28829956054688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 653.9112548828125,
                     "position": [
                         -540.9571533203125,
@@ -2573,17 +2573,17 @@
                         0.8638284206390381,
                         0.8638284206390381
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 141,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 141,
                     "mergeable": false
                 },
                 {
@@ -2604,8 +2604,8 @@
                         0.4686519205570221,
                         311.2233581542969
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 667.2471923828125,
                     "position": [
                         430.7296142578125,
@@ -2622,17 +2622,17 @@
                         1.0047661066055298,
                         1.0047661066055298
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 142,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 142,
                     "mergeable": false
                 },
                 {
@@ -2653,8 +2653,8 @@
                         0.35744842886924744,
                         288.43609619140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 657.8484497070312,
                     "position": [
                         405.0543518066406,
@@ -2671,17 +2671,17 @@
                         0.8152477741241455,
                         0.8152477741241455
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 143,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 143,
                     "mergeable": false
                 },
                 {
@@ -2702,8 +2702,8 @@
                         1.1100897789001465,
                         586.0460815429688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 663.166015625,
                     "position": [
                         -179.95713806152344,
@@ -2720,17 +2720,17 @@
                         1.2561705112457275,
                         1.2561705112457275
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 144,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 144,
                     "mergeable": false
                 },
                 {
@@ -2751,8 +2751,8 @@
                         1.0204925537109375,
                         608.6488647460938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 678.1586303710938,
                     "position": [
                         287.0540771484375,
@@ -2769,17 +2769,17 @@
                         1.1370363235473633,
                         1.1370363235473633
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 145,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 145,
                     "mergeable": false
                 },
                 {
@@ -2800,8 +2800,8 @@
                         0.3733054995536804,
                         262.7105712890625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 651.9859619140625,
                     "position": [
                         -535.6868896484375,
@@ -2818,17 +2818,17 @@
                         0.9264565706253052,
                         0.9264565706253052
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 146,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 146,
                     "mergeable": false
                 },
                 {
@@ -2849,8 +2849,8 @@
                         0.4794296622276306,
                         409.77392578125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 655.03662109375,
                     "position": [
                         -360.82257080078125,
@@ -2867,17 +2867,17 @@
                         0.7663835287094116,
                         0.7663835287094116
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 147,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 147,
                     "mergeable": false
                 },
                 {
@@ -2898,8 +2898,8 @@
                         0.28182849287986755,
                         239.7414093017578
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 654.1993408203125,
                     "position": [
                         -156.59609985351562,
@@ -2916,17 +2916,17 @@
                         0.7690452933311462,
                         0.7690452933311462
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 148,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 148,
                     "mergeable": false
                 },
                 {
@@ -2947,8 +2947,8 @@
                         0.1649278700351715,
                         102.79092407226562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 675.4262084960938,
                     "position": [
                         7.98052978515625,
@@ -2965,17 +2965,17 @@
                         1.083720326423645,
                         1.083720326423645
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 149,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 149,
                     "mergeable": false
                 },
                 {
@@ -2996,8 +2996,8 @@
                         0.5621512532234192,
                         340.3472595214844
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 661.9073486328125,
                     "position": [
                         300.2713928222656,
@@ -3014,17 +3014,17 @@
                         1.0932717323303223,
                         1.0932717323303223
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 150,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 150,
                     "mergeable": false
                 },
                 {
@@ -3045,8 +3045,8 @@
                         0.09103794395923615,
                         83.7318115234375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 663.6171875,
                     "position": [
                         -118.6259536743164,
@@ -3063,17 +3063,17 @@
                         0.7215220332145691,
                         0.7215220332145691
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 151,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 151,
                     "mergeable": false
                 },
                 {
@@ -3094,8 +3094,8 @@
                         0.2452482432126999,
                         155.19586181640625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 630.0106201171875,
                     "position": [
                         418.3124694824219,
@@ -3112,17 +3112,17 @@
                         0.9955742359161377,
                         0.9955742359161377
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 152,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 152,
                     "mergeable": false
                 },
                 {
@@ -3143,8 +3143,8 @@
                         0.27961641550064087,
                         193.71270751953125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 654.263916015625,
                     "position": [
                         -441.89178466796875,
@@ -3161,17 +3161,17 @@
                         0.9444034099578857,
                         0.9444034099578857
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 153,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 153,
                     "mergeable": false
                 },
                 {
@@ -3192,8 +3192,8 @@
                         0.37881040573120117,
                         193.71270751953125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 654.263916015625,
                     "position": [
                         -441.89178466796875,
@@ -3210,17 +3210,17 @@
                         1.2794307470321655,
                         1.2794307470321655
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 154,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 154,
                     "mergeable": false
                 },
                 {
@@ -3241,8 +3241,8 @@
                         0.2558419704437256,
                         175.43133544921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 660.9060668945312,
                     "position": [
                         -462.28546142578125,
@@ -3259,17 +3259,17 @@
                         0.9638387560844421,
                         0.9638387560844421
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 155,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 155,
                     "mergeable": false
                 },
                 {
@@ -3290,8 +3290,8 @@
                         0.5706152319908142,
                         359.91217041015625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 681.2813110351562,
                     "position": [
                         -577.4855346679688,
@@ -3308,17 +3308,17 @@
                         1.0801231861114502,
                         1.0801231861114502
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 156,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 156,
                     "mergeable": false
                 },
                 {
@@ -3339,8 +3339,8 @@
                         0.2817518413066864,
                         245.89662170410156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 642.1128540039062,
                     "position": [
                         -508.93878173828125,
@@ -3357,17 +3357,17 @@
                         0.7357420325279236,
                         0.7357420325279236
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 157,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 157,
                     "mergeable": false
                 },
                 {
@@ -3388,8 +3388,8 @@
                         0.7769281268119812,
                         382.460693359375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 638.9890747070312,
                     "position": [
                         -334.5201721191406,
@@ -3406,17 +3406,17 @@
                         1.2980382442474365,
                         1.2980382442474365
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 158,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 158,
                     "mergeable": false
                 },
                 {
@@ -3437,8 +3437,8 @@
                         0.4053500294685364,
                         319.8535461425781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 665.9754638671875,
                     "position": [
                         413.0478515625,
@@ -3455,17 +3455,17 @@
                         0.8439899682998657,
                         0.8439899682998657
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 159,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 159,
                     "mergeable": false
                 },
                 {
@@ -3486,8 +3486,8 @@
                         0.46570029854774475,
                         319.8535461425781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 665.9754638671875,
                     "position": [
                         413.0478515625,
@@ -3504,17 +3504,17 @@
                         0.9696469306945801,
                         0.9696469306945801
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 160,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 160,
                     "mergeable": false
                 },
                 {
@@ -3535,8 +3535,8 @@
                         0.2360624521970749,
                         165.22161865234375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 662.9456787109375,
                     "position": [
                         -591.7552490234375,
@@ -3553,17 +3553,17 @@
                         0.9471918940544128,
                         0.9471918940544128
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 161,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 161,
                     "mergeable": false
                 },
                 {
@@ -3584,8 +3584,8 @@
                         1.1437296867370605,
                         670.6091918945312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 689.4984741210938,
                     "position": [
                         -149.67123413085938,
@@ -3602,17 +3602,17 @@
                         1.175945520401001,
                         1.175945520401001
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 162,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 162,
                     "mergeable": false
                 },
                 {
@@ -3633,8 +3633,8 @@
                         0.5367276072502136,
                         277.8265686035156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 665.5509033203125,
                     "position": [
                         206.587890625,
@@ -3651,17 +3651,17 @@
                         1.2857645750045776,
                         1.2857645750045776
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 163,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 163,
                     "mergeable": false
                 },
                 {
@@ -3682,8 +3682,8 @@
                         0.1615673154592514,
                         84.33892822265625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 645.4983520507812,
                     "position": [
                         -593.2167358398438,
@@ -3700,17 +3700,17 @@
                         1.2365753650665283,
                         1.2365753650665283
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 164,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 164,
                     "mergeable": false
                 },
                 {
@@ -3731,8 +3731,8 @@
                         0.07790617644786835,
                         47.016456604003906
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 642.8206787109375,
                     "position": [
                         439.20965576171875,
@@ -3749,17 +3749,17 @@
                         1.065152645111084,
                         1.065152645111084
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 165,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 165,
                     "mergeable": false
                 },
                 {
@@ -3780,8 +3780,8 @@
                         0.8618643283843994,
                         496.3596496582031
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 655.3898315429688,
                     "position": [
                         233.53208923339844,
@@ -3798,17 +3798,17 @@
                         1.1379997730255127,
                         1.1379997730255127
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 166,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 166,
                     "mergeable": false
                 },
                 {
@@ -3829,8 +3829,8 @@
                         0.22395683825016022,
                         205.21263122558594
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 648.4844360351562,
                     "position": [
                         -36.86186981201172,
@@ -3847,17 +3847,17 @@
                         0.7077172994613647,
                         0.7077172994613647
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 167,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 167,
                     "mergeable": false
                 },
                 {
@@ -3878,8 +3878,8 @@
                         0.921115517616272,
                         650.3777465820312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 674.6393432617188,
                     "position": [
                         -111.24383544921875,
@@ -3896,17 +3896,17 @@
                         0.9554766416549683,
                         0.9554766416549683
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 168,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 168,
                     "mergeable": false
                 },
                 {
@@ -3927,8 +3927,8 @@
                         0.8313934803009033,
                         669.5182495117188
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 688.2385864257812,
                     "position": [
                         -158.63427734375,
@@ -3945,17 +3945,17 @@
                         0.854640007019043,
                         0.854640007019043
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 169,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 169,
                     "mergeable": false
                 },
                 {
@@ -3976,8 +3976,8 @@
                         0.44602251052856445,
                         346.8787536621094
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 676.0882568359375,
                     "position": [
                         -556.5731811523438,
@@ -3994,17 +3994,17 @@
                         0.8693256378173828,
                         0.8693256378173828
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 170,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 170,
                     "mergeable": false
                 },
                 {
@@ -4025,8 +4025,8 @@
                         0.07219386100769043,
                         59.511722564697266
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 635.9091796875,
                     "position": [
                         -586.9888916015625,
@@ -4043,17 +4043,17 @@
                         0.7714235186576843,
                         0.7714235186576843
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 171,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 171,
                     "mergeable": false
                 },
                 {
@@ -4074,8 +4074,8 @@
                         0.8770778775215149,
                         558.4267578125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 665.4562377929688,
                     "position": [
                         209.24539184570312,
@@ -4092,17 +4092,17 @@
                         1.0451807975769043,
                         1.0451807975769043
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 172,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 172,
                     "mergeable": false
                 },
                 {
@@ -4123,8 +4123,8 @@
                         0.8045145869255066,
                         484.46160888671875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 677.2113037109375,
                     "position": [
                         -343.2998962402344,
@@ -4141,17 +4141,17 @@
                         1.1246018409729004,
                         1.1246018409729004
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 173,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 173,
                     "mergeable": false
                 },
                 {
@@ -4172,8 +4172,8 @@
                         0.13804054260253906,
                         101.94000244140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 655.3223266601562,
                     "position": [
                         -640.0650024414062,
@@ -4190,17 +4190,17 @@
                         0.8873950242996216,
                         0.8873950242996216
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 174,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 174,
                     "mergeable": false
                 },
                 {
@@ -4221,8 +4221,8 @@
                         0.5402135848999023,
                         389.5830993652344
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 638.4095458984375,
                     "position": [
                         -322.5162353515625,
@@ -4239,17 +4239,17 @@
                         0.8852475881576538,
                         0.8852475881576538
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 175,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 175,
                     "mergeable": false
                 },
                 {
@@ -4270,8 +4270,8 @@
                         0.5839743614196777,
                         389.5830993652344
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 638.4095458984375,
                     "position": [
                         -322.5162353515625,
@@ -4288,17 +4288,17 @@
                         0.9569583535194397,
                         0.9569583535194397
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 176,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 176,
                     "mergeable": false
                 },
                 {
@@ -4319,8 +4319,8 @@
                         0.1573704481124878,
                         111.19297790527344
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 669.8508911132812,
                     "position": [
                         16.2149658203125,
@@ -4337,17 +4337,17 @@
                         0.9480341076850891,
                         0.9480341076850891
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 177,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 177,
                     "mergeable": false
                 },
                 {
@@ -4368,8 +4368,8 @@
                         0.7265700101852417,
                         647.1162719726562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 688.6619262695312,
                     "position": [
                         -28.67731475830078,
@@ -4386,17 +4386,17 @@
                         0.7732166647911072,
                         0.7732166647911072
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 178,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 178,
                     "mergeable": false
                 },
                 {
@@ -4417,8 +4417,8 @@
                         0.9974887371063232,
                         531.9971313476562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 662.3636474609375,
                     "position": [
                         -368.2995300292969,
@@ -4435,17 +4435,17 @@
                         1.241924524307251,
                         1.241924524307251
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 179,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 179,
                     "mergeable": false
                 },
                 {
@@ -4466,8 +4466,8 @@
                         0.5839283466339111,
                         473.3438720703125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 673.9827270507812,
                     "position": [
                         -336.4886169433594,
@@ -4484,17 +4484,17 @@
                         0.8314412832260132,
                         0.8314412832260132
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 180,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 180,
                     "mergeable": false
                 },
                 {
@@ -4515,8 +4515,8 @@
                         0.26206350326538086,
                         178.74777221679688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 625.0521240234375,
                     "position": [
                         381.9425048828125,
@@ -4533,17 +4533,17 @@
                         0.9163938164710999,
                         0.9163938164710999
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 181,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 181,
                     "mergeable": false
                 },
                 {
@@ -4564,8 +4564,8 @@
                         1.0738579034805298,
                         624.479736328125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 679.5166015625,
                     "position": [
                         -252.7554168701172,
@@ -4582,17 +4582,17 @@
                         1.16849946975708,
                         1.16849946975708
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 182,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 182,
                     "mergeable": false
                 },
                 {
@@ -4613,8 +4613,8 @@
                         0.8131049275398254,
                         565.1087036132812
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 695.0009765625,
                     "position": [
                         -403.05633544921875,
@@ -4631,17 +4631,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 183,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 183,
                     "mergeable": false
                 },
                 {
@@ -4662,8 +4662,8 @@
                         0.4478153586387634,
                         318.5224609375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 711.28076171875,
                     "position": [
                         -497.81365966796875,
@@ -4680,17 +4680,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 184,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 184,
                     "mergeable": false
                 },
                 {
@@ -4711,8 +4711,8 @@
                         0.586826741695404,
                         407.5658264160156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 694.5249633789062,
                     "position": [
                         -528.1644287109375,
@@ -4729,17 +4729,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 185,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 185,
                     "mergeable": false
                 },
                 {
@@ -4760,8 +4760,8 @@
                         0.7612335085868835,
                         498.4853820800781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 654.8389282226562,
                     "position": [
                         -256.3476867675781,
@@ -4778,17 +4778,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 187,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 187,
                     "mergeable": false
                 },
                 {
@@ -4809,8 +4809,8 @@
                         0.19376111030578613,
                         131.09254455566406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 676.56787109375,
                     "position": [
                         -583.8687744140625,
@@ -4827,17 +4827,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 188,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 188,
                     "mergeable": false
                 },
                 {
@@ -4858,8 +4858,8 @@
                         0.7825865745544434,
                         508.50115966796875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 649.7698364257812,
                     "position": [
                         -99.37721252441406,
@@ -4876,17 +4876,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 189,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 189,
                     "mergeable": false
                 },
                 {
@@ -4907,8 +4907,8 @@
                         0.5574179887771606,
                         376.5719299316406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 675.564697265625,
                     "position": [
                         70.30581665039062,
@@ -4925,17 +4925,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 190,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 190,
                     "mergeable": false
                 },
                 {
@@ -4956,8 +4956,8 @@
                         0.03291517496109009,
                         21.628389358520508
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 657.0947875976562,
                     "position": [
                         -5.23602294921875,
@@ -4974,17 +4974,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 0,
                     "mergeable": false
                 },
                 {
@@ -5005,8 +5005,8 @@
                         0.2979159951210022,
                         194.52157592773438
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 652.9410400390625,
                     "position": [
                         -422.57464599609375,
@@ -5023,17 +5023,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 191,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 191,
                     "mergeable": false
                 },
                 {
@@ -5054,8 +5054,8 @@
                         0.12719053030014038,
                         87.70826721191406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 689.5817260742188,
                     "position": [
                         -221.4088134765625,
@@ -5072,17 +5072,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 192,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 192,
                     "mergeable": false
                 },
                 {
@@ -5103,8 +5103,8 @@
                         0.13577044010162354,
                         46.471622467041016
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 705.0982055664062,
                     "position": [
                         -317.393798828125,
@@ -5121,17 +5121,17 @@
                         2.0599989891052246,
                         2.0599989891052246
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 193,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 193,
                     "mergeable": false
                 },
                 {
@@ -5152,8 +5152,8 @@
                         0.7674276828765869,
                         519.996826171875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 677.5841064453125,
                     "position": [
                         -310.7696533203125,
@@ -5170,17 +5170,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 194,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 194,
                     "mergeable": false
                 },
                 {
@@ -5201,8 +5201,8 @@
                         0.4292911887168884,
                         280.33367919921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 653.0151977539062,
                     "position": [
                         -159.88986206054688,
@@ -5219,17 +5219,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 195,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 195,
                     "mergeable": false
                 },
                 {
@@ -5250,8 +5250,8 @@
                         0.40525126457214355,
                         253.6625518798828
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 625.93896484375,
                     "position": [
                         -479.6724548339844,
@@ -5268,17 +5268,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 196,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 196,
                     "mergeable": false
                 },
                 {
@@ -5299,8 +5299,8 @@
                         0.5712993741035461,
                         390.2703857421875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 683.1276245117188,
                     "position": [
                         52.362274169921875,
@@ -5317,17 +5317,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 197,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 197,
                     "mergeable": false
                 },
                 {
@@ -5348,8 +5348,8 @@
                         -0.7672744393348694,
                         -587.76220703125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 721.4099731445312,
                     "position": [
                         -376.9789733886719,
@@ -5366,17 +5366,17 @@
                         0.9417403936386108,
                         0.9417403936386108
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 1,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 1,
                     "mergeable": false
                 },
                 {
@@ -5397,8 +5397,8 @@
                         -0.8894963264465332,
                         -635.9695434570312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 708.0977783203125,
                     "position": [
                         -69.7103271484375,
@@ -5415,17 +5415,17 @@
                         0.9903782606124878,
                         0.9903782606124878
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 7,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 7,
                     "mergeable": false
                 },
                 {
@@ -5446,8 +5446,8 @@
                         -0.5342710614204407,
                         -447.6393737792969
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 714.233642578125,
                     "position": [
                         -109.92478942871094,
@@ -5464,17 +5464,17 @@
                         0.8524593710899353,
                         0.8524593710899353
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 10,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 10,
                     "mergeable": false
                 },
                 {
@@ -5495,8 +5495,8 @@
                         -0.8720834255218506,
                         -597.133056640625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 698.9043579101562,
                     "position": [
                         -210.95135498046875,
@@ -5513,17 +5513,17 @@
                         1.020715355873108,
                         1.020715355873108
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 15,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 15,
                     "mergeable": false
                 },
                 {
@@ -5544,8 +5544,8 @@
                         -0.6355010271072388,
                         -431.2419128417969
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 721.9415893554688,
                     "position": [
                         -247.24517822265625,
@@ -5562,17 +5562,17 @@
                         1.0638915300369263,
                         1.0638915300369263
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 25,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 25,
                     "mergeable": false
                 },
                 {
@@ -5593,8 +5593,8 @@
                         -0.660726010799408,
                         -591.6670532226562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 723.5011596679688,
                     "position": [
                         397.5162658691406,
@@ -5611,17 +5611,17 @@
                         0.8079476952552795,
                         0.8079476952552795
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 28,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 28,
                     "mergeable": false
                 },
                 {
@@ -5642,8 +5642,8 @@
                         -0.3755601942539215,
                         -267.2845458984375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 726.5164794921875,
                     "position": [
                         -545.6915283203125,
@@ -5660,17 +5660,17 @@
                         1.020824670791626,
                         1.020824670791626
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 34,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 34,
                     "mergeable": false
                 },
                 {
@@ -5691,8 +5691,8 @@
                         -0.27905744314193726,
                         -223.67745971679688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 746.46533203125,
                     "position": [
                         -571.709716796875,
@@ -5709,17 +5709,17 @@
                         0.9312816858291626,
                         0.9312816858291626
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 41,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 41,
                     "mergeable": false
                 },
                 {
@@ -5740,8 +5740,8 @@
                         -0.7304654121398926,
                         -583.2596435546875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 723.009765625,
                     "position": [
                         -374.9949035644531,
@@ -5758,17 +5758,17 @@
                         0.9054863452911377,
                         0.9054863452911377
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 42,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 42,
                     "mergeable": false
                 },
                 {
@@ -5789,8 +5789,8 @@
                         -0.6515253782272339,
                         -496.4805908203125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 728.9195556640625,
                     "position": [
                         -496.4808044433594,
@@ -5807,17 +5807,17 @@
                         0.9565522074699402,
                         0.9565522074699402
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 69,
+                    "weightHard": false,
+                    "no_features": true,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": true,
+                    "twinId": 69,
                     "mergeable": false
                 },
                 {
@@ -5838,8 +5838,8 @@
                         -0.1692240834236145,
                         -101.32333374023438
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 659.1216430664062,
                     "position": [
                         -646.6690063476562,
@@ -5856,17 +5856,17 @@
                         1.1008249521255493,
                         1.1008249521255493
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 101,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 101,
                     "mergeable": false
                 },
                 {
@@ -5887,8 +5887,8 @@
                         -0.35610267519950867,
                         -210.7930908203125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 648.8072509765625,
                     "position": [
                         -38.401641845703125,
@@ -5905,17 +5905,17 @@
                         1.0960606336593628,
                         1.0960606336593628
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 102,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 102,
                     "mergeable": false
                 },
                 {
@@ -5936,8 +5936,8 @@
                         -0.6742173433303833,
                         -356.5807189941406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 667.208740234375,
                     "position": [
                         314.6091003417969,
@@ -5954,17 +5954,17 @@
                         1.2615480422973633,
                         1.2615480422973633
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 103,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 103,
                     "mergeable": false
                 },
                 {
@@ -5985,8 +5985,8 @@
                         -1.0687671899795532,
                         -648.5972290039062
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 688.7677001953125,
                     "position": [
                         -49.60496139526367,
@@ -6003,17 +6003,17 @@
                         1.134960651397705,
                         1.134960651397705
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 104,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 104,
                     "mergeable": false
                 },
                 {
@@ -6034,8 +6034,8 @@
                         -0.5591342449188232,
                         -346.87261962890625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 682.0336303710938,
                     "position": [
                         -556.5634155273438,
@@ -6052,17 +6052,17 @@
                         1.0993901491165161,
                         1.0993901491165161
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 105,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 105,
                     "mergeable": false
                 },
                 {
@@ -6083,8 +6083,8 @@
                         -0.11117202788591385,
                         -73.10723876953125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 672.5941162109375,
                     "position": [
                         -409.3642272949219,
@@ -6101,17 +6101,17 @@
                         1.0227941274642944,
                         1.0227941274642944
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 107,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 107,
                     "mergeable": false
                 },
                 {
@@ -6132,8 +6132,8 @@
                         -0.7229520082473755,
                         -645.1044921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 650.5453491210938,
                     "position": [
                         -82.93896484375,
@@ -6150,17 +6150,17 @@
                         0.7290494441986084,
                         0.7290494441986084
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 108,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 108,
                     "mergeable": false
                 },
                 {
@@ -6181,8 +6181,8 @@
                         -0.04755855351686478,
                         -34.69507598876953
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 652.3325805664062,
                     "position": [
                         -191.9657745361328,
@@ -6199,17 +6199,17 @@
                         0.8941900730133057,
                         0.8941900730133057
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 109,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 109,
                     "mergeable": false
                 },
                 {
@@ -6230,8 +6230,8 @@
                         -0.5213766694068909,
                         -274.6268005371094
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 663.9404296875,
                     "position": [
                         192.5305633544922,
@@ -6248,17 +6248,17 @@
                         1.2604854106903076,
                         1.2604854106903076
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 110,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 110,
                     "mergeable": false
                 },
                 {
@@ -6279,8 +6279,8 @@
                         -0.20029281079769135,
                         -125.14899444580078
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 662.0806274414062,
                     "position": [
                         -144.97314453125,
@@ -6297,17 +6297,17 @@
                         1.0596169233322144,
                         1.0596169233322144
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 111,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 111,
                     "mergeable": false
                 },
                 {
@@ -6328,8 +6328,8 @@
                         -0.5716237425804138,
                         -294.50103759765625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 664.20556640625,
                     "position": [
                         348.6737365722656,
@@ -6346,17 +6346,17 @@
                         1.2892167568206787,
                         1.2892167568206787
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 112,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 112,
                     "mergeable": false
                 },
                 {
@@ -6377,8 +6377,8 @@
                         -0.799623966217041,
                         -607.2117919921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 675.260986328125,
                     "position": [
                         277.55902099609375,
@@ -6395,17 +6395,17 @@
                         0.8892364501953125,
                         0.8892364501953125
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 113,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 113,
                     "mergeable": false
                 },
                 {
@@ -6426,8 +6426,8 @@
                         -0.9990174770355225,
                         -560.677978515625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 672.8841552734375,
                     "position": [
                         -357.57965087890625,
@@ -6444,17 +6444,17 @@
                         1.1989467144012451,
                         1.1989467144012451
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 114,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 114,
                     "mergeable": false
                 },
                 {
@@ -6475,8 +6475,8 @@
                         0.125174418091774,
                         82.85523223876953
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 672.1461181640625,
                     "position": [
                         -538.587646484375,
@@ -6493,17 +6493,17 @@
                         1.0154517889022827,
                         1.0154517889022827
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 115,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 115,
                     "mergeable": false
                 },
                 {
@@ -6524,8 +6524,8 @@
                         0.1576118767261505,
                         91.18144226074219
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 676.938232421875,
                     "position": [
                         -557.421875,
@@ -6542,17 +6542,17 @@
                         1.1701229810714722,
                         1.1701229810714722
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 116,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 116,
                     "mergeable": false
                 },
                 {
@@ -6573,8 +6573,8 @@
                         -0.5399438142776489,
                         -314.6840515136719
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 670.8955688476562,
                     "position": [
                         -276.990478515625,
@@ -6591,17 +6591,17 @@
                         1.15114164352417,
                         1.15114164352417
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 117,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 117,
                     "mergeable": false
                 },
                 {
@@ -6622,8 +6622,8 @@
                         -1.2077680826187134,
                         -636.5216064453125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 673.839599609375,
                     "position": [
                         -136.38565063476562,
@@ -6640,17 +6640,17 @@
                         1.2785770893096924,
                         1.2785770893096924
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 118,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 118,
                     "mergeable": false
                 },
                 {
@@ -6671,8 +6671,8 @@
                         -0.3973572850227356,
                         -212.26783752441406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 648.0735473632812,
                     "position": [
                         -36.284149169921875,
@@ -6689,17 +6689,17 @@
                         1.2131690979003906,
                         1.2131690979003906
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 119,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 119,
                     "mergeable": false
                 },
                 {
@@ -6720,8 +6720,8 @@
                         0.13858357071876526,
                         111.03005981445312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 664.318359375,
                     "position": [
                         -499.1199035644531,
@@ -6738,17 +6738,17 @@
                         0.8291773796081543,
                         0.8291773796081543
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 120,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 120,
                     "mergeable": false
                 },
                 {
@@ -6769,8 +6769,8 @@
                         -0.1982938051223755,
                         -139.00509643554688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 661.2896118164062,
                     "position": [
                         -588.0248413085938,
@@ -6787,17 +6787,17 @@
                         0.9433441162109375,
                         0.9433441162109375
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 121,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 121,
                     "mergeable": false
                 },
                 {
@@ -6818,8 +6818,8 @@
                         -0.9455081820487976,
                         -576.9927978515625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 649.9092407226562,
                     "position": [
                         -88.124267578125,
@@ -6836,17 +6836,17 @@
                         1.0649950504302979,
                         1.0649950504302979
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 122,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 122,
                     "mergeable": false
                 },
                 {
@@ -6867,8 +6867,8 @@
                         -0.31978335976600647,
                         -286.4690246582031
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 665.4212646484375,
                     "position": [
                         199.04786682128906,
@@ -6885,17 +6885,17 @@
                         0.7428050637245178,
                         0.7428050637245178
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 123,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 123,
                     "mergeable": false
                 },
                 {
@@ -6916,8 +6916,8 @@
                         -0.29919853806495667,
                         -186.97592163085938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 681.4669189453125,
                     "position": [
                         -414.58465576171875,
@@ -6934,17 +6934,17 @@
                         1.090482234954834,
                         1.090482234954834
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 124,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 124,
                     "mergeable": false
                 },
                 {
@@ -6965,8 +6965,8 @@
                         -1.0587046146392822,
                         -607.7174072265625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 669.9628295898438,
                     "position": [
                         265.1612243652344,
@@ -6983,17 +6983,17 @@
                         1.167142391204834,
                         1.167142391204834
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 125,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 125,
                     "mergeable": false
                 },
                 {
@@ -7014,8 +7014,8 @@
                         -0.1556248664855957,
                         -80.55155181884766
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 645.7379760742188,
                     "position": [
                         -164.83033752441406,
@@ -7032,17 +7032,17 @@
                         1.247559905052185,
                         1.247559905052185
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 126,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 126,
                     "mergeable": false
                 },
                 {
@@ -7063,8 +7063,8 @@
                         0.03127187490463257,
                         18.35122299194336
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 642.8306274414062,
                     "position": [
                         -641.44189453125,
@@ -7081,17 +7081,17 @@
                         1.0954320430755615,
                         1.0954320430755615
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 127,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 127,
                     "mergeable": false
                 },
                 {
@@ -7112,8 +7112,8 @@
                         -0.758695662021637,
                         -418.4880676269531
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 665.6187744140625,
                     "position": [
                         -505.511962890625,
@@ -7130,17 +7130,17 @@
                         1.2067300081253052,
                         1.2067300081253052
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 128,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 128,
                     "mergeable": false
                 },
                 {
@@ -7161,8 +7161,8 @@
                         -0.7735545635223389,
                         -389.7815246582031
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 645.9933471679688,
                     "position": [
                         -354.2558898925781,
@@ -7179,17 +7179,17 @@
                         1.2820286750793457,
                         1.2820286750793457
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 129,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 129,
                     "mergeable": false
                 },
                 {
@@ -7210,8 +7210,8 @@
                         -0.46478337049484253,
                         -276.6654052734375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 664.3328857421875,
                     "position": [
                         199.00439453125,
@@ -7228,17 +7228,17 @@
                         1.116044521331787,
                         1.116044521331787
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 130,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 130,
                     "mergeable": false
                 },
                 {
@@ -7259,8 +7259,8 @@
                         -0.3810209631919861,
                         -211.34234619140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 649.9483642578125,
                     "position": [
                         -429.84686279296875,
@@ -7277,17 +7277,17 @@
                         1.1717668771743774,
                         1.1717668771743774
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 131,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 131,
                     "mergeable": false
                 },
                 {
@@ -7308,8 +7308,8 @@
                         -0.8232658505439758,
                         -560.3687744140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 675.6876831054688,
                     "position": [
                         233.9343719482422,
@@ -7326,17 +7326,17 @@
                         0.9926866292953491,
                         0.9926866292953491
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 132,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 132,
                     "mergeable": false
                 },
                 {
@@ -7357,8 +7357,8 @@
                         -0.49226894974708557,
                         -279.5198059082031
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 655.0951538085938,
                     "position": [
                         -528.568115234375,
@@ -7375,17 +7375,17 @@
                         1.1537035703659058,
                         1.1537035703659058
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 133,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 133,
                     "mergeable": false
                 },
                 {
@@ -7406,8 +7406,8 @@
                         -0.14548200368881226,
                         -96.78133392333984
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 653.635986328125,
                     "position": [
                         -640.1405029296875,
@@ -7424,17 +7424,17 @@
                         0.9825477004051208,
                         0.9825477004051208
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 134,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 134,
                     "mergeable": false
                 },
                 {
@@ -7455,8 +7455,8 @@
                         -1.098892331123352,
                         -650.3827514648438
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 699.1290893554688,
                     "position": [
                         -4.010957717895508,
@@ -7473,17 +7473,17 @@
                         1.1812546253204346,
                         1.1812546253204346
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 135,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 135,
                     "mergeable": false
                 },
                 {
@@ -7504,8 +7504,8 @@
                         -0.7748963832855225,
                         -577.5859375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 684.7001342773438,
                     "position": [
                         292.9985046386719,
@@ -7522,17 +7522,17 @@
                         0.9186020493507385,
                         0.9186020493507385
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 136,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 136,
                     "mergeable": false
                 },
                 {
@@ -7553,8 +7553,8 @@
                         -0.7012040615081787,
                         -371.7802429199219
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 639.5052490234375,
                     "position": [
                         -346.83197021484375,
@@ -7571,17 +7571,17 @@
                         1.2061526775360107,
                         1.2061526775360107
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 137,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 137,
                     "mergeable": false
                 },
                 {
@@ -7602,8 +7602,8 @@
                         -0.11161058396100998,
                         -99.03246307373047
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 668.6333618164062,
                     "position": [
                         20.404632568359375,
@@ -7620,17 +7620,17 @@
                         0.7535565495491028,
                         0.7535565495491028
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 138,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 138,
                     "mergeable": false
                 },
                 {
@@ -7651,8 +7651,8 @@
                         -0.8939217329025269,
                         -660.0499267578125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 685.559814453125,
                     "position": [
                         -137.51707458496094,
@@ -7669,17 +7669,17 @@
                         0.9284703731536865,
                         0.9284703731536865
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 139,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 139,
                     "mergeable": false
                 },
                 {
@@ -7700,8 +7700,8 @@
                         -0.17390605807304382,
                         -117.02682495117188
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 675.0294189453125,
                     "position": [
                         -389.3544921875,
@@ -7718,17 +7718,17 @@
                         1.0031177997589111,
                         1.0031177997589111
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 140,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 140,
                     "mergeable": false
                 },
                 {
@@ -7749,8 +7749,8 @@
                         -0.3068569600582123,
                         -232.2882843017578
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 653.9112548828125,
                     "position": [
                         -540.9571533203125,
@@ -7767,17 +7767,17 @@
                         0.8638284206390381,
                         0.8638284206390381
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 141,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 141,
                     "mergeable": false
                 },
                 {
@@ -7798,8 +7798,8 @@
                         -0.4686519205570221,
                         -311.2233581542969
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 667.2471923828125,
                     "position": [
                         430.7296142578125,
@@ -7816,17 +7816,17 @@
                         1.0047661066055298,
                         1.0047661066055298
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 142,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 142,
                     "mergeable": false
                 },
                 {
@@ -7847,8 +7847,8 @@
                         -0.35744842886924744,
                         -288.43609619140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 657.8484497070312,
                     "position": [
                         405.0543518066406,
@@ -7865,17 +7865,17 @@
                         0.8152477741241455,
                         0.8152477741241455
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 143,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 143,
                     "mergeable": false
                 },
                 {
@@ -7896,8 +7896,8 @@
                         -1.1100897789001465,
                         -586.0460815429688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 663.166015625,
                     "position": [
                         -179.95713806152344,
@@ -7914,17 +7914,17 @@
                         1.2561705112457275,
                         1.2561705112457275
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 144,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 144,
                     "mergeable": false
                 },
                 {
@@ -7945,8 +7945,8 @@
                         -1.0204925537109375,
                         -608.6488647460938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 678.1586303710938,
                     "position": [
                         287.0540771484375,
@@ -7963,17 +7963,17 @@
                         1.1370363235473633,
                         1.1370363235473633
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 145,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 145,
                     "mergeable": false
                 },
                 {
@@ -7994,8 +7994,8 @@
                         -0.3733054995536804,
                         -262.7105712890625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 651.9859619140625,
                     "position": [
                         -535.6868896484375,
@@ -8012,17 +8012,17 @@
                         0.9264565706253052,
                         0.9264565706253052
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 146,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 146,
                     "mergeable": false
                 },
                 {
@@ -8043,8 +8043,8 @@
                         -0.4794296622276306,
                         -409.77392578125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 655.03662109375,
                     "position": [
                         -360.82257080078125,
@@ -8061,17 +8061,17 @@
                         0.7663835287094116,
                         0.7663835287094116
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 147,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 147,
                     "mergeable": false
                 },
                 {
@@ -8092,8 +8092,8 @@
                         -0.28182849287986755,
                         -239.74139404296875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 654.1993408203125,
                     "position": [
                         -156.59609985351562,
@@ -8110,17 +8110,17 @@
                         0.7690452933311462,
                         0.7690452933311462
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 148,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 148,
                     "mergeable": false
                 },
                 {
@@ -8141,8 +8141,8 @@
                         -0.1649278700351715,
                         -102.79093170166016
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 675.4262084960938,
                     "position": [
                         7.98052978515625,
@@ -8159,17 +8159,17 @@
                         1.083720326423645,
                         1.083720326423645
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 149,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 149,
                     "mergeable": false
                 },
                 {
@@ -8190,8 +8190,8 @@
                         -0.5621512532234192,
                         -340.3472595214844
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 661.9073486328125,
                     "position": [
                         300.2713928222656,
@@ -8208,17 +8208,17 @@
                         1.0932717323303223,
                         1.0932717323303223
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 150,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 150,
                     "mergeable": false
                 },
                 {
@@ -8239,8 +8239,8 @@
                         -0.09103794395923615,
                         -83.7318115234375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 663.6171875,
                     "position": [
                         -118.6259536743164,
@@ -8257,17 +8257,17 @@
                         0.7215220332145691,
                         0.7215220332145691
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 151,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 151,
                     "mergeable": false
                 },
                 {
@@ -8288,8 +8288,8 @@
                         -0.2452482432126999,
                         -155.19586181640625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 630.0106201171875,
                     "position": [
                         418.3124694824219,
@@ -8306,17 +8306,17 @@
                         0.9955742359161377,
                         0.9955742359161377
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 152,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 152,
                     "mergeable": false
                 },
                 {
@@ -8337,8 +8337,8 @@
                         -0.27961641550064087,
                         -193.7127227783203
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 654.263916015625,
                     "position": [
                         -441.89178466796875,
@@ -8355,17 +8355,17 @@
                         0.9444034099578857,
                         0.9444034099578857
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 153,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 153,
                     "mergeable": false
                 },
                 {
@@ -8386,8 +8386,8 @@
                         -0.37881040573120117,
                         -193.7127227783203
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 654.263916015625,
                     "position": [
                         -441.89178466796875,
@@ -8404,17 +8404,17 @@
                         1.2794307470321655,
                         1.2794307470321655
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 154,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 154,
                     "mergeable": false
                 },
                 {
@@ -8435,8 +8435,8 @@
                         -0.2558419704437256,
                         -175.43133544921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 660.9060668945312,
                     "position": [
                         -462.28546142578125,
@@ -8453,17 +8453,17 @@
                         0.9638387560844421,
                         0.9638387560844421
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 155,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 155,
                     "mergeable": false
                 },
                 {
@@ -8484,8 +8484,8 @@
                         -0.5706152319908142,
                         -359.91217041015625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 681.2813110351562,
                     "position": [
                         -577.4855346679688,
@@ -8502,17 +8502,17 @@
                         1.0801231861114502,
                         1.0801231861114502
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 156,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 156,
                     "mergeable": false
                 },
                 {
@@ -8533,8 +8533,8 @@
                         -0.2817518413066864,
                         -245.89662170410156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 642.1128540039062,
                     "position": [
                         -508.93878173828125,
@@ -8551,17 +8551,17 @@
                         0.7357420325279236,
                         0.7357420325279236
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 157,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 157,
                     "mergeable": false
                 },
                 {
@@ -8582,8 +8582,8 @@
                         -0.7769281268119812,
                         -382.460693359375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 638.9890747070312,
                     "position": [
                         -334.5201721191406,
@@ -8600,17 +8600,17 @@
                         1.2980382442474365,
                         1.2980382442474365
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 158,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 158,
                     "mergeable": false
                 },
                 {
@@ -8631,8 +8631,8 @@
                         -0.4053500294685364,
                         -319.8535461425781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 665.9754638671875,
                     "position": [
                         413.0478515625,
@@ -8649,17 +8649,17 @@
                         0.8439899682998657,
                         0.8439899682998657
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 159,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 159,
                     "mergeable": false
                 },
                 {
@@ -8680,8 +8680,8 @@
                         -0.46570029854774475,
                         -319.8535461425781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 665.9754638671875,
                     "position": [
                         413.0478515625,
@@ -8698,17 +8698,17 @@
                         0.9696469306945801,
                         0.9696469306945801
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 160,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 160,
                     "mergeable": false
                 },
                 {
@@ -8729,8 +8729,8 @@
                         -0.2360624521970749,
                         -165.22161865234375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 662.9456787109375,
                     "position": [
                         -591.7552490234375,
@@ -8747,17 +8747,17 @@
                         0.9471918940544128,
                         0.9471918940544128
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 161,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 161,
                     "mergeable": false
                 },
                 {
@@ -8778,8 +8778,8 @@
                         -1.1437296867370605,
                         -670.6091918945312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 689.4984741210938,
                     "position": [
                         -149.67123413085938,
@@ -8796,17 +8796,17 @@
                         1.175945520401001,
                         1.175945520401001
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 162,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 162,
                     "mergeable": false
                 },
                 {
@@ -8827,8 +8827,8 @@
                         -0.5367276072502136,
                         -277.8265686035156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 665.5509033203125,
                     "position": [
                         206.587890625,
@@ -8845,17 +8845,17 @@
                         1.2857645750045776,
                         1.2857645750045776
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 163,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 163,
                     "mergeable": false
                 },
                 {
@@ -8876,8 +8876,8 @@
                         -0.1615673154592514,
                         -84.33892822265625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 645.4983520507812,
                     "position": [
                         -593.2167358398438,
@@ -8894,17 +8894,17 @@
                         1.2365753650665283,
                         1.2365753650665283
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 164,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 164,
                     "mergeable": false
                 },
                 {
@@ -8925,8 +8925,8 @@
                         -0.07790617644786835,
                         -47.016456604003906
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 642.8206787109375,
                     "position": [
                         439.20965576171875,
@@ -8943,17 +8943,17 @@
                         1.065152645111084,
                         1.065152645111084
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 165,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 165,
                     "mergeable": false
                 },
                 {
@@ -8974,8 +8974,8 @@
                         -0.8618643283843994,
                         -496.359619140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 655.3898315429688,
                     "position": [
                         233.53208923339844,
@@ -8992,17 +8992,17 @@
                         1.1379997730255127,
                         1.1379997730255127
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 166,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 166,
                     "mergeable": false
                 },
                 {
@@ -9023,8 +9023,8 @@
                         -0.22395683825016022,
                         -205.21263122558594
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 648.4844360351562,
                     "position": [
                         -36.86186981201172,
@@ -9041,17 +9041,17 @@
                         0.7077172994613647,
                         0.7077172994613647
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 167,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 167,
                     "mergeable": false
                 },
                 {
@@ -9072,8 +9072,8 @@
                         -0.921115517616272,
                         -650.3777465820312
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 674.6393432617188,
                     "position": [
                         -111.24383544921875,
@@ -9090,17 +9090,17 @@
                         0.9554766416549683,
                         0.9554766416549683
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 168,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 168,
                     "mergeable": false
                 },
                 {
@@ -9121,8 +9121,8 @@
                         -0.8313934803009033,
                         -669.5182495117188
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 688.2385864257812,
                     "position": [
                         -158.63427734375,
@@ -9139,17 +9139,17 @@
                         0.854640007019043,
                         0.854640007019043
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 169,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 169,
                     "mergeable": false
                 },
                 {
@@ -9170,8 +9170,8 @@
                         -0.44602251052856445,
                         -346.8787841796875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 676.0882568359375,
                     "position": [
                         -556.5731811523438,
@@ -9188,17 +9188,17 @@
                         0.8693256378173828,
                         0.8693256378173828
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 170,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 170,
                     "mergeable": false
                 },
                 {
@@ -9219,8 +9219,8 @@
                         -0.07219386100769043,
                         -59.511722564697266
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 635.9091796875,
                     "position": [
                         -586.9888916015625,
@@ -9237,17 +9237,17 @@
                         0.7714235186576843,
                         0.7714235186576843
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 171,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 171,
                     "mergeable": false
                 },
                 {
@@ -9268,8 +9268,8 @@
                         -0.8770778775215149,
                         -558.4267578125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 665.4562377929688,
                     "position": [
                         209.24539184570312,
@@ -9286,17 +9286,17 @@
                         1.0451807975769043,
                         1.0451807975769043
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 172,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 172,
                     "mergeable": false
                 },
                 {
@@ -9317,8 +9317,8 @@
                         -0.8045145869255066,
                         -484.46160888671875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 677.2113037109375,
                     "position": [
                         -343.2998962402344,
@@ -9335,17 +9335,17 @@
                         1.1246018409729004,
                         1.1246018409729004
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 173,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 173,
                     "mergeable": false
                 },
                 {
@@ -9366,8 +9366,8 @@
                         -0.13804054260253906,
                         -101.94000244140625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 655.3223266601562,
                     "position": [
                         -640.0650024414062,
@@ -9384,17 +9384,17 @@
                         0.8873950242996216,
                         0.8873950242996216
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 174,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 174,
                     "mergeable": false
                 },
                 {
@@ -9415,8 +9415,8 @@
                         -0.5402135848999023,
                         -389.58306884765625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 638.4095458984375,
                     "position": [
                         -322.5162353515625,
@@ -9433,17 +9433,17 @@
                         0.8852475881576538,
                         0.8852475881576538
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 175,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 175,
                     "mergeable": false
                 },
                 {
@@ -9464,8 +9464,8 @@
                         -0.5839743614196777,
                         -389.58306884765625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 638.4095458984375,
                     "position": [
                         -322.5162353515625,
@@ -9482,17 +9482,17 @@
                         0.9569583535194397,
                         0.9569583535194397
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 176,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 176,
                     "mergeable": false
                 },
                 {
@@ -9513,8 +9513,8 @@
                         -0.1573704481124878,
                         -111.19297790527344
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 669.8508911132812,
                     "position": [
                         16.2149658203125,
@@ -9531,17 +9531,17 @@
                         0.9480341076850891,
                         0.9480341076850891
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 177,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 177,
                     "mergeable": false
                 },
                 {
@@ -9562,8 +9562,8 @@
                         -0.7265700101852417,
                         -647.1162719726562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 688.6619262695312,
                     "position": [
                         -28.67731475830078,
@@ -9580,17 +9580,17 @@
                         0.7732166647911072,
                         0.7732166647911072
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 178,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 178,
                     "mergeable": false
                 },
                 {
@@ -9611,8 +9611,8 @@
                         -0.9974887371063232,
                         -531.9971313476562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 662.3636474609375,
                     "position": [
                         -368.2995300292969,
@@ -9629,17 +9629,17 @@
                         1.241924524307251,
                         1.241924524307251
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 179,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 179,
                     "mergeable": false
                 },
                 {
@@ -9660,8 +9660,8 @@
                         -0.5839283466339111,
                         -473.3439025878906
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 673.9827270507812,
                     "position": [
                         -336.4886169433594,
@@ -9678,17 +9678,17 @@
                         0.8314412832260132,
                         0.8314412832260132
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 180,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 180,
                     "mergeable": false
                 },
                 {
@@ -9709,8 +9709,8 @@
                         -0.26206350326538086,
                         -178.74777221679688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 625.0521240234375,
                     "position": [
                         381.9425048828125,
@@ -9727,17 +9727,17 @@
                         0.9163938164710999,
                         0.9163938164710999
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 181,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 181,
                     "mergeable": false
                 },
                 {
@@ -9758,8 +9758,8 @@
                         -1.0738579034805298,
                         -624.479736328125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 679.5166015625,
                     "position": [
                         -252.7554168701172,
@@ -9776,17 +9776,17 @@
                         1.16849946975708,
                         1.16849946975708
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 182,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 182,
                     "mergeable": false
                 },
                 {
@@ -9807,8 +9807,8 @@
                         -0.8131049275398254,
                         -565.1087036132812
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 695.0009765625,
                     "position": [
                         -403.05633544921875,
@@ -9825,17 +9825,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 183,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 183,
                     "mergeable": false
                 },
                 {
@@ -9856,8 +9856,8 @@
                         -0.4478153586387634,
                         -318.5224609375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 711.28076171875,
                     "position": [
                         -497.81365966796875,
@@ -9874,17 +9874,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 184,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 184,
                     "mergeable": false
                 },
                 {
@@ -9905,8 +9905,8 @@
                         -0.586826741695404,
                         -407.56585693359375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 694.5249633789062,
                     "position": [
                         -528.1644287109375,
@@ -9923,17 +9923,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 185,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 185,
                     "mergeable": false
                 },
                 {
@@ -9954,8 +9954,8 @@
                         -0.7612335085868835,
                         -498.4853820800781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 654.8389282226562,
                     "position": [
                         -256.3476867675781,
@@ -9972,17 +9972,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 187,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 187,
                     "mergeable": false
                 },
                 {
@@ -10003,8 +10003,8 @@
                         -0.19376111030578613,
                         -131.09254455566406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 676.56787109375,
                     "position": [
                         -583.8687744140625,
@@ -10021,17 +10021,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 188,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 188,
                     "mergeable": false
                 },
                 {
@@ -10052,8 +10052,8 @@
                         -0.7825865745544434,
                         -508.50115966796875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 649.7698364257812,
                     "position": [
                         -99.37721252441406,
@@ -10070,17 +10070,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 189,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 189,
                     "mergeable": false
                 },
                 {
@@ -10101,8 +10101,8 @@
                         -0.5574179887771606,
                         -376.57196044921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 675.564697265625,
                     "position": [
                         70.30581665039062,
@@ -10119,17 +10119,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 190,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 190,
                     "mergeable": false
                 },
                 {
@@ -10150,8 +10150,8 @@
                         -0.2979159951210022,
                         -194.5215606689453
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 652.9410400390625,
                     "position": [
                         -422.57464599609375,
@@ -10168,17 +10168,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 191,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 191,
                     "mergeable": false
                 },
                 {
@@ -10199,8 +10199,8 @@
                         -0.12719053030014038,
                         -87.70826721191406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 689.5817260742188,
                     "position": [
                         -221.4088134765625,
@@ -10217,17 +10217,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 192,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 192,
                     "mergeable": false
                 },
                 {
@@ -10248,8 +10248,8 @@
                         -0.13577044010162354,
                         -46.471622467041016
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 705.0982055664062,
                     "position": [
                         -317.393798828125,
@@ -10266,17 +10266,17 @@
                         2.0599989891052246,
                         2.0599989891052246
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 193,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 193,
                     "mergeable": false
                 },
                 {
@@ -10297,8 +10297,8 @@
                         -0.7674276828765869,
                         -519.996826171875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 677.5841064453125,
                     "position": [
                         -310.7696533203125,
@@ -10315,17 +10315,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 194,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 194,
                     "mergeable": false
                 },
                 {
@@ -10346,8 +10346,8 @@
                         -0.4292911887168884,
                         -280.33367919921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 653.0151977539062,
                     "position": [
                         -159.88986206054688,
@@ -10364,17 +10364,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 195,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 195,
                     "mergeable": false
                 },
                 {
@@ -10395,8 +10395,8 @@
                         -0.40525126457214355,
                         -253.66253662109375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 625.93896484375,
                     "position": [
                         -479.6724548339844,
@@ -10413,17 +10413,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 196,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 196,
                     "mergeable": false
                 },
                 {
@@ -10444,8 +10444,8 @@
                         -0.5712993741035461,
                         -390.2703857421875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 683.1276245117188,
                     "position": [
                         52.362274169921875,
@@ -10462,17 +10462,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 197,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 197,
                     "mergeable": false
                 },
                 {
@@ -10493,8 +10493,8 @@
                         -0.032527100294828415,
                         -10.378768920898438
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 737.0760498046875,
                     "position": [
                         665.3189697265625,
@@ -10511,17 +10511,17 @@
                         3.0999982357025146,
                         2.3099989891052246
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 0,
                     "mergeable": false
                 },
                 {
@@ -10542,8 +10542,8 @@
                         1.9892100095748901,
                         532.7664794921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 749.9183959960938,
                     "position": [
                         397.9566345214844,
@@ -10560,17 +10560,17 @@
                         2.819998264312744,
                         2.7999982833862305
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 200,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 200,
                     "mergeable": false
                 },
                 {
@@ -10591,8 +10591,8 @@
                         -1.9892100095748901,
                         -532.7664794921875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 749.9183959960938,
                     "position": [
                         397.9566345214844,
@@ -10609,17 +10609,17 @@
                         2.819998264312744,
                         2.7999982833862305
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 200,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 200,
                     "mergeable": false
                 },
                 {
@@ -10640,8 +10640,8 @@
                         2.0046701431274414,
                         544.1076049804688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 702.9774780273438,
                     "position": [
                         -120.46771240234375,
@@ -10658,17 +10658,17 @@
                         2.6099984645843506,
                         2.589998483657837
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 201,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 201,
                     "mergeable": false
                 },
                 {
@@ -10689,8 +10689,8 @@
                         -2.0046701431274414,
                         -544.1076049804688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 702.9774780273438,
                     "position": [
                         -120.46771240234375,
@@ -10707,17 +10707,17 @@
                         2.6099984645843506,
                         2.589998483657837
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 201,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 201,
                     "mergeable": false
                 },
                 {
@@ -10738,8 +10738,8 @@
                         0.8588055372238159,
                         219.01583862304688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 749.7694091796875,
                     "position": [
                         -638.1175537109375,
@@ -10756,17 +10756,17 @@
                         2.95999813079834,
                         2.939998149871826
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 202,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 202,
                     "mergeable": false
                 },
                 {
@@ -10787,8 +10787,8 @@
                         -0.8588055372238159,
                         -219.01585388183594
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 749.7694091796875,
                     "position": [
                         -638.1175537109375,
@@ -10805,17 +10805,17 @@
                         2.95999813079834,
                         2.939998149871826
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 202,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 202,
                     "mergeable": false
                 },
                 {
@@ -10836,8 +10836,8 @@
                         0.1723187416791916,
                         22.95014190673828
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 715.1989135742188,
                     "position": [
                         640.477783203125,
@@ -10854,17 +10854,17 @@
                         2.469998598098755,
                         5.369996070861816
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 203,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 203,
                     "mergeable": false
                 },
                 {
@@ -10885,8 +10885,8 @@
                         -0.1723187416791916,
                         -22.95013999938965
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 715.1989135742188,
                     "position": [
                         640.477783203125,
@@ -10903,17 +10903,17 @@
                         2.469998598098755,
                         5.369996070861816
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 203,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 203,
                     "mergeable": false
                 },
                 {
@@ -10934,8 +10934,8 @@
                         3.372474193572998,
                         543.6185302734375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 757.6055297851562,
                     "position": [
                         508.585693359375,
@@ -10952,17 +10952,17 @@
                         4.699996471405029,
                         4.699996471405029
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 204,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 204,
                     "mergeable": false
                 },
                 {
@@ -10983,8 +10983,8 @@
                         -3.372474193572998,
                         -543.6185302734375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 757.6055297851562,
                     "position": [
                         508.585693359375,
@@ -11001,17 +11001,17 @@
                         4.699996471405029,
                         4.699996471405029
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 204,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 204,
                     "mergeable": false
                 },
                 {
@@ -11032,8 +11032,8 @@
                         2.7366206645965576,
                         603.9025268554688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 719.3985595703125,
                     "position": [
                         -356.7601623535156,
@@ -11050,17 +11050,17 @@
                         3.259997844696045,
                         3.259997844696045
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 205,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 205,
                     "mergeable": false
                 },
                 {
@@ -11081,8 +11081,8 @@
                         -2.7366206645965576,
                         -603.9025268554688
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 719.3985595703125,
                     "position": [
                         -356.7601623535156,
@@ -11099,17 +11099,17 @@
                         3.259997844696045,
                         3.259997844696045
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 205,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 205,
                     "mergeable": false
                 },
                 {
@@ -11130,8 +11130,8 @@
                         0.32421404123306274,
                         101.74510192871094
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 759.44580078125,
                     "position": [
                         686.8504638671875,
@@ -11148,17 +11148,17 @@
                         2.4199986457824707,
                         2.4199986457824707
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 208,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 208,
                     "mergeable": false
                 },
                 {
@@ -11179,8 +11179,8 @@
                         -0.32421404123306274,
                         -101.74510192871094
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 759.44580078125,
                     "position": [
                         686.8504638671875,
@@ -11197,17 +11197,17 @@
                         2.4199986457824707,
                         2.4199986457824707
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 208,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 208,
                     "mergeable": false
                 },
                 {
@@ -11228,8 +11228,8 @@
                         2.9909887313842773,
                         443.2695007324219
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 770.6480102539062,
                     "position": [
                         478.1387023925781,
@@ -11246,17 +11246,17 @@
                         1.4999995231628418,
                         5.199995994567871
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 209,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 209,
                     "mergeable": false
                 },
                 {
@@ -11277,8 +11277,8 @@
                         -2.9909887313842773,
                         -443.2695007324219
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 770.6480102539062,
                     "position": [
                         478.1387023925781,
@@ -11295,17 +11295,17 @@
                         1.4999995231628418,
                         5.199995994567871
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 209,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 209,
                     "mergeable": false
                 },
                 {
@@ -11326,8 +11326,8 @@
                         3.020676851272583,
                         327.7533264160156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 732.3965454101562,
                     "position": [
                         665.5892944335938,
@@ -11344,17 +11344,17 @@
                         2.4399986267089844,
                         6.74999475479126
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 210,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 210,
                     "mergeable": false
                 },
                 {
@@ -11375,8 +11375,8 @@
                         -3.020676851272583,
                         -327.7533264160156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 732.3965454101562,
                     "position": [
                         665.5892944335938,
@@ -11393,17 +11393,17 @@
                         2.4399986267089844,
                         6.74999475479126
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 210,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 210,
                     "mergeable": false
                 },
                 {
@@ -11424,8 +11424,8 @@
                         0.5661302208900452,
                         62.6008415222168
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 715.4310913085938,
                     "position": [
                         399.3553161621094,
@@ -11442,17 +11442,17 @@
                         2.149998903274536,
                         6.469995021820068
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 215,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 215,
                     "mergeable": false
                 },
                 {
@@ -11473,8 +11473,8 @@
                         -0.5661302208900452,
                         -62.60083770751953
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 715.4310913085938,
                     "position": [
                         399.3553161621094,
@@ -11491,17 +11491,17 @@
                         2.149998903274536,
                         6.469995021820068
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 215,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 215,
                     "mergeable": false
                 },
                 {
@@ -11522,8 +11522,8 @@
                         3.2841556072235107,
                         405.6733093261719
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 696.677001953125,
                     "position": [
                         419.5738220214844,
@@ -11540,17 +11540,17 @@
                         1.2799997329711914,
                         5.639995574951172
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 216,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 216,
                     "mergeable": false
                 },
                 {
@@ -11571,8 +11571,8 @@
                         -3.2841556072235107,
                         -405.6733093261719
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 696.677001953125,
                     "position": [
                         419.5738220214844,
@@ -11589,17 +11589,17 @@
                         1.2799997329711914,
                         5.639995574951172
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 216,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 216,
                     "mergeable": false
                 },
                 {
@@ -11620,8 +11620,8 @@
                         0.2517993748188019,
                         447.64263916015625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 746.66650390625,
                     "position": [
                         585.0560913085938,
@@ -11638,17 +11638,17 @@
                         0.43000054359436035,
                         0.4200005531311035
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 217,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 217,
                     "mergeable": false
                 },
                 {
@@ -11669,8 +11669,8 @@
                         -0.2517993748188019,
                         -447.64263916015625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 746.66650390625,
                     "position": [
                         585.0560913085938,
@@ -11687,17 +11687,17 @@
                         0.43000054359436035,
                         0.4200005531311035
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 217,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 217,
                     "mergeable": false
                 },
                 {
@@ -11718,8 +11718,8 @@
                         0.18256938457489014,
                         264.4381408691406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 724.2134399414062,
                     "position": [
                         604.154541015625,
@@ -11736,17 +11736,17 @@
                         0.5000004768371582,
                         0.5000004768371582
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 218,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 218,
                     "mergeable": false
                 },
                 {
@@ -11767,8 +11767,8 @@
                         -0.18256938457489014,
                         -264.4381408691406
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 724.2134399414062,
                     "position": [
                         604.154541015625,
@@ -11785,17 +11785,17 @@
                         0.5000004768371582,
                         0.5000004768371582
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 218,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 218,
                     "mergeable": false
                 },
                 {
@@ -11816,8 +11816,8 @@
                         -0.26687073707580566,
                         -200.04653930664062
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 749.6008911132812,
                     "position": [
                         684.9779052734375,
@@ -11834,17 +11834,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 220,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 220,
                     "mergeable": false
                 },
                 {
@@ -11865,8 +11865,8 @@
                         0.26687073707580566,
                         200.04653930664062
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 749.6008911132812,
                     "position": [
                         684.9779052734375,
@@ -11883,17 +11883,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 220,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 220,
                     "mergeable": false
                 },
                 {
@@ -11914,8 +11914,8 @@
                         -0.19722557067871094,
                         -146.96954345703125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 745.1849975585938,
                     "position": [
                         725.9917602539062,
@@ -11932,17 +11932,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 222,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 222,
                     "mergeable": false
                 },
                 {
@@ -11963,8 +11963,8 @@
                         0.19722557067871094,
                         146.96954345703125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 745.1849975585938,
                     "position": [
                         725.9917602539062,
@@ -11981,17 +11981,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 222,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 222,
                     "mergeable": false
                 },
                 {
@@ -12012,8 +12012,8 @@
                         0.32443931698799133,
                         105.88115692138672
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 704.918212890625,
                     "position": [
                         607.995361328125,
@@ -12030,17 +12030,17 @@
                         2.159998893737793,
                         2.159998893737793
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 223,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 223,
                     "mergeable": false
                 },
                 {
@@ -12061,8 +12061,8 @@
                         -0.32443931698799133,
                         -105.88115692138672
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 704.918212890625,
                     "position": [
                         607.995361328125,
@@ -12079,17 +12079,17 @@
                         2.159998893737793,
                         2.159998893737793
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 223,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 223,
                     "mergeable": false
                 },
                 {
@@ -12110,8 +12110,8 @@
                         0.9504234790802002,
                         137.8784942626953
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 710.8453369140625,
                     "position": [
                         -697.043212890625,
@@ -12128,17 +12128,17 @@
                         1.3199996948242188,
                         4.899996280670166
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 224,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 224,
                     "mergeable": false
                 },
                 {
@@ -12159,8 +12159,8 @@
                         -0.9504234790802002,
                         -137.8784942626953
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 710.8453369140625,
                     "position": [
                         -697.043212890625,
@@ -12177,17 +12177,17 @@
                         1.3199996948242188,
                         4.899996280670166
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 224,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 224,
                     "mergeable": false
                 },
                 {
@@ -12208,8 +12208,8 @@
                         0.12393367290496826,
                         94.8577651977539
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 765.391357421875,
                     "position": [
                         -674.185546875,
@@ -12226,17 +12226,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 225,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 225,
                     "mergeable": false
                 },
                 {
@@ -12257,8 +12257,8 @@
                         -0.12393367290496826,
                         -94.8577651977539
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 765.391357421875,
                     "position": [
                         -674.185546875,
@@ -12275,17 +12275,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 225,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 225,
                     "mergeable": false
                 },
                 {
@@ -12306,8 +12306,8 @@
                         0.12566566467285156,
                         175.78213500976562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 727.3807983398438,
                     "position": [
                         -509.08642578125,
@@ -12324,17 +12324,17 @@
                         0.5200004577636719,
                         0.5200004577636719
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 226,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 226,
                     "mergeable": false
                 },
                 {
@@ -12355,8 +12355,8 @@
                         -0.12566566467285156,
                         -175.78213500976562
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 727.3807983398438,
                     "position": [
                         -509.08642578125,
@@ -12373,17 +12373,17 @@
                         0.5200004577636719,
                         0.5200004577636719
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 226,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 226,
                     "mergeable": false
                 },
                 {
@@ -12404,8 +12404,8 @@
                         0.26439371705055237,
                         265.84326171875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 703.8380737304688,
                     "position": [
                         -641.3555908203125,
@@ -12422,17 +12422,17 @@
                         0.7000002861022949,
                         0.7000002861022949
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 227,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 227,
                     "mergeable": false
                 },
                 {
@@ -12453,8 +12453,8 @@
                         -0.26439371705055237,
                         -265.84326171875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 703.8380737304688,
                     "position": [
                         -641.3555908203125,
@@ -12471,17 +12471,17 @@
                         0.7000002861022949,
                         0.7000002861022949
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 227,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 227,
                     "mergeable": false
                 },
                 {
@@ -12502,8 +12502,8 @@
                         0.1565854549407959,
                         116.98920440673828
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 747.1268920898438,
                     "position": [
                         -699.2997436523438,
@@ -12520,17 +12520,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 228,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 228,
                     "mergeable": false
                 },
                 {
@@ -12551,8 +12551,8 @@
                         -0.1565854549407959,
                         -116.98920440673828
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 747.1268920898438,
                     "position": [
                         -699.2997436523438,
@@ -12569,17 +12569,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 228,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 228,
                     "mergeable": false
                 },
                 {
@@ -12600,8 +12600,8 @@
                         -0.04402323067188263,
                         -4.092816352844238
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 717.7236938476562,
                     "position": [
                         404.49920654296875,
@@ -12618,17 +12618,17 @@
                         1.7399992942810059,
                         7.719993591308594
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 0,
                     "mergeable": false
                 },
                 {
@@ -12649,8 +12649,8 @@
                         0.40736204385757446,
                         60.059600830078125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 725.3817749023438,
                     "position": [
                         418.3642578125,
@@ -12667,17 +12667,17 @@
                         1,
                         4.91999626159668
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 230,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 230,
                     "mergeable": false
                 },
                 {
@@ -12698,8 +12698,8 @@
                         -0.40736204385757446,
                         -60.059600830078125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 725.3817749023438,
                     "position": [
                         418.3642578125,
@@ -12716,17 +12716,17 @@
                         1,
                         4.91999626159668
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 230,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 230,
                     "mergeable": false
                 },
                 {
@@ -12747,8 +12747,8 @@
                         3.343670129776001,
                         460.7599792480469
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 777.1951293945312,
                     "position": [
                         502.9576110839844,
@@ -12765,17 +12765,17 @@
                         1.6399993896484375,
                         5.639995574951172
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 231,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 231,
                     "mergeable": false
                 },
                 {
@@ -12796,8 +12796,8 @@
                         -3.343670129776001,
                         -460.7599792480469
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 777.1951293945312,
                     "position": [
                         502.9576110839844,
@@ -12814,17 +12814,17 @@
                         1.6399993896484375,
                         5.639995574951172
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 231,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 231,
                     "mergeable": false
                 },
                 {
@@ -12845,8 +12845,8 @@
                         -0.22666402161121368,
                         -25.723350524902344
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 730.853759765625,
                     "position": [
                         -135.5802001953125,
@@ -12863,17 +12863,17 @@
                         2.5599985122680664,
                         6.439994812011719
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 0,
                     "mergeable": false
                 },
                 {
@@ -12894,8 +12894,8 @@
                         0.23954451084136963,
                         167.55079650878906
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 699.455810546875,
                     "position": [
                         -199.15914916992188,
@@ -12912,17 +12912,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 234,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 234,
                     "mergeable": false
                 },
                 {
@@ -12943,8 +12943,8 @@
                         -0.23954451084136963,
                         -167.55079650878906
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 699.455810546875,
                     "position": [
                         -199.15914916992188,
@@ -12961,17 +12961,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 234,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 234,
                     "mergeable": false
                 },
                 {
@@ -12992,8 +12992,8 @@
                         0.0062123509123921394,
                         0.8651407361030579
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 644.7804565429688,
                     "position": [
                         154.36517333984375,
@@ -13010,17 +13010,17 @@
                         1.2199997901916504,
                         4.630001068115234
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": true,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": true,
+                    "twinId": 0,
                     "mergeable": false
                 },
                 {
@@ -13041,8 +13041,8 @@
                         0.472842276096344,
                         357.592041015625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 756.2607421875,
                     "position": [
                         644.855224609375,
@@ -13059,17 +13059,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 236,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 236,
                     "mergeable": false
                 },
                 {
@@ -13090,8 +13090,8 @@
                         -0.472842276096344,
                         -357.592041015625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 756.2607421875,
                     "position": [
                         644.855224609375,
@@ -13108,17 +13108,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 236,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 236,
                     "mergeable": false
                 },
                 {
@@ -13139,8 +13139,8 @@
                         -0.41051650047302246,
                         -310.0296630859375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 755.218505859375,
                     "position": [
                         536.2726440429688,
@@ -13157,17 +13157,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 238,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 238,
                     "mergeable": false
                 },
                 {
@@ -13188,8 +13188,8 @@
                         0.41051650047302246,
                         310.0296630859375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 755.218505859375,
                     "position": [
                         536.2726440429688,
@@ -13206,17 +13206,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 238,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 238,
                     "mergeable": false
                 },
                 {
@@ -13237,8 +13237,8 @@
                         -0.6031420826911926,
                         -198.50970458984375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 677.9991455078125,
                     "position": [
                         -529.725341796875,
@@ -13255,17 +13255,17 @@
                         2.0599989891052246,
                         2.0599989891052246
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 240,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 240,
                     "mergeable": false
                 },
                 {
@@ -13286,8 +13286,8 @@
                         0.6031420826911926,
                         198.50970458984375
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 677.9991455078125,
                     "position": [
                         -529.725341796875,
@@ -13304,17 +13304,17 @@
                         2.0599989891052246,
                         2.0599989891052246
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 240,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 240,
                     "mergeable": false
                 },
                 {
@@ -13335,8 +13335,8 @@
                         3.5284311771392822,
                         549.9458618164062
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 757.4852905273438,
                     "position": [
                         498.783447265625,
@@ -13353,17 +13353,17 @@
                         1,
                         4.859996318817139
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 241,
+                    "weightHard": false,
+                    "no_features": true,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": true,
+                    "twinId": 241,
                     "mergeable": false
                 },
                 {
@@ -13384,8 +13384,8 @@
                         -3.5284311771392822,
                         -549.9458618164062
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 757.4852905273438,
                     "position": [
                         498.783447265625,
@@ -13402,17 +13402,17 @@
                         1,
                         4.859996318817139
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 241,
+                    "weightHard": false,
+                    "no_features": true,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": true,
+                    "twinId": 241,
                     "mergeable": false
                 },
                 {
@@ -13433,8 +13433,8 @@
                         0.471297025680542,
                         362.2155456542969
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 768.5504760742188,
                     "position": [
                         556.2100830078125,
@@ -13451,17 +13451,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 242,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 242,
                     "mergeable": false
                 },
                 {
@@ -13482,8 +13482,8 @@
                         -0.471297025680542,
                         -362.21551513671875
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 768.5504760742188,
                     "position": [
                         556.2100830078125,
@@ -13500,17 +13500,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 242,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 242,
                     "mergeable": false
                 },
                 {
@@ -13531,8 +13531,8 @@
                         -0.41671738028526306,
                         -317.1611633300781
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 761.0941162109375,
                     "position": [
                         666.9010620117188,
@@ -13549,17 +13549,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 243,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 243,
                     "mergeable": false
                 },
                 {
@@ -13580,8 +13580,8 @@
                         0.41671738028526306,
                         317.1611328125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 761.0941162109375,
                     "position": [
                         666.9010620117188,
@@ -13598,17 +13598,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 243,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 243,
                     "mergeable": false
                 },
                 {
@@ -13629,8 +13629,8 @@
                         -1.419506549835205,
                         -512.5845947265625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 733.0337524414062,
                     "position": [
                         -500.51824951171875,
@@ -13647,17 +13647,17 @@
                         2.029999017715454,
                         2.029999017715454
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 245,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 245,
                     "mergeable": false
                 },
                 {
@@ -13678,8 +13678,8 @@
                         1.419506549835205,
                         512.5845947265625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 733.0337524414062,
                     "position": [
                         -500.51824951171875,
@@ -13696,17 +13696,17 @@
                         2.029999017715454,
                         2.029999017715454
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 245,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 245,
                     "mergeable": false
                 },
                 {
@@ -13727,8 +13727,8 @@
                         -0.8598841428756714,
                         -619.2269897460938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 720.12841796875,
                     "position": [
                         367.79803466796875,
@@ -13745,17 +13745,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 247,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 247,
                     "mergeable": false
                 },
                 {
@@ -13776,8 +13776,8 @@
                         0.8598841428756714,
                         619.2269897460938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 720.12841796875,
                     "position": [
                         367.79803466796875,
@@ -13794,17 +13794,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 247,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 247,
                     "mergeable": false
                 },
                 {
@@ -13825,8 +13825,8 @@
                         0.1537855714559555,
                         278.3000183105469
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 760.0591430664062,
                     "position": [
                         697.7491455078125,
@@ -13843,17 +13843,17 @@
                         0.42000043392181396,
                         0.42000043392181396
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 249,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 249,
                     "mergeable": false
                 },
                 {
@@ -13874,8 +13874,8 @@
                         -0.1537855714559555,
                         -278.3000183105469
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 760.0591430664062,
                     "position": [
                         697.7491455078125,
@@ -13892,17 +13892,17 @@
                         0.42000043392181396,
                         0.42000043392181396
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 249,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 249,
                     "mergeable": false
                 },
                 {
@@ -13923,8 +13923,8 @@
                         -0.10667453706264496,
                         -167.9016876220703
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 724.0233764648438,
                     "position": [
                         632.3326416015625,
@@ -13941,17 +13941,17 @@
                         0.4600004553794861,
                         0.4600004553794861
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 250,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 250,
                     "mergeable": false
                 },
                 {
@@ -13972,8 +13972,8 @@
                         0.10667453706264496,
                         167.90167236328125
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 724.0233764648438,
                     "position": [
                         632.3326416015625,
@@ -13990,17 +13990,17 @@
                         0.4600004553794861,
                         0.4600004553794861
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 250,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 250,
                     "mergeable": false
                 },
                 {
@@ -14021,8 +14021,8 @@
                         0.5059152841567993,
                         89.4185562133789
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 653.9601440429688,
                     "position": [
                         -8.016952514648438,
@@ -14039,17 +14039,17 @@
                         3.6999974250793457,
                         3.6999974250793457
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 253,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 253,
                     "mergeable": false
                 },
                 {
@@ -14070,8 +14070,8 @@
                         -0.5059152841567993,
                         -89.4185562133789
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 653.9601440429688,
                     "position": [
                         -8.016952514648438,
@@ -14088,17 +14088,17 @@
                         3.6999974250793457,
                         3.6999974250793457
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 253,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 253,
                     "mergeable": false
                 },
                 {
@@ -14119,8 +14119,8 @@
                         -0.1521672010421753,
                         -117.56967163085938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 772.634765625,
                     "position": [
                         756.6195068359375,
@@ -14137,17 +14137,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 256,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 256,
                     "mergeable": false
                 },
                 {
@@ -14168,8 +14168,8 @@
                         0.1521672010421753,
                         117.56967163085938
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 772.634765625,
                     "position": [
                         756.6195068359375,
@@ -14186,17 +14186,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 256,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 256,
                     "mergeable": false
                 },
                 {
@@ -14217,8 +14217,8 @@
                         0.3217885494232178,
                         232.74281311035156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 723.2787475585938,
                     "position": [
                         616.590576171875,
@@ -14235,17 +14235,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 261,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 261,
                     "mergeable": false
                 },
                 {
@@ -14266,8 +14266,8 @@
                         -0.3217885494232178,
                         -232.74281311035156
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 723.2787475585938,
                     "position": [
                         616.590576171875,
@@ -14284,17 +14284,17 @@
                         1,
                         1
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 261,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 261,
                     "mergeable": false
                 },
                 {
@@ -14315,8 +14315,8 @@
                         -1.3453691005706787,
                         -192.08209228515625
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 750.9843139648438,
                     "position": [
                         692.8211059570312,
@@ -14333,17 +14333,17 @@
                         3.2399978637695312,
                         5.259995937347412
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 264,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 264,
                     "mergeable": false
                 },
                 {
@@ -14364,8 +14364,8 @@
                         1.3453691005706787,
                         192.0821075439453
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": true,
+                    "proj": "BP_Bend",
                     "height": 750.9843139648438,
                     "position": [
                         692.8211059570312,
@@ -14382,17 +14382,17 @@
                         3.2399978637695312,
                         5.259995937347412
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 264,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 264,
                     "mergeable": false
                 },
                 {
@@ -14413,8 +14413,8 @@
                         1.522739052772522,
                         209.77633666992188
                     ],
-                    "proj": "BP_Bend",
                     "mirrored": false,
+                    "proj": "BP_Bend",
                     "height": 724.6301879882812,
                     "position": [
                         661.9959716796875,
@@ -14431,41 +14431,21 @@
                         3.2399978637695312,
                         5.259995937347412
                     ],
-                    "weightHard": false,
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "twinId": 0,
+                    "weightHard": false,
+                    "no_features": false,
                     "pathable": false,
                     "flooded": false,
-                    "no_features": false,
+                    "twinId": 0,
                     "mergeable": false
                 }
             ],
             "metal_spots": [
-                [
-                    193.58248901367188,
-                    -30.55426025390625,
-                    -609.686279296875
-                ],
-                [
-                    149.41458129882812,
-                    -83.92742919921875,
-                    -614.5274658203125
-                ],
-                [
-                    -45.37431335449219,
-                    -33.650543212890625,
-                    -639.3160400390625
-                ],
-                [
-                    -9.484512329101562,
-                    -75.75888061523438,
-                    -645.8038330078125
-                ],
                 [
                     39.969818115234375,
                     95.11651611328125,
@@ -14475,26 +14455,6 @@
                     94.07876586914062,
                     112.53421020507812,
                     607.033447265625
-                ],
-                [
-                    -11.6961669921875,
-                    -69.67401123046875,
-                    646.0423583984375
-                ],
-                [
-                    21.2073974609375,
-                    -111.51431274414062,
-                    638.74755859375
-                ],
-                [
-                    182.10763549804688,
-                    -124.60687255859375,
-                    620.1552734375
-                ],
-                [
-                    214.8167724609375,
-                    -87.05804443359375,
-                    611.0003662109375
                 ],
                 [
                     -616.0399780273438,
@@ -14770,48 +14730,108 @@
                     66.9334487915039,
                     150.59698486328125,
                     -609.599609375
+                ],
+                [
+                    18.3548583984375,
+                    148.4248046875,
+                    616.556884765625
+                ],
+                [
+                    75.92378234863281,
+                    164.92581176757812,
+                    611.7266845703125
+                ],
+                [
+                    74.94956970214844,
+                    -108.44480895996094,
+                    625.5721435546875
+                ],
+                [
+                    79.51353454589844,
+                    -162.1299285888672,
+                    631.7191162109375
+                ],
+                [
+                    140.8614501953125,
+                    -156.39622497558594,
+                    638.625244140625
+                ],
+                [
+                    135.99404907226562,
+                    -104.34523010253906,
+                    625.5318603515625
+                ],
+                [
+                    65.82828521728516,
+                    199.94195556640625,
+                    -611.7882080078125
+                ],
+                [
+                    119.45025634765625,
+                    194.55001831054688,
+                    -607.459228515625
+                ],
+                [
+                    46.152557373046875,
+                    -80.30377197265625,
+                    -629.7677001953125
+                ],
+                [
+                    97.05149841308594,
+                    -72.25688171386719,
+                    -612.0059814453125
+                ],
+                [
+                    58.77642822265625,
+                    -137.0255126953125,
+                    -633.9697265625
+                ],
+                [
+                    111.201416015625,
+                    -129.4865264892578,
+                    -632.9345703125
                 ]
             ],
             "landing_zones": {
-                "list": [
-                    [
-                        61.958251953125,
-                        109.5152587890625,
-                        616.0625
-                    ],
-                    [
-                        99.72882080078125,
-                        -117.64068603515625,
-                        628.755615234375
-                    ],
-                    [
-                        96.06692504882812,
-                        148.7060546875,
-                        -605.7275390625
-                    ],
-                    [
-                        73.04080200195312,
-                        -92.15478515625,
-                        -620.9615478515625
-                    ]
-                ],
                 "rules": [
                     {
-                        "min": 0,
-                        "max": 10
+                        "max": 10,
+                        "min": 0
                     },
                     {
-                        "min": 0,
-                        "max": 10
+                        "max": 10,
+                        "min": 0
                     },
                     {
-                        "min": 0,
-                        "max": 10
+                        "max": 10,
+                        "min": 0
                     },
                     {
-                        "min": 0,
-                        "max": 10
+                        "max": 10,
+                        "min": 0
                     }
+                ],
+                "list": [
+                    [
+                        58.25579833984375,
+                        126.3770751953125,
+                        614.438232421875
+                    ],
+                    [
+                        111.29150390625,
+                        -127.6025390625,
+                        632.314697265625
+                    ],
+                    [
+                        93.19931030273438,
+                        178.07958984375,
+                        -611.869873046875
+                    ],
+                    [
+                        76.79913330078125,
+                        -102.3931884765625,
+                        -623.52392578125
+                    ]
                 ]
             }
         }
