@@ -2,7 +2,7 @@
     "context": "client",
     "identifier": "com.pa.grandhomie.maps",
     "display_name": "Grand Homie's map pack - unshared 2v2, 3v3, 4v4 and 5v5 planets.",
-    "description": "Custom single planet systems made for unshared battles.  New 3v3, 4v4 and 5v5 planets plus a collection of existing 1v1 maps modified for 2v2 unshared.  Symmetrical and Balanced.",
+    "description": "Custom single planet systems made for unshared battles.  New 3v3, 4v4 and 5v5 planets plus a collection of existing 1v1 maps modified for 2v2 unshared.  Symmetrical and balanced.",
     "author": "Grand Homie",
     "version": "1.0",
     "build": "105067",
