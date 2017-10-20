@@ -6,7 +6,7 @@
     "players":[8, 8],
     "planets": [
         {
-            "name": "Sir Wally Herbet",
+            "name": "Screwball",
             "mass": 5000,
             "position_x": 23000,
             "position_y": -27000,
