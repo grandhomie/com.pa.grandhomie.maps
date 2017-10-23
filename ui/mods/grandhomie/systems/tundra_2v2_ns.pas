@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "Frozen",
+            "name": "Frozen 2v2 NS",
             "mass": 10000,
             "position_x": 42700,
             "position_y": -3700,

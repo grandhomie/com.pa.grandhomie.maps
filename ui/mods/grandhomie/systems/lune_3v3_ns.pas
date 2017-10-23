@@ -6,7 +6,7 @@
     "players":[6, 6],
     "planets": [
         {
-            "name": "Lune",
+            "name": "Lune 3v3 NS",
             "mass": 5000,
             "position_x": 3000,
             "position_y": -21100,

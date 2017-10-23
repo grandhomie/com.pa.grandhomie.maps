@@ -6,7 +6,7 @@
     "players":[8, 8],
     "planets": [
         {
-            "name": "Bosworth Field",
+            "name": "Bosworth Field 4v4 NS",
             "mass": 10000,
             "position_x": -600,
             "position_y": -17800,
