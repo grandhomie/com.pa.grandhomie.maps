@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "Reef",
+            "name": "Reef 2v2 NS",
             "mass": 10000,
             "position_x": 31500,
             "position_y": 1200,

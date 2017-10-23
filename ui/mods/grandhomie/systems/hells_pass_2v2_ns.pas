@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "Denjakai",
+            "name": "Denjakai 2v2 NS",
             "mass": 5000,
             "position_x": 16900,
             "position_y": -39600,

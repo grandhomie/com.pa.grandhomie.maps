@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "Closair",
+            "name": "Closair 2v2 NS",
             "mass": 10000,
             "position_x": 75400,
             "position_y": 800,

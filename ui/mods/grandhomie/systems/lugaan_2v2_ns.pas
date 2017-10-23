@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "Lugaan",
+            "name": "Lugaan 2v2 NS",
             "mass": 10000,
             "position_x": 12624.9990234375,
             "position_y": 0,

@@ -10,7 +10,7 @@
     ],
     "planets": [
         {
-            "name": "Homie's Blur's Map",
+            "name": "Homie's Blur's Map 5v5 NS",
             "mass": 5000,
             "position_x": 28600,
             "position_y": -30300,

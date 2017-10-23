@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "TheHobbits",
+            "name": "TheHobbits 2v2 NS",
             "mass": 20000,
             "position_x": 64900,
             "position_y": -14800,

@@ -6,7 +6,7 @@
     "players":[6, 6],
     "planets": [
         {
-            "name": "Hastings",
+            "name": "Hastings 3v3 NS",
             "mass": 10000,
             "position_x": 2900,
             "position_y": -18100,

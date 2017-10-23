@@ -9,7 +9,7 @@
     ],
     "planets": [
         {
-            "name": "Kuppa",
+            "name": "Kuppa 600 5v5 NS",
             "mass": 35000,
             "position_x": -45500,
             "position_y": -23000,
