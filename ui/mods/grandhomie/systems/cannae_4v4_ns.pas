@@ -6,7 +6,7 @@
     "players":[8, 8],
     "planets": [
         {
-            "name": "Cannae",
+            "name": "Cannae 4v4 NS",
             "mass": 10000,
             "position_x": 3000,
             "position_y": -13400,

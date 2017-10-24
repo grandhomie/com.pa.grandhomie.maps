@@ -4,7 +4,7 @@
     "creator":"AndreasG",
     "planets": [
         {
-            "name": "Nostalgica",
+            "name": "Nostalgica No Crater",
             "mass": 5000,
             "position_x": 37500,
             "position_y": -6200,

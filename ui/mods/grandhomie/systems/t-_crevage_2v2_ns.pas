@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "Crevage",
+            "name": "Crevage 2v2 NS",
             "mass": 20000,
             "position_x": 15900,
             "position_y": 100,

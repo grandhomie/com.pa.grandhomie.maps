@@ -6,7 +6,7 @@
     "players":[8, 8],
     "planets": [
         {
-            "name": "Castillon",
+            "name": "Castillon 4v4 NS",
             "mass": 10000,
             "position_x": 3300,
             "position_y": -13700,
