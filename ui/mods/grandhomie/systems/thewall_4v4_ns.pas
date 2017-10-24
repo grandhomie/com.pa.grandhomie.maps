@@ -6,7 +6,7 @@
     "players":[8, 8],
     "planets": [
         {
-            "name": "TheWall",
+            "name": "TheWall 4v4 NS",
             "mass": 5000,
             "position_x": 21600,
             "position_y": -9300,

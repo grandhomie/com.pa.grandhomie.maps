@@ -6,7 +6,7 @@
     "players":[4, 4],
     "planets": [
         {
-            "name": "BurntPizza",
+            "name": "BurntPizza 2v2 NS",
             "mass": 10000,
             "position_x": 14900,
             "position_y": -900,
