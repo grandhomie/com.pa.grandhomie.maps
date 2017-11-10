@@ -1,12 +1,12 @@
 {
-    "name": "Macro Aggressions - 800 - 4v4v4v4 or 8v8",
-    "description":"16 players map.  4v4v4v4 or 8v8.  800 radius.",
+    "name": "Macro Aggressions - 4v4v4v4 or 8v8",
+    "description":"16 players map.  4v4v4v4 or 8v8.  Players spawn in groups of 4 around the equator.  A lot of metal near the landing zones and many contested metal clusters.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players": [16, 16],
     "planets": [
         {
-            "name": "Macro Aggressions 800 16 Players",
+            "name": "Macro Aggressions 16 Players",
             "mass": 5000,
             "position_x": 3044.928466796875,
             "position_y": -27404.357421875,
