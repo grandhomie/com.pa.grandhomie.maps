@@ -1,6 +1,6 @@
 {
     "name": "Stamford Bridge 4v4 NS",
-    "description":"Half naval half land 4v4 unshared map.  North vs south with 2 bridges and 2 big ponds between the hemispheres.",
+    "description":"1/3 naval 2/3 land 4v4 unshared map.  North vs south with 2 bridges and 2 big ponds between the hemispheres.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[8, 8],
