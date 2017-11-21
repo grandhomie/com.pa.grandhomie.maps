@@ -1,7 +1,7 @@
 {
     "name": "Salar de Uyuni 4v4 NS",
-    "description":"4v4 unshared map.  Think Wadiya but balanced and with spawns in a checkerboard pattern (going east west, players of team 1 spawn: north, south, north, south - the opposite hemisphere for the opposing team).",
-    "version":"1.0",
+    "description":"4v4 unshared map.  (Improved spawns) Think Wadiya but balanced and with spawns in a checkerboard pattern (going east west, players of team 1 spawn: north, north, south, south - the opposite hemisphere for the opposing team).  Cooperation and radar/vision is key.",
+    "version":"2.0",
     "creator":"Grand Homie",
     "players":[8, 8],
     "planets": [
@@ -39,11 +39,23 @@
             },
             "planetCSG": [
                 {
-                    "mergeable": false,
-                    "twinId": 0,
-                    "flooded": false,
-                    "pathable": false,
-                    "no_features": false,
+                    "rotation": 0,
+                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "weightHard": false,
+                    "position": [
+                        0,
+                        0,
+                        500
+                    ],
+                    "height": 499.86138916015625,
                     "scale": [
                         1,
                         1,
@@ -54,12 +66,7 @@
                         1,
                         1
                     ],
-                    "height": 499.86138916015625,
-                    "position": [
-                        0,
-                        0,
-                        500
-                    ],
+                    "op": "BO_Add",
                     "transform": [
                         1,
                         0,
@@ -74,25 +81,30 @@
                         1,
                         499.86138916015625
                     ],
-                    "op": "BO_Add",
-                    "weightHard": false,
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "rotation": 0,
+                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
+                    "proj": "BP_Bend",
+                    "mirrored": true,
                     "weight": [
                         0,
                         0,
                         0,
                         0
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
-                    "rotation": 0
-                },
-                {
-                    "mergeable": false,
-                    "twinId": 0,
-                    "flooded": false,
-                    "pathable": false,
-                    "no_features": false,
+                    "weightHard": false,
+                    "position": [
+                        0,
+                        0,
+                        500
+                    ],
+                    "height": 499.86138916015625,
                     "scale": [
                         1,
                         1,
@@ -103,12 +115,7 @@
                         1,
                         1
                     ],
-                    "height": 499.86138916015625,
-                    "position": [
-                        0,
-                        0,
-                        500
-                    ],
+                    "op": "BO_Add",
                     "transform": [
                         1,
                         0,
@@ -123,18 +130,11 @@
                         -1,
                         -499.86138916015625
                     ],
-                    "op": "BO_Add",
-                    "weightHard": false,
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
-                    "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
-                    "rotation": 0
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
                 }
             ],
             "metal_spots": [
@@ -2016,44 +2016,44 @@
                 ],
                 "list": [
                     [
-                        -355.90673828125,
-                        0.8266754150390625,
-                        356.5116271972656
+                        -3.1790008544921875,
+                        -379.2119140625,
+                        323.9664306640625
                     ],
                     [
-                        -1.945037841796875,
-                        -357.95166015625,
-                        -352.7791442871094
+                        381.343017578125,
+                        -1.892669677734375,
+                        321.0479736328125
                     ],
                     [
-                        358.1156005859375,
-                        2.188274383544922,
-                        353.7648010253906
+                        -1.5665130615234375,
+                        385.454345703125,
+                        -318.45623779296875
                     ],
                     [
-                        2.878713607788086,
-                        358.1553955078125,
-                        -353.7452392578125
+                        -387.912109375,
+                        -0.181549072265625,
+                        -314.9721374511719
                     ],
                     [
-                        -358.052978515625,
-                        0.6474838256835938,
-                        -352.6282653808594
+                        -2.59783935546875,
+                        -382.866943359375,
+                        -319.60467529296875
                     ],
                     [
-                        -0.377227783203125,
-                        -358.594482421875,
-                        347.4495849609375
+                        383.482177734375,
+                        -1.7169189453125,
+                        -318.4378662109375
                     ],
                     [
-                        359.18505859375,
-                        2.3436367511749268,
-                        -352.0010070800781
+                        -3.6787109375,
+                        386.0059814453125,
+                        317.87353515625
                     ],
                     [
-                        4.084049224853516,
-                        356.3599853515625,
-                        356.31085205078125
+                        -383.07763671875,
+                        2.4187164306640625,
+                        320.9691162109375
                     ]
                 ]
             }
