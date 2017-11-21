@@ -11,9 +11,10 @@ cShareSystems.load_pas("Grand Homie's 2v2 NS", [
 	"coui://ui/mods/grandhomie/systems/lugaan_2v2_ns.pas"
 ]);
 cShareSystems.load_pas("Grand Homie's 3v3+ NS", [
+    "coui://ui/mods/grandhomie/systems/ayutthaya_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/carthage_3v3_ns.pas",
 	"coui://ui/mods/grandhomie/systems/hastings_3v3_ns.pas",
 	"coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas",
-    "coui://ui/mods/grandhomie/systems/carthage_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/salt_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/castillon_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/cannae_4v4_ns.pas",
