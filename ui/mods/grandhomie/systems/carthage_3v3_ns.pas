@@ -1,6 +1,6 @@
 {
     "name": "Carthage 3v3 NS",
-    "description":"3v3 unshared map with plenty of CSGs.",
+    "description":"3v3 unshared map with many expansions and strategic areas to contest.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[6, 6],
