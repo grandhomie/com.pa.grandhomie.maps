@@ -1,10 +1,11 @@
 {
-    "name": "Wadiya No Crater",
-    "description":"Wadiya without the craters.",
+    "name": "Wadiya - No Crater",
+    "description":"Wadiya without the craters.  (Fixed - really without craters)",
     "creator":"AndreasG",
+    "version":"1.1",
     "planets": [
         {
-            "name": "Nostalgica No Crater",
+            "name": "Nostalgica - No Crater",
             "mass": 5000,
             "position_x": 37500,
             "position_y": -6200,
@@ -36,7 +37,55 @@
                 "landingZoneSize": 0
             },
             "planetCSG": [
-                
+                {
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
+                    "transform": [
+                        0.2890772521495819,
+                        0.01133036706596613,
+                        -0.07941261678934097,
+                        -146.0454559326172,
+                        0.01133036706596613,
+                        0.2882481813430786,
+                        0.08237115293741226,
+                        151.48641967773438,
+                        0.07941261678934097,
+                        -0.08237115293741226,
+                        0.27732476592063904,
+                        510.02001953125
+                    ],
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "position": [
+                        -146.0454559326172,
+                        151.48641967773438,
+                        510.02001953125
+                    ],
+                    "height": 551.7225952148438,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
+                        0.3000006675720215,
+                        0.3000006675720215,
+                        0.3000006675720215
+                    ],
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "twinId": 0,
+                    "pathable": false,
+                    "flooded": false,
+                    "no_features": false,
+                    "mergeable": false
+                }
             ],
             "metal_spots": [
                 [
