@@ -1,4 +1,5 @@
 cShareSystems.load_pas("Grand Homie's 2v2 NS", [
+    "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/toisengard_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/overcookedpizza_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/closair_2v2_ns.pas",
@@ -10,7 +11,7 @@ cShareSystems.load_pas("Grand Homie's 2v2 NS", [
     "coui://ui/mods/grandhomie/systems/t-_crevage_2v2_ns.pas",
 	"coui://ui/mods/grandhomie/systems/lugaan_2v2_ns.pas"
 ]);
-cShareSystems.load_pas("Grand Homie's 3v3+ NS", [
+cShareSystems.load_pas("Grand Homie's 3v3-5v5 NS", [
     "coui://ui/mods/grandhomie/systems/teotihuacan_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/wide_angles_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/tyburn_3v3_ns.pas",
@@ -18,6 +19,7 @@ cShareSystems.load_pas("Grand Homie's 3v3+ NS", [
     "coui://ui/mods/grandhomie/systems/carthage_3v3_ns.pas",
 	"coui://ui/mods/grandhomie/systems/hastings_3v3_ns.pas",
 	"coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/salt_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/castillon_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/cannae_4v4_ns.pas",
@@ -28,10 +30,12 @@ cShareSystems.load_pas("Grand Homie's 3v3+ NS", [
     "coui://ui/mods/grandhomie/systems/thewall_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/kuppa_600_5v5_ns.pas",
     "coui://ui/mods/grandhomie/systems/homies_blurs_map_5v5_ns.pas",
+	"coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas"
+]);
+cShareSystems.load_pas("Grand Homie's 12+ Players", [
     "coui://ui/mods/grandhomie/systems/sixmetry_6v6_ns.pas",
     "coui://ui/mods/grandhomie/systems/love_triangle_4v4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/battlestar_16p.pas",
     "coui://ui/mods/grandhomie/systems/lord_of_symmetry_8v8_ns.pas",
-    "coui://ui/mods/grandhomie/systems/macro_aggressions_800_16_players.pas",
-	"coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas"
+    "coui://ui/mods/grandhomie/systems/macro_aggressions_800_16_players.pas"
 ]);
