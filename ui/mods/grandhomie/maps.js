@@ -29,8 +29,7 @@ cShareSystems.load_pas("Grand Homie's 3v3-5v5 NS", [
     "coui://ui/mods/grandhomie/systems/screwball_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/thewall_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/kuppa_600_5v5_ns.pas",
-    "coui://ui/mods/grandhomie/systems/homies_blurs_map_5v5_ns.pas",
-	"coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas"
+    "coui://ui/mods/grandhomie/systems/homies_blurs_map_5v5_ns.pas"
 ]);
 cShareSystems.load_pas("Grand Homie's 12+ Players", [
     "coui://ui/mods/grandhomie/systems/sixmetry_6v6_ns.pas",
