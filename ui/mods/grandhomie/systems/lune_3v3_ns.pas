@@ -1,9 +1,9 @@
 {
     "name": "Lune 3v3 NS",
-    "description":"3v3 unshared map.  Symmetrical metal like TheClassyBarren but with more metal and less clusters like Wadiya.",
-    "version":"1.0",
+    "description":"3v3 unshared map (also works for 1v1 and 2v2).  Symmetrical metal like TheClassyBarren but with more metal and less clusters like Wadiya.",
+    "version":"1.1",
     "creator":"Grand Homie",
-    "players":[6, 6],
+    "players":[2, 6],
     "planets": [
         {
             "name": "Lune 3v3 NS",
@@ -1367,28 +1367,28 @@
             "landing_zones": {
                 "rules": [
                     {
-                        "max": 10,
-                        "min": 0
+                        "max": 6,
+                        "min": 2
                     },
                     {
-                        "max": 10,
-                        "min": 0
+                        "max": 6,
+                        "min": 4
                     },
                     {
-                        "max": 10,
-                        "min": 0
+                        "max": 6,
+                        "min": 6
                     },
                     {
-                        "max": 10,
-                        "min": 0
+                        "max": 6,
+                        "min": 2
                     },
                     {
-                        "max": 10,
-                        "min": 0
+                        "max": 6,
+                        "min": 4
                     },
                     {
-                        "max": 10,
-                        "min": 0
+                        "max": 6,
+                        "min": 6
                     }
                 ],
                 "list": [
