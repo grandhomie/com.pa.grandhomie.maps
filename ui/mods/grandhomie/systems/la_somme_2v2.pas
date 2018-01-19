@@ -1,6 +1,6 @@
 {
     "name": "The Somme 2v2 NS",
-    "description":"2v2 unshared map with plenty of expansions and ramps / mounts. (Also set up for 1v1)",
+    "description":"2v2 unshared map with plenty of expansions and ramps / mountains. (Also set up for 1v1)",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[2, 4],
