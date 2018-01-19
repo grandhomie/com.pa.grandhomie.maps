@@ -1,4 +1,5 @@
 cShareSystems.load_pas("Grand Homie's 2v2 NS", [
+    "coui://ui/mods/grandhomie/systems/la_somme_2v2.pas",
     "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/toisengard_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/overcookedpizza_2v2_ns.pas",
