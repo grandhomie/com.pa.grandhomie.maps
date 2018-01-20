@@ -29,6 +29,7 @@ cShareSystems.load_pas("Grand Homie's 3v3-5v5 NS", [
     "coui://ui/mods/grandhomie/systems/prof_x4_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/screwball_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/thewall_4v4_ns.pas",
+    "coui://ui/mods/grandhomie/systems/ypres_5v5.pas",
     "coui://ui/mods/grandhomie/systems/kuppa_600_5v5_ns.pas",
     "coui://ui/mods/grandhomie/systems/homies_blurs_map_5v5_ns.pas"
 ]);
