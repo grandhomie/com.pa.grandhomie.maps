@@ -1,12 +1,12 @@
 {
-    "name": "Salar de Uyuni 4v4 NS",
-    "description":"4v4 unshared map.  (Improved spawns) Think Wadiya but balanced and with spawns in a checkerboard pattern (going east west, players of team 1 spawn: north, north, south, south - the opposite hemisphere for the opposing team).  Cooperation and radar/vision is key.",
-    "version":"2.0",
+    "name": "Lune 4v4 NS",
+    "description":"4v4 unshared barren moon.  Wadiya-like planet with balanced spawns and metal (same planet as 'Salar de Uyuni' but north vs south spawns as opposed to checkerboard pattern).",
+    "version":"1.0",
     "creator":"Grand Homie",
     "players":[8, 8],
     "planets": [
         {
-            "name": "Salar de Uyuni 4v4 NS",
+            "name": "Lune 4v4 NS",
             "mass": 5000,
             "position_x": -2810.556396484375,
             "position_y": -21022.962890625,
@@ -2015,16 +2015,7 @@
                     }
                 ],
                 "list": [
-                    [
-                        -3.1790008544921875,
-                        -379.2119140625,
-                        323.9664306640625
-                    ],
-                    [
-                        381.343017578125,
-                        -1.892669677734375,
-                        321.0479736328125
-                    ],
+
                     [
                         -1.5665130615234375,
                         385.454345703125,
@@ -2045,6 +2036,8 @@
                         -1.7169189453125,
                         -318.4378662109375
                     ],
+
+
                     [
                         -3.6787109375,
                         386.0059814453125,
@@ -2054,6 +2047,16 @@
                         -383.07763671875,
                         2.4187164306640625,
                         320.9691162109375
+                    ],
+                    [
+                        -3.1790008544921875,
+                        -379.2119140625,
+                        323.9664306640625
+                    ],
+                    [
+                        381.343017578125,
+                        -1.892669677734375,
+                        321.0479736328125
                     ]
                 ]
             }
