@@ -20,6 +20,7 @@ cShareSystems.load_pas("Grand Homie's 3v3-5v5", [
     "coui://ui/mods/grandhomie/systems/carthage_3v3_ns.pas",
 	"coui://ui/mods/grandhomie/systems/hastings_3v3_ns.pas",
 	"coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_4v4.pas",
     "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/salt_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/castillon_4v4_ns.pas",
@@ -36,7 +37,9 @@ cShareSystems.load_pas("Grand Homie's 3v3-5v5", [
 ]);
 cShareSystems.load_pas("Grand Homie's 12+ Players", [
     "coui://ui/mods/grandhomie/systems/sixmetry_6v6_ns.pas",
+    "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_4v4v4.pas",
     "coui://ui/mods/grandhomie/systems/love_triangle_4v4v4_ns.pas",
+    "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_8v8.pas",
     "coui://ui/mods/grandhomie/systems/battlestar_16p.pas",
     "coui://ui/mods/grandhomie/systems/lord_of_symmetry_8v8_ns.pas",
     "coui://ui/mods/grandhomie/systems/macro_aggressions_800_16_players.pas"
