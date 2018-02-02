@@ -1,6 +1,6 @@
 {
     "name": "Battlestar - 4v4v4v4 or 8v8",
-    "description":"16 players map.  4v4v4v4, 8v8 or 4v4.  Players spawn in groups of 4 around the equator.  4 metal points each near the landing zone so players will have to expand or get annihilated.  (Can also be played as a 4v4; in this setup, teams spawn on opposite side of the planet).",
+    "description":"16 players map: 4v4v4v4 or 8v8 (also set up for 4v4).  Players spawn in groups of 4 around the equator.  4 metal points each near the landing zone so players will have to expand or get annihilated.  (Can also be played as a 4v4; in this setup, teams spawn on opposite side of the planet).",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[8, 16],

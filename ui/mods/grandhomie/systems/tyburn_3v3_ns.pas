@@ -1,6 +1,6 @@
 {
     "name": "Tyburn 3v3 NS",
-    "description":"3v3 unshared map.  3 lanes (1 lane per player) to fight for and many structures in the way.  (Also works for 1v1 and 2v2).",
+    "description":"3v3 unshared map.  (Also works for 1v1 or 2v2).",
     "version":"1.1",
     "creator":"Grand Homie",
     "players":[2, 6],
