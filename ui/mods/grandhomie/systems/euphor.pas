@@ -1,6 +1,6 @@
 {
     "name": "Euphor",
-    "description":"Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.",
+    "description":"Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.  (76/5/500)",
     "version":"1.1",
     "creator":"Grand Homie",
     "planets": [
