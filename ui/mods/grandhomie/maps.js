@@ -1,4 +1,4 @@
-cShareSystems.load_pas("Grand Homie's 2v2", [
+cShareSystems.load_pas("Grand Homie 2v2 & 3v3", [
     "coui://ui/mods/grandhomie/systems/la_somme_2v2.pas",
     "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/toisengard_2v2_ns.pas",
@@ -10,16 +10,16 @@ cShareSystems.load_pas("Grand Homie's 2v2", [
     "coui://ui/mods/grandhomie/systems/hells_pass_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/the_reef_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/t-_crevage_2v2_ns.pas",
-	"coui://ui/mods/grandhomie/systems/lugaan_2v2_ns.pas"
-]);
-cShareSystems.load_pas("Grand Homie's 3v3-5v5", [
+	"coui://ui/mods/grandhomie/systems/lugaan_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/teotihuacan_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/wide_angles_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/tyburn_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/ayutthaya_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/carthage_3v3_ns.pas",
-	"coui://ui/mods/grandhomie/systems/hastings_3v3_ns.pas",
-	"coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/hastings_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas"
+]);
+cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
     "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_4v4.pas",
     "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/salt_4v4_ns.pas",
@@ -34,11 +34,9 @@ cShareSystems.load_pas("Grand Homie's 3v3-5v5", [
     "coui://ui/mods/grandhomie/systems/2_croissants_5v5_ns.pas",
     "coui://ui/mods/grandhomie/systems/ypres_5v5.pas",
     "coui://ui/mods/grandhomie/systems/kuppa_600_5v5_ns.pas",
-    "coui://ui/mods/grandhomie/systems/homies_blurs_map_5v5_ns.pas",
-    "coui://ui/mods/grandhomie/systems/euphor.pas",
-    "coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas"
+    "coui://ui/mods/grandhomie/systems/homies_blurs_map_5v5_ns.pas"
 ]);
-cShareSystems.load_pas("Grand Homie's 12+ Players", [
+cShareSystems.load_pas("Grand Homie 12+ Players", [
     "coui://ui/mods/grandhomie/systems/sixmetry_6v6_ns.pas",
     "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_4v4v4.pas",
     "coui://ui/mods/grandhomie/systems/love_triangle_4v4v4_ns.pas",
@@ -46,4 +44,10 @@ cShareSystems.load_pas("Grand Homie's 12+ Players", [
     "coui://ui/mods/grandhomie/systems/battlestar_16p.pas",
     "coui://ui/mods/grandhomie/systems/lord_of_symmetry_8v8_ns.pas",
     "coui://ui/mods/grandhomie/systems/macro_aggressions_800_16_players.pas"
+]);
+cShareSystems.load_pas("Grand Homie's Moons", [
+    "coui://ui/mods/grandhomie/systems/actarus_42-3-475.pas",
+    "coui://ui/mods/grandhomie/systems/euphor.pas",
+    "coui://ui/mods/grandhomie/systems/wadiya_2018_97-4-550.pas",
+    "coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas"
 ]);
