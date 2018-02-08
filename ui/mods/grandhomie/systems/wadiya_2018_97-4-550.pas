@@ -1,11 +1,11 @@
 {
-    "name": "Alcor (97/4/550)",
-    "description":"Wadiya 2018.  (97/4/550).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.",
+    "name": "Alcor",
+    "description":"(Recommended for 4+ players).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.  (97 clusters of 4 metal points).",
     "version":"1.0",
     "creator":"Grand Homie",
     "planets": [
         {
-            "name": "Alcor (97/4/550)",
+            "name": "Alcor",
             "mass": 10000,
             "position_x": -600,
             "position_y": -17800,
@@ -34,7 +34,7 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 1,
-                "landingZoneSize": 144
+                "landingZoneSize": 160
             },
             "planetCSG": [
                 {

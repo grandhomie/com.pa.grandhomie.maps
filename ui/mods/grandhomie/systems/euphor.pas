@@ -32,7 +32,7 @@
                 "symmetryType": "none",
                 "symmetricalMetal": false,
                 "symmetricalStarts": false,
-                "landingZonesPerArmy": 0,
+                "landingZonesPerArmy": 1,
                 "landingZoneSize": 118
             },
             "planetCSG": [
