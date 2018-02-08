@@ -49,5 +49,6 @@ cShareSystems.load_pas("Grand Homie's Moons", [
     "coui://ui/mods/grandhomie/systems/actarus_42-3-475.pas",
     "coui://ui/mods/grandhomie/systems/euphor.pas",
     "coui://ui/mods/grandhomie/systems/wadiya_2018_97-4-550.pas",
+    "coui://ui/mods/grandhomie/systems/stykades_102-4-650.pas",
     "coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas"
 ]);
