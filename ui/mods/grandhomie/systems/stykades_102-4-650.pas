@@ -1,11 +1,11 @@
 {
-    "name": "Stykades (102/4/650)",
-    "description":"(Recommended for 10+ players).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.",
+    "name": "Stykadès",
+    "description":"(Recommended for 10+ players).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.  (102 clusters of 4 metal points).",
     "version":"1.0",
     "creator":"Grand Homie",
     "planets": [
         {
-            "name": "Stykades (102/4/650)",
+            "name": "Stykadès",
             "mass": 10000,
             "position_x": -600,
             "position_y": -17800,
