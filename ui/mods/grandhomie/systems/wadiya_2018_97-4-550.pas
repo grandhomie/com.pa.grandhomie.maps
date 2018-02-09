@@ -1,6 +1,6 @@
 {
     "name": "Alcor",
-    "description":"(Recommended for 4+ players).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.  (97 clusters of 4 metal points).",
+    "description":"(Recommended for 6+ players).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.  (97 clusters of 4 metal points).",
     "version":"1.0",
     "creator":"Grand Homie",
     "planets": [
