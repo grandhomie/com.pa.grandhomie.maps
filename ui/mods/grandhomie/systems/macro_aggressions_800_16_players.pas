@@ -1,7 +1,7 @@
 {
-    "name": "Macro Aggressions - 4v4v4v4 or 8v8",
-    "description":"16 players map.  4v4v4v4 or 8v8.  Players spawn in groups of 4 around the equator.  A lot of metal near the landing zones and many contested metal clusters.",
-    "version":"1.1",
+    "name": "Macro Aggressions - 4v4v4v4 or 8v8 NS",
+    "description":"16 players map.  4v4v4v4 or 8v8.  Players spawn in groups of 4 around the equator.  (Version 1.2 update: more metal spots and expansions)",
+    "version":"1.2",
     "creator":"Grand Homie",
     "players": [16, 16],
     "planets": [
@@ -39,11 +39,11 @@
             },
             "planetCSG": [
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -54,21 +54,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         -779.4364013671875,
                         -0.3635215759277344,
                         -185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.23148417472839355,
                         -0.0005743522779084742,
@@ -83,16 +75,24 @@
                         -0.5601919889450073,
                         -185.46485900878906
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 0
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -103,21 +103,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         -779.4364013671875,
                         -0.3635215759277344,
                         185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.23148423433303833,
                         -0.0003584283113013953,
@@ -132,16 +124,24 @@
                         0.5601910948753357,
                         185.46456909179688
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 0
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -152,21 +152,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 800.0177612304688,
                     "position": [
                         -777.6881103515625,
                         -187.69020080566406,
                         -1.4205398559570312
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.2346140742301941,
                         -0.0003142058849334717,
@@ -181,16 +173,24 @@
                         -0.004297003615647554,
                         -1.4205294847488403
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.3399990797042847,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": -1.3399990797042847
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -201,21 +201,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 800.7764282226562,
                     "position": [
                         -777.107421875,
                         193.25157165527344,
                         -0.8828125
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.2413209229707718,
                         -0.0023889727890491486,
@@ -230,16 +222,24 @@
                         -0.002668210072442889,
                         -0.8829094171524048
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.8199986219406128,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": -1.8199986219406128
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -250,21 +250,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         -474.8345642089844,
                         -473.67279052734375,
                         438.64947509765625
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.8949244618415833,
                         0.5121830701828003,
@@ -279,16 +271,24 @@
                         0.7006100416183472,
                         438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.8046006560325623,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": -0.8046006560325623
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -299,21 +299,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         -474.8345642089844,
                         -473.67279052734375,
                         438.64947509765625
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.8949244618415833,
                         0.5121830701828003,
@@ -328,16 +320,24 @@
                         -0.7006100416183472,
                         -438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.8046006560325623,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": -0.8046006560325623
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -348,21 +348,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         -167.9326171875,
                         0.7231478691101074,
                         779.7284545898438
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.0007172166951932013,
                         1.0264630317687988,
@@ -377,16 +369,24 @@
                         1.0264627933502197,
                         779.7283935546875
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.569998860359192,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": -1.569998860359192
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -397,21 +397,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         -167.9326171875,
                         0.7231478691101074,
                         779.7284545898438
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.0007172166951932013,
                         1.0264630317687988,
@@ -426,16 +418,24 @@
                         -1.0264627933502197,
                         -779.7283325195312
                     ],
-                    "op": "BO_Add",
-                    "rotation": -1.569998860359192,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": -1.569998860359192
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -446,21 +446,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         0.3635215759277344,
                         -779.4364013671875,
                         -185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.0005743085639551282,
                         -0.9999997615814209,
@@ -475,16 +467,24 @@
                         -0.5601919293403625,
                         -185.46485900878906
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.5707963705062866,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 1.5707963705062866
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -495,21 +495,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         0.3635215759277344,
                         -779.4364013671875,
                         185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.0003583845973480493,
                         -0.9999998211860657,
@@ -524,16 +516,24 @@
                         0.5601910352706909,
                         185.46456909179688
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.5707963705062866,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 1.5707963705062866
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -544,21 +544,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 800.0177612304688,
                     "position": [
                         187.69020080566406,
                         -777.6881103515625,
                         -1.4205398559570312
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.9720699787139893,
                         0.006266564130783081,
@@ -573,16 +565,24 @@
                         -0.004279247485101223,
                         -1.4205294847488403
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.23079724609851837,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 0.23079724609851837
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -593,21 +593,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 800.7764282226562,
                     "position": [
                         -193.25157165527344,
                         -777.107421875,
                         -0.8828125
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.9704300165176392,
                         0.005038142204284668,
@@ -622,16 +614,24 @@
                         -0.0026571843773126602,
                         -0.8829094171524048
                     ],
-                    "op": "BO_Add",
-                    "rotation": -0.24920229613780975,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": -0.24920229613780975
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -642,21 +642,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         473.67279052734375,
                         -474.8345642089844,
                         438.64947509765625
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.9149527549743652,
                         -0.47842836380004883,
@@ -671,16 +663,24 @@
                         0.7006100416183472,
                         438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.7661956548690796,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": 0.7661956548690796
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -691,21 +691,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         473.67279052734375,
                         -474.8345642089844,
                         438.64947509765625
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.9149527549743652,
                         -0.47842836380004883,
@@ -720,16 +712,24 @@
                         -0.7006100416183472,
                         -438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.7661956548690796,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": 0.7661956548690796
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -740,21 +740,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         -0.7231478691101074,
                         -167.9326171875,
                         779.7284545898438
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         1.0499989986419678,
                         -0.0009386925376020372,
@@ -769,16 +761,24 @@
                         1.0264627933502197,
                         779.7283935546875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.0007974664331413805,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": 0.0007974664331413805
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -789,21 +789,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         -0.7231478691101074,
                         -167.9326171875,
                         779.7284545898438
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         1.0499989986419678,
                         -0.0009386925376020372,
@@ -818,16 +810,24 @@
                         -1.0264627933502197,
                         -779.7283325195312
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0.0007974664331413805,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": 0.0007974664331413805
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -838,21 +838,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         779.4364013671875,
                         0.3635215759277344,
                         -185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.23148417472839355,
                         0.0005743320216424763,
@@ -867,16 +859,24 @@
                         -0.5578771233558655,
                         -185.46485900878906
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.1415927410125732,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 3.1415927410125732
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -887,21 +887,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         779.4364013671875,
                         0.3635215759277344,
                         185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.23148423433303833,
                         0.0003584485384635627,
@@ -916,16 +908,24 @@
                         0.5601910948753357,
                         185.46456909179688
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.1415927410125732,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 3.1415927410125732
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -936,21 +936,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 804.0177612304688,
                     "position": [
                         777.6881103515625,
                         187.69020080566406,
                         -1.4205398559570312
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.2346140742301941,
                         0.00031419843435287476,
@@ -965,16 +957,24 @@
                         -0.004297003615647554,
                         -1.4276319742202759
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.801593542098999,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 1.801593542098999
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -985,21 +985,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 800.7764282226562,
                     "position": [
                         777.107421875,
                         -193.25157165527344,
                         -0.8828125
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.2413209229707718,
                         0.0023889802396297455,
@@ -1014,16 +1006,24 @@
                         -0.0026571843773126602,
                         -0.8829094171524048
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.321593999862671,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 1.321593999862671
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -1034,21 +1034,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         474.8345642089844,
                         473.67279052734375,
                         438.64947509765625
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.894924521446228,
                         -0.5121830105781555,
@@ -1063,16 +1055,24 @@
                         0.7006100416183472,
                         438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 2.336992025375366,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": 2.336992025375366
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -1083,21 +1083,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         474.8345642089844,
                         473.67279052734375,
                         438.64947509765625
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.894924521446228,
                         -0.5121830105781555,
@@ -1112,16 +1104,24 @@
                         -0.7006100416183472,
                         -438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 2.336992025375366,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": 2.336992025375366
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -1132,21 +1132,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         167.9326171875,
                         -0.7231478691101074,
                         779.7284545898438
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.0007171840406954288,
                         -1.0264630317687988,
@@ -1161,16 +1153,24 @@
                         1.0264626741409302,
                         779.7283935546875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.5715937614440918,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": 1.5715937614440918
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -1181,21 +1181,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         167.9326171875,
                         -0.7231478691101074,
                         779.7284545898438
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.0007171840406954288,
                         -1.0264630317687988,
@@ -1210,16 +1202,24 @@
                         -1.0264626741409302,
                         -779.7283325195312
                     ],
-                    "op": "BO_Add",
-                    "rotation": 1.5715937614440918,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": 1.5715937614440918
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -1230,21 +1230,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         -0.3635215759277344,
                         779.4364013671875,
                         -185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.000574340345337987,
                         0.9999997615814209,
@@ -1259,16 +1251,24 @@
                         -0.5601919889450073,
                         -185.46485900878906
                     ],
-                    "op": "BO_Add",
-                    "rotation": 4.71238899230957,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 4.71238899230957
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -1279,21 +1279,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.1980590820312,
                     "position": [
                         -0.3635215759277344,
                         779.4364013671875,
                         185.46469116210938
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.00035841637873090804,
                         0.9999998211860657,
@@ -1308,16 +1300,24 @@
                         0.5648207664489746,
                         185.46456909179688
                     ],
-                    "op": "BO_Add",
-                    "rotation": 4.71238899230957,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 4.71238899230957
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -1328,21 +1328,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 800.0177612304688,
                     "position": [
                         -187.69020080566406,
                         777.6881103515625,
                         -1.4205398559570312
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.9720699787139893,
                         -0.006266653537750244,
@@ -1357,16 +1349,24 @@
                         -0.004297003149986267,
                         -1.4205294847488403
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.372389793395996,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 3.372389793395996
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1,
                         1,
@@ -1377,21 +1377,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 800.7764282226562,
                     "position": [
                         193.25157165527344,
                         777.107421875,
                         -0.8828125
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.9704299569129944,
                         -0.005038261413574219,
@@ -1406,16 +1398,24 @@
                         -0.0029107744339853525,
                         -0.8829094171524048
                     ],
-                    "op": "BO_Add",
-                    "rotation": 2.892390251159668,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
+                    "rotation": 2.892390251159668
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -1426,21 +1426,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         -473.67279052734375,
                         474.8345642089844,
                         438.64947509765625
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.9149527549743652,
                         0.47842836380004883,
@@ -1455,16 +1447,24 @@
                         0.7006100416183472,
                         438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.9077882766723633,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": 3.9077882766723633
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.2799997329711914,
                         1.2799997329711914,
@@ -1475,21 +1475,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 801.4031982421875,
                     "position": [
                         -473.67279052734375,
                         474.8345642089844,
                         438.64947509765625
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.9149527549743652,
                         0.47842836380004883,
@@ -1504,16 +1496,24 @@
                         -0.7006100416183472,
                         -438.6494140625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.9077882766723633,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
+                    "rotation": 3.9077882766723633
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -1524,21 +1524,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         0.7231478691101074,
                         167.9326171875,
                         779.7284545898438
                     ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -1.0499989986419678,
                         0.0009385798475705087,
@@ -1553,16 +1545,24 @@
                         1.0264627933502197,
                         779.7283935546875
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.142390012741089,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": false,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": 3.142390012741089
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.0499999523162842,
                         1.0499999523162842,
@@ -1573,21 +1573,13 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 797.6078491210938,
                     "position": [
                         0.7231478691101074,
                         167.9326171875,
                         779.7284545898438
                     ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -1.0499989986419678,
                         0.0009385798475705087,
@@ -1602,1214 +1594,1688 @@
                         -1.0264627933502197,
                         -779.7283325195312
                     ],
-                    "op": "BO_Add",
-                    "rotation": 3.142390012741089,
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json"
+                    "proj": "BP_Bend",
+                    "mirrored": true,
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "rotation": 3.142390012741089
                 }
             ],
             "metal_spots": [
                 [
-                    48.98085021972656,
-                    -792.7008666992188,
-                    -103.2384033203125
+                    353.4539794921875,
+                    -671.1124267578125,
+                    255.13986206054688
                 ],
                 [
-                    48.98085021972656,
-                    -792.7008666992188,
-                    103.2384033203125
+                    353.4539794921875,
+                    -671.1124267578125,
+                    -255.13986206054688
                 ],
                 [
-                    49.81379699707031,
-                    -784.0917358398438,
-                    -152.59259033203125
+                    227.8201904296875,
+                    -272.1878662109375,
+                    714.9130859375
                 ],
                 [
-                    49.81379699707031,
-                    -784.0917358398438,
-                    152.59259033203125
+                    227.8201904296875,
+                    -272.1878662109375,
+                    -714.9130859375
                 ],
                 [
-                    49.05577087402344,
-                    -772.8482666015625,
-                    -200.9296417236328
+                    259.1151123046875,
+                    -304.2266845703125,
+                    690.8909912109375
                 ],
                 [
-                    49.05577087402344,
-                    -772.8482666015625,
-                    200.9296417236328
+                    259.1151123046875,
+                    -304.2266845703125,
+                    -690.8909912109375
                 ],
                 [
-                    137.2958221435547,
-                    -787.7442626953125,
-                    -49.67820739746094
+                    122.379150390625,
+                    -659.2275390625,
+                    434.29541015625
                 ],
                 [
-                    137.2958221435547,
-                    -787.7442626953125,
-                    49.67820739746094
+                    122.379150390625,
+                    -659.2275390625,
+                    -434.29541015625
                 ],
                 [
-                    194.1263885498047,
-                    -776.0845947265625,
-                    -50.406768798828125
+                    173.853271484375,
+                    -659.235107421875,
+                    416.1129150390625
                 ],
                 [
-                    194.1263885498047,
-                    -776.0845947265625,
-                    50.406768798828125
+                    173.853271484375,
+                    -659.235107421875,
+                    -416.1129150390625
                 ],
                 [
-                    252.24472045898438,
-                    -758.822021484375,
-                    -50.76396179199219
+                    52.59980773925781,
+                    -772.797119140625,
+                    200.1456298828125
                 ],
                 [
-                    252.24472045898438,
-                    -758.822021484375,
-                    50.76396179199219
+                    52.59980773925781,
+                    -772.797119140625,
+                    -200.1456298828125
                 ],
                 [
-                    473.88067626953125,
-                    -518.4520263671875,
-                    385.3225402832031
+                    53.84759521484375,
+                    -784.455810546875,
+                    149.42941284179688
                 ],
                 [
-                    473.88067626953125,
-                    -518.4520263671875,
-                    -385.3225402832031
+                    53.84759521484375,
+                    -784.455810546875,
+                    -149.42941284179688
                 ],
                 [
-                    487.45123291015625,
-                    -534.9794311523438,
-                    343.2540588378906
+                    52.45574951171875,
+                    -792.5318603515625,
+                    102.73709106445312
                 ],
                 [
-                    487.45123291015625,
-                    -534.9794311523438,
-                    -343.2540588378906
+                    52.45574951171875,
+                    -792.5318603515625,
+                    -102.73709106445312
                 ],
                 [
-                    443.01617431640625,
-                    -438.63739013671875,
-                    502.2899169921875
+                    252.4332275390625,
+                    -758.7369384765625,
+                    50.64947509765625
                 ],
                 [
-                    443.01617431640625,
-                    -438.63739013671875,
-                    -502.2899169921875
+                    252.4332275390625,
+                    -758.7369384765625,
+                    -50.64947509765625
                 ],
                 [
-                    419.83697509765625,
-                    -416.48681640625,
-                    538.759033203125
+                    134.44085693359375,
+                    -788.06298828125,
+                    52.262142181396484
                 ],
                 [
-                    419.83697509765625,
-                    -416.48681640625,
-                    -538.759033203125
+                    134.44085693359375,
+                    -788.06298828125,
+                    -52.262142181396484
                 ],
                 [
-                    515.9979248046875,
-                    -476.684326171875,
-                    385.93798828125
+                    192.7180938720703,
+                    -776.4176025390625,
+                    50.46007537841797
                 ],
                 [
-                    515.9979248046875,
-                    -476.684326171875,
-                    -385.93798828125
+                    192.7180938720703,
+                    -776.4176025390625,
+                    -50.46007537841797
                 ],
                 [
-                    530.4508056640625,
-                    -493.0582275390625,
-                    342.5481262207031
+                    474.84228515625,
+                    -519.3875732421875,
+                    382.7892150878906
                 ],
                 [
-                    530.4508056640625,
-                    -493.0582275390625,
-                    -342.5481262207031
+                    474.84228515625,
+                    -519.3875732421875,
+                    -382.7892150878906
                 ],
                 [
-                    541.2496337890625,
-                    -588.8070068359375,
-                    26.433055877685547
+                    539.9993286132812,
+                    -589.7916259765625,
+                    31.385650634765625
                 ],
                 [
-                    541.2496337890625,
-                    -588.8070068359375,
-                    -26.433055877685547
+                    539.9993286132812,
+                    -589.7916259765625,
+                    -31.385650634765625
                 ],
                 [
-                    575.49658203125,
-                    -555.613037109375,
-                    26.704647064208984
+                    391.93499755859375,
+                    -664.1055908203125,
+                    214.2198486328125
                 ],
                 [
-                    575.49658203125,
-                    -555.613037109375,
-                    -26.704647064208984
+                    391.93499755859375,
+                    -664.1055908203125,
+                    -214.2198486328125
                 ],
                 [
-                    47.468414306640625,
-                    -755.87890625,
-                    -257.79302978515625
+                    -353.4539794921875,
+                    -671.1124267578125,
+                    255.13986206054688
                 ],
                 [
-                    47.468414306640625,
-                    -755.87890625,
-                    257.79302978515625
+                    -353.4539794921875,
+                    -671.1124267578125,
+                    -255.13986206054688
                 ],
                 [
-                    792.7008666992188,
-                    48.98085021972656,
-                    -103.2384033203125
+                    -227.8201904296875,
+                    -272.1878662109375,
+                    714.9130859375
                 ],
                 [
-                    792.7008666992188,
-                    48.98085021972656,
-                    103.2384033203125
+                    -227.8201904296875,
+                    -272.1878662109375,
+                    -714.9130859375
                 ],
                 [
-                    784.0917358398438,
-                    49.81379699707031,
-                    -152.59259033203125
+                    -259.1151123046875,
+                    -304.2266845703125,
+                    690.8909912109375
                 ],
                 [
-                    784.0917358398438,
-                    49.81379699707031,
-                    152.59259033203125
+                    -259.1151123046875,
+                    -304.2266845703125,
+                    -690.8909912109375
                 ],
                 [
-                    772.8482666015625,
-                    49.05577087402344,
-                    -200.9296417236328
+                    -122.379150390625,
+                    -659.2275390625,
+                    434.29541015625
                 ],
                 [
-                    772.8482666015625,
-                    49.05577087402344,
-                    200.9296417236328
+                    -122.379150390625,
+                    -659.2275390625,
+                    -434.29541015625
                 ],
                 [
-                    787.7442626953125,
-                    137.2958221435547,
-                    -49.67820739746094
+                    -173.853271484375,
+                    -659.235107421875,
+                    416.1129150390625
                 ],
                 [
-                    787.7442626953125,
-                    137.2958221435547,
-                    49.67820739746094
+                    -173.853271484375,
+                    -659.235107421875,
+                    -416.1129150390625
                 ],
                 [
-                    776.0845947265625,
-                    194.1263885498047,
-                    -50.406768798828125
+                    -52.59980773925781,
+                    -772.797119140625,
+                    200.1456298828125
                 ],
                 [
-                    776.0845947265625,
-                    194.1263885498047,
-                    50.406768798828125
+                    -52.59980773925781,
+                    -772.797119140625,
+                    -200.1456298828125
                 ],
                 [
-                    758.822021484375,
-                    252.24472045898438,
-                    -50.76396179199219
+                    -53.84759521484375,
+                    -784.455810546875,
+                    149.42941284179688
                 ],
                 [
-                    758.822021484375,
-                    252.24472045898438,
-                    50.76396179199219
+                    -53.84759521484375,
+                    -784.455810546875,
+                    -149.42941284179688
                 ],
                 [
-                    518.4520263671875,
-                    473.88067626953125,
-                    385.3225402832031
+                    -52.45574951171875,
+                    -792.5318603515625,
+                    102.73709106445312
                 ],
                 [
-                    518.4520263671875,
-                    473.88067626953125,
-                    -385.3225402832031
+                    -52.45574951171875,
+                    -792.5318603515625,
+                    -102.73709106445312
                 ],
                 [
-                    534.9794311523438,
-                    487.45123291015625,
-                    343.2540588378906
+                    -252.4332275390625,
+                    -758.7369384765625,
+                    50.64947509765625
                 ],
                 [
-                    534.9794311523438,
-                    487.45123291015625,
-                    -343.2540588378906
+                    -252.4332275390625,
+                    -758.7369384765625,
+                    -50.64947509765625
                 ],
                 [
-                    438.63739013671875,
-                    443.01617431640625,
-                    502.2899169921875
+                    -134.44085693359375,
+                    -788.06298828125,
+                    52.262142181396484
                 ],
                 [
-                    438.63739013671875,
-                    443.01617431640625,
-                    -502.2899169921875
+                    -134.44085693359375,
+                    -788.06298828125,
+                    -52.262142181396484
                 ],
                 [
-                    416.48681640625,
-                    419.83697509765625,
-                    538.759033203125
+                    -192.7180938720703,
+                    -776.4176025390625,
+                    50.46007537841797
                 ],
                 [
-                    416.48681640625,
-                    419.83697509765625,
-                    -538.759033203125
+                    -192.7180938720703,
+                    -776.4176025390625,
+                    -50.46007537841797
                 ],
                 [
-                    476.684326171875,
-                    515.9979248046875,
-                    385.93798828125
+                    -474.84228515625,
+                    -519.3875732421875,
+                    382.7892150878906
                 ],
                 [
-                    476.684326171875,
-                    515.9979248046875,
-                    -385.93798828125
+                    -474.84228515625,
+                    -519.3875732421875,
+                    -382.7892150878906
                 ],
                 [
-                    493.0582275390625,
-                    530.4508056640625,
-                    342.5481262207031
+                    -539.9993286132812,
+                    -589.7916259765625,
+                    31.385650634765625
                 ],
                 [
-                    493.0582275390625,
-                    530.4508056640625,
-                    -342.5481262207031
+                    -539.9993286132812,
+                    -589.7916259765625,
+                    -31.385650634765625
                 ],
                 [
-                    588.8070068359375,
-                    541.2496337890625,
-                    26.433055877685547
+                    -391.93499755859375,
+                    -664.1055908203125,
+                    214.2198486328125
                 ],
                 [
-                    588.8070068359375,
-                    541.2496337890625,
-                    -26.433055877685547
+                    -391.93499755859375,
+                    -664.1055908203125,
+                    -214.2198486328125
                 ],
                 [
-                    555.613037109375,
-                    575.49658203125,
-                    26.704647064208984
+                    671.1124267578125,
+                    353.4539794921875,
+                    255.13986206054688
                 ],
                 [
-                    555.613037109375,
-                    575.49658203125,
-                    -26.704647064208984
+                    671.1124267578125,
+                    353.4539794921875,
+                    -255.13986206054688
                 ],
                 [
-                    755.87890625,
-                    47.468414306640625,
-                    -257.79302978515625
+                    272.1878662109375,
+                    227.8201904296875,
+                    714.9130859375
                 ],
                 [
-                    755.87890625,
-                    47.468414306640625,
-                    257.79302978515625
+                    272.1878662109375,
+                    227.8201904296875,
+                    -714.9130859375
                 ],
                 [
-                    -48.98085021972656,
-                    792.7008666992188,
-                    -103.2384033203125
+                    304.2266845703125,
+                    259.1151123046875,
+                    690.8909912109375
                 ],
                 [
-                    -48.98085021972656,
-                    792.7008666992188,
-                    103.2384033203125
+                    304.2266845703125,
+                    259.1151123046875,
+                    -690.8909912109375
                 ],
                 [
-                    -49.81379699707031,
-                    784.0917358398438,
-                    -152.59259033203125
+                    659.2275390625,
+                    122.379150390625,
+                    434.29541015625
                 ],
                 [
-                    -49.81379699707031,
-                    784.0917358398438,
-                    152.59259033203125
+                    659.2275390625,
+                    122.379150390625,
+                    -434.29541015625
                 ],
                 [
-                    -49.05577087402344,
-                    772.8482666015625,
-                    -200.9296417236328
+                    659.235107421875,
+                    173.853271484375,
+                    416.1129150390625
                 ],
                 [
-                    -49.05577087402344,
-                    772.8482666015625,
-                    200.9296417236328
+                    659.235107421875,
+                    173.853271484375,
+                    -416.1129150390625
                 ],
                 [
-                    -137.2958221435547,
-                    787.7442626953125,
-                    -49.67820739746094
+                    772.797119140625,
+                    52.59980773925781,
+                    200.1456298828125
                 ],
                 [
-                    -137.2958221435547,
-                    787.7442626953125,
-                    49.67820739746094
+                    772.797119140625,
+                    52.59980773925781,
+                    -200.1456298828125
                 ],
                 [
-                    -194.1263885498047,
-                    776.0845947265625,
-                    -50.406768798828125
+                    784.455810546875,
+                    53.84759521484375,
+                    149.42941284179688
                 ],
                 [
-                    -194.1263885498047,
-                    776.0845947265625,
-                    50.406768798828125
+                    784.455810546875,
+                    53.84759521484375,
+                    -149.42941284179688
                 ],
                 [
-                    -252.24472045898438,
-                    758.822021484375,
-                    -50.76396179199219
+                    792.5318603515625,
+                    52.45574951171875,
+                    102.73709106445312
                 ],
                 [
-                    -252.24472045898438,
-                    758.822021484375,
-                    50.76396179199219
+                    792.5318603515625,
+                    52.45574951171875,
+                    -102.73709106445312
                 ],
                 [
-                    -473.88067626953125,
-                    518.4520263671875,
-                    385.3225402832031
+                    758.7369384765625,
+                    252.4332275390625,
+                    50.64947509765625
                 ],
                 [
-                    -473.88067626953125,
-                    518.4520263671875,
-                    -385.3225402832031
+                    758.7369384765625,
+                    252.4332275390625,
+                    -50.64947509765625
                 ],
                 [
-                    -487.45123291015625,
-                    534.9794311523438,
-                    343.2540588378906
+                    788.06298828125,
+                    134.44085693359375,
+                    52.262142181396484
                 ],
                 [
-                    -487.45123291015625,
-                    534.9794311523438,
-                    -343.2540588378906
+                    788.06298828125,
+                    134.44085693359375,
+                    -52.262142181396484
                 ],
                 [
-                    -443.01617431640625,
-                    438.63739013671875,
-                    502.2899169921875
+                    776.4176025390625,
+                    192.7180938720703,
+                    50.46007537841797
                 ],
                 [
-                    -443.01617431640625,
-                    438.63739013671875,
-                    -502.2899169921875
+                    776.4176025390625,
+                    192.7180938720703,
+                    -50.46007537841797
                 ],
                 [
-                    -419.83697509765625,
-                    416.48681640625,
-                    538.759033203125
+                    519.3875732421875,
+                    474.84228515625,
+                    382.7892150878906
                 ],
                 [
-                    -419.83697509765625,
-                    416.48681640625,
-                    -538.759033203125
+                    519.3875732421875,
+                    474.84228515625,
+                    -382.7892150878906
                 ],
                 [
-                    -515.9979248046875,
-                    476.684326171875,
-                    385.93798828125
+                    589.7916259765625,
+                    539.9993286132812,
+                    31.385650634765625
                 ],
                 [
-                    -515.9979248046875,
-                    476.684326171875,
-                    -385.93798828125
+                    589.7916259765625,
+                    539.9993286132812,
+                    -31.385650634765625
                 ],
                 [
-                    -530.4508056640625,
-                    493.0582275390625,
-                    342.5481262207031
+                    664.1055908203125,
+                    391.93499755859375,
+                    214.2198486328125
                 ],
                 [
-                    -530.4508056640625,
-                    493.0582275390625,
-                    -342.5481262207031
+                    664.1055908203125,
+                    391.93499755859375,
+                    -214.2198486328125
                 ],
                 [
-                    -541.2496337890625,
-                    588.8070068359375,
-                    26.433055877685547
+                    671.1124267578125,
+                    -353.4539794921875,
+                    255.13986206054688
                 ],
                 [
-                    -541.2496337890625,
-                    588.8070068359375,
-                    -26.433055877685547
+                    671.1124267578125,
+                    -353.4539794921875,
+                    -255.13986206054688
                 ],
                 [
-                    -575.49658203125,
-                    555.613037109375,
-                    26.704647064208984
+                    272.1878662109375,
+                    -227.8201904296875,
+                    714.9130859375
                 ],
                 [
-                    -575.49658203125,
-                    555.613037109375,
-                    -26.704647064208984
+                    272.1878662109375,
+                    -227.8201904296875,
+                    -714.9130859375
                 ],
                 [
-                    -47.468414306640625,
-                    755.87890625,
-                    -257.79302978515625
+                    304.2266845703125,
+                    -259.1151123046875,
+                    690.8909912109375
                 ],
                 [
-                    -47.468414306640625,
-                    755.87890625,
-                    257.79302978515625
+                    304.2266845703125,
+                    -259.1151123046875,
+                    -690.8909912109375
                 ],
                 [
-                    -792.7008666992188,
-                    -48.98085021972656,
-                    -103.2384033203125
+                    659.2275390625,
+                    -122.379150390625,
+                    434.29541015625
                 ],
                 [
-                    -792.7008666992188,
-                    -48.98085021972656,
-                    103.2384033203125
+                    659.2275390625,
+                    -122.379150390625,
+                    -434.29541015625
                 ],
                 [
-                    -784.0917358398438,
-                    -49.81379699707031,
-                    -152.59259033203125
+                    659.235107421875,
+                    -173.853271484375,
+                    416.1129150390625
                 ],
                 [
-                    -784.0917358398438,
-                    -49.81379699707031,
-                    152.59259033203125
+                    659.235107421875,
+                    -173.853271484375,
+                    -416.1129150390625
                 ],
                 [
-                    -772.8482666015625,
-                    -49.05577087402344,
-                    -200.9296417236328
+                    772.797119140625,
+                    -52.59980773925781,
+                    200.1456298828125
                 ],
                 [
-                    -772.8482666015625,
-                    -49.05577087402344,
-                    200.9296417236328
+                    772.797119140625,
+                    -52.59980773925781,
+                    -200.1456298828125
                 ],
                 [
-                    -787.7442626953125,
-                    -137.2958221435547,
-                    -49.67820739746094
+                    784.455810546875,
+                    -53.84759521484375,
+                    149.42941284179688
                 ],
                 [
-                    -787.7442626953125,
-                    -137.2958221435547,
-                    49.67820739746094
+                    784.455810546875,
+                    -53.84759521484375,
+                    -149.42941284179688
                 ],
                 [
-                    -776.0845947265625,
-                    -194.1263885498047,
-                    -50.406768798828125
+                    792.5318603515625,
+                    -52.45574951171875,
+                    102.73709106445312
                 ],
                 [
-                    -776.0845947265625,
-                    -194.1263885498047,
-                    50.406768798828125
+                    792.5318603515625,
+                    -52.45574951171875,
+                    -102.73709106445312
                 ],
                 [
-                    -758.822021484375,
-                    -252.24472045898438,
-                    -50.76396179199219
+                    758.7369384765625,
+                    -252.4332275390625,
+                    50.64947509765625
                 ],
                 [
-                    -758.822021484375,
-                    -252.24472045898438,
-                    50.76396179199219
+                    758.7369384765625,
+                    -252.4332275390625,
+                    -50.64947509765625
                 ],
                 [
-                    -518.4520263671875,
-                    -473.88067626953125,
-                    385.3225402832031
+                    788.06298828125,
+                    -134.44085693359375,
+                    52.262142181396484
                 ],
                 [
-                    -518.4520263671875,
-                    -473.88067626953125,
-                    -385.3225402832031
+                    788.06298828125,
+                    -134.44085693359375,
+                    -52.262142181396484
                 ],
                 [
-                    -534.9794311523438,
-                    -487.45123291015625,
-                    343.2540588378906
+                    776.4176025390625,
+                    -192.7180938720703,
+                    50.46007537841797
                 ],
                 [
-                    -534.9794311523438,
-                    -487.45123291015625,
-                    -343.2540588378906
+                    776.4176025390625,
+                    -192.7180938720703,
+                    -50.46007537841797
                 ],
                 [
-                    -438.63739013671875,
-                    -443.01617431640625,
-                    502.2899169921875
+                    519.3875732421875,
+                    -474.84228515625,
+                    382.7892150878906
                 ],
                 [
-                    -438.63739013671875,
-                    -443.01617431640625,
-                    -502.2899169921875
+                    519.3875732421875,
+                    -474.84228515625,
+                    -382.7892150878906
                 ],
                 [
-                    -416.48681640625,
-                    -419.83697509765625,
-                    538.759033203125
+                    589.7916259765625,
+                    -539.9993286132812,
+                    31.385650634765625
                 ],
                 [
-                    -416.48681640625,
-                    -419.83697509765625,
-                    -538.759033203125
+                    589.7916259765625,
+                    -539.9993286132812,
+                    -31.385650634765625
                 ],
                 [
-                    -476.684326171875,
-                    -515.9979248046875,
-                    385.93798828125
+                    664.1055908203125,
+                    -391.93499755859375,
+                    214.2198486328125
                 ],
                 [
-                    -476.684326171875,
-                    -515.9979248046875,
-                    -385.93798828125
+                    664.1055908203125,
+                    -391.93499755859375,
+                    -214.2198486328125
                 ],
                 [
-                    -493.0582275390625,
-                    -530.4508056640625,
-                    342.5481262207031
+                    -353.4539794921875,
+                    671.1124267578125,
+                    255.13986206054688
                 ],
                 [
-                    -493.0582275390625,
-                    -530.4508056640625,
-                    -342.5481262207031
+                    -353.4539794921875,
+                    671.1124267578125,
+                    -255.13986206054688
                 ],
                 [
-                    -588.8070068359375,
-                    -541.2496337890625,
-                    26.433055877685547
+                    -227.8201904296875,
+                    272.1878662109375,
+                    714.9130859375
                 ],
                 [
-                    -588.8070068359375,
-                    -541.2496337890625,
-                    -26.433055877685547
+                    -227.8201904296875,
+                    272.1878662109375,
+                    -714.9130859375
                 ],
                 [
-                    -555.613037109375,
-                    -575.49658203125,
-                    26.704647064208984
+                    -259.1151123046875,
+                    304.2266845703125,
+                    690.8909912109375
                 ],
                 [
-                    -555.613037109375,
-                    -575.49658203125,
-                    -26.704647064208984
+                    -259.1151123046875,
+                    304.2266845703125,
+                    -690.8909912109375
                 ],
                 [
-                    -755.87890625,
-                    -47.468414306640625,
-                    -257.79302978515625
+                    -122.379150390625,
+                    659.2275390625,
+                    434.29541015625
                 ],
                 [
-                    -755.87890625,
-                    -47.468414306640625,
-                    257.79302978515625
+                    -122.379150390625,
+                    659.2275390625,
+                    -434.29541015625
                 ],
                 [
-                    -756.6405029296875,
-                    57.18464660644531,
-                    257.4776611328125
+                    -173.853271484375,
+                    659.235107421875,
+                    416.1129150390625
                 ],
                 [
-                    -756.6405029296875,
-                    57.18464660644531,
-                    -257.4776611328125
+                    -173.853271484375,
+                    659.235107421875,
+                    -416.1129150390625
                 ],
                 [
-                    -784.9141845703125,
-                    56.550350189208984,
-                    153.61712646484375
+                    -52.59980773925781,
+                    772.797119140625,
+                    200.1456298828125
                 ],
                 [
-                    -784.9141845703125,
-                    56.550350189208984,
-                    -153.61712646484375
+                    -52.59980773925781,
+                    772.797119140625,
+                    -200.1456298828125
                 ],
                 [
-                    -793.3800048828125,
-                    58.870933532714844,
-                    102.9872817993164
+                    -53.84759521484375,
+                    784.455810546875,
+                    149.42941284179688
                 ],
                 [
-                    -793.3800048828125,
-                    58.870933532714844,
-                    -102.9872817993164
+                    -53.84759521484375,
+                    784.455810546875,
+                    -149.42941284179688
                 ],
                 [
-                    -773.483642578125,
-                    57.199554443359375,
-                    201.75070190429688
+                    -52.45574951171875,
+                    792.5318603515625,
+                    102.73709106445312
                 ],
                 [
-                    -773.483642578125,
-                    57.199554443359375,
-                    -201.75070190429688
+                    -52.45574951171875,
+                    792.5318603515625,
+                    -102.73709106445312
                 ],
                 [
-                    -787.957763671875,
-                    139.70159912109375,
-                    50.91852569580078
+                    -252.4332275390625,
+                    758.7369384765625,
+                    50.64947509765625
                 ],
                 [
-                    -787.957763671875,
-                    139.70159912109375,
-                    -50.91852569580078
+                    -252.4332275390625,
+                    758.7369384765625,
+                    -50.64947509765625
                 ],
                 [
-                    -774.8321533203125,
-                    195.7455291748047,
-                    50.95913314819336
+                    -134.44085693359375,
+                    788.06298828125,
+                    52.262142181396484
                 ],
                 [
-                    -774.8321533203125,
-                    195.7455291748047,
-                    -50.95913314819336
+                    -134.44085693359375,
+                    788.06298828125,
+                    -52.262142181396484
                 ],
                 [
-                    -757.208251953125,
-                    253.7073211669922,
-                    52.09912872314453
+                    -192.7180938720703,
+                    776.4176025390625,
+                    50.46007537841797
                 ],
                 [
-                    -757.208251953125,
-                    253.7073211669922,
-                    -52.09912872314453
+                    -192.7180938720703,
+                    776.4176025390625,
+                    -50.46007537841797
                 ],
                 [
-                    -496.303955078125,
-                    61.787967681884766,
-                    623.1691284179688
+                    -474.84228515625,
+                    519.3875732421875,
+                    382.7892150878906
                 ],
                 [
-                    -496.303955078125,
-                    61.787967681884766,
-                    -623.1691284179688
+                    -474.84228515625,
+                    519.3875732421875,
+                    -382.7892150878906
                 ],
                 [
-                    -535.00537109375,
-                    66.51810455322266,
-                    590.4307861328125
+                    -539.9993286132812,
+                    589.7916259765625,
+                    31.385650634765625
                 ],
                 [
-                    -535.00537109375,
-                    66.51810455322266,
-                    -590.4307861328125
+                    -539.9993286132812,
+                    589.7916259765625,
+                    -31.385650634765625
                 ],
                 [
-                    -507.3966064453125,
-                    102.24584197998047,
-                    608.1911010742188
+                    -391.93499755859375,
+                    664.1055908203125,
+                    214.2198486328125
                 ],
                 [
-                    -507.3966064453125,
-                    102.24584197998047,
-                    -608.1911010742188
+                    -391.93499755859375,
+                    664.1055908203125,
+                    -214.2198486328125
                 ],
                 [
-                    -495.66650390625,
-                    -63.794158935546875,
-                    625.0731201171875
+                    353.4539794921875,
+                    671.1124267578125,
+                    255.13986206054688
                 ],
                 [
-                    -495.66650390625,
-                    -63.794158935546875,
-                    -625.0731201171875
+                    353.4539794921875,
+                    671.1124267578125,
+                    -255.13986206054688
                 ],
                 [
-                    -536.465087890625,
-                    -62.479278564453125,
-                    591.1757202148438
+                    227.8201904296875,
+                    272.1878662109375,
+                    714.9130859375
                 ],
                 [
-                    -536.465087890625,
-                    -62.479278564453125,
-                    -591.1757202148438
+                    227.8201904296875,
+                    272.1878662109375,
+                    -714.9130859375
                 ],
                 [
-                    -509.5772705078125,
-                    -104.66801452636719,
-                    608.5599365234375
+                    259.1151123046875,
+                    304.2266845703125,
+                    690.8909912109375
                 ],
                 [
-                    -509.5772705078125,
-                    -104.66801452636719,
-                    -608.5599365234375
+                    259.1151123046875,
+                    304.2266845703125,
+                    -690.8909912109375
                 ],
                 [
-                    -57.18464660644531,
-                    -756.6405029296875,
-                    257.4776611328125
+                    122.379150390625,
+                    659.2275390625,
+                    434.29541015625
                 ],
                 [
-                    -57.18464660644531,
-                    -756.6405029296875,
-                    -257.4776611328125
+                    122.379150390625,
+                    659.2275390625,
+                    -434.29541015625
                 ],
                 [
-                    -56.550350189208984,
-                    -784.9141845703125,
-                    153.61712646484375
+                    173.853271484375,
+                    659.235107421875,
+                    416.1129150390625
                 ],
                 [
-                    -56.550350189208984,
-                    -784.9141845703125,
-                    -153.61712646484375
+                    173.853271484375,
+                    659.235107421875,
+                    -416.1129150390625
                 ],
                 [
-                    -58.870933532714844,
-                    -793.3800048828125,
-                    102.9872817993164
+                    52.59980773925781,
+                    772.797119140625,
+                    200.1456298828125
                 ],
                 [
-                    -58.870933532714844,
-                    -793.3800048828125,
-                    -102.9872817993164
+                    52.59980773925781,
+                    772.797119140625,
+                    -200.1456298828125
                 ],
                 [
-                    -57.199554443359375,
-                    -773.483642578125,
-                    201.75070190429688
+                    53.84759521484375,
+                    784.455810546875,
+                    149.42941284179688
                 ],
                 [
-                    -57.199554443359375,
-                    -773.483642578125,
-                    -201.75070190429688
+                    53.84759521484375,
+                    784.455810546875,
+                    -149.42941284179688
                 ],
                 [
-                    -139.70159912109375,
-                    -787.957763671875,
-                    50.91852569580078
+                    52.45574951171875,
+                    792.5318603515625,
+                    102.73709106445312
                 ],
                 [
-                    -139.70159912109375,
-                    -787.957763671875,
-                    -50.91852569580078
+                    52.45574951171875,
+                    792.5318603515625,
+                    -102.73709106445312
                 ],
                 [
-                    -195.7455291748047,
-                    -774.8321533203125,
-                    50.95913314819336
+                    252.4332275390625,
+                    758.7369384765625,
+                    50.64947509765625
                 ],
                 [
-                    -195.7455291748047,
-                    -774.8321533203125,
-                    -50.95913314819336
+                    252.4332275390625,
+                    758.7369384765625,
+                    -50.64947509765625
                 ],
                 [
-                    -253.7073211669922,
-                    -757.208251953125,
-                    52.09912872314453
+                    134.44085693359375,
+                    788.06298828125,
+                    52.262142181396484
                 ],
                 [
-                    -253.7073211669922,
-                    -757.208251953125,
-                    -52.09912872314453
+                    134.44085693359375,
+                    788.06298828125,
+                    -52.262142181396484
                 ],
                 [
-                    -61.787967681884766,
-                    -496.303955078125,
-                    623.1691284179688
+                    192.7180938720703,
+                    776.4176025390625,
+                    50.46007537841797
                 ],
                 [
-                    -61.787967681884766,
-                    -496.303955078125,
-                    -623.1691284179688
+                    192.7180938720703,
+                    776.4176025390625,
+                    -50.46007537841797
                 ],
                 [
-                    -66.51810455322266,
-                    -535.00537109375,
-                    590.4307861328125
+                    474.84228515625,
+                    519.3875732421875,
+                    382.7892150878906
                 ],
                 [
-                    -66.51810455322266,
-                    -535.00537109375,
-                    -590.4307861328125
+                    474.84228515625,
+                    519.3875732421875,
+                    -382.7892150878906
                 ],
                 [
-                    -102.24584197998047,
-                    -507.3966064453125,
-                    608.1911010742188
+                    539.9993286132812,
+                    589.7916259765625,
+                    31.385650634765625
                 ],
                 [
-                    -102.24584197998047,
-                    -507.3966064453125,
-                    -608.1911010742188
+                    539.9993286132812,
+                    589.7916259765625,
+                    -31.385650634765625
                 ],
                 [
-                    63.794158935546875,
-                    -495.66650390625,
-                    625.0731201171875
+                    391.93499755859375,
+                    664.1055908203125,
+                    214.2198486328125
                 ],
                 [
-                    63.794158935546875,
-                    -495.66650390625,
-                    -625.0731201171875
+                    391.93499755859375,
+                    664.1055908203125,
+                    -214.2198486328125
                 ],
                 [
-                    62.479278564453125,
-                    -536.465087890625,
-                    591.1757202148438
+                    -671.1124267578125,
+                    -353.4539794921875,
+                    255.13986206054688
                 ],
                 [
-                    62.479278564453125,
-                    -536.465087890625,
-                    -591.1757202148438
+                    -671.1124267578125,
+                    -353.4539794921875,
+                    -255.13986206054688
                 ],
                 [
-                    104.66801452636719,
-                    -509.5772705078125,
-                    608.5599365234375
+                    -272.1878662109375,
+                    -227.8201904296875,
+                    714.9130859375
                 ],
                 [
-                    104.66801452636719,
-                    -509.5772705078125,
-                    -608.5599365234375
+                    -272.1878662109375,
+                    -227.8201904296875,
+                    -714.9130859375
                 ],
                 [
-                    756.6405029296875,
-                    -57.18464660644531,
-                    257.4776611328125
+                    -304.2266845703125,
+                    -259.1151123046875,
+                    690.8909912109375
                 ],
                 [
-                    756.6405029296875,
-                    -57.18464660644531,
-                    -257.4776611328125
+                    -304.2266845703125,
+                    -259.1151123046875,
+                    -690.8909912109375
                 ],
                 [
-                    784.9141845703125,
-                    -56.550350189208984,
-                    153.61712646484375
+                    -659.2275390625,
+                    -122.379150390625,
+                    434.29541015625
                 ],
                 [
-                    784.9141845703125,
-                    -56.550350189208984,
-                    -153.61712646484375
+                    -659.2275390625,
+                    -122.379150390625,
+                    -434.29541015625
                 ],
                 [
-                    793.3800048828125,
-                    -58.870933532714844,
-                    102.9872817993164
+                    -659.235107421875,
+                    -173.853271484375,
+                    416.1129150390625
                 ],
                 [
-                    793.3800048828125,
-                    -58.870933532714844,
-                    -102.9872817993164
+                    -659.235107421875,
+                    -173.853271484375,
+                    -416.1129150390625
                 ],
                 [
-                    773.483642578125,
-                    -57.199554443359375,
-                    201.75070190429688
+                    -772.797119140625,
+                    -52.59980773925781,
+                    200.1456298828125
                 ],
                 [
-                    773.483642578125,
-                    -57.199554443359375,
-                    -201.75070190429688
+                    -772.797119140625,
+                    -52.59980773925781,
+                    -200.1456298828125
                 ],
                 [
-                    787.957763671875,
-                    -139.70159912109375,
-                    50.91852569580078
+                    -784.455810546875,
+                    -53.84759521484375,
+                    149.42941284179688
                 ],
                 [
-                    787.957763671875,
-                    -139.70159912109375,
-                    -50.91852569580078
+                    -784.455810546875,
+                    -53.84759521484375,
+                    -149.42941284179688
                 ],
                 [
-                    774.8321533203125,
-                    -195.7455291748047,
-                    50.95913314819336
+                    -792.5318603515625,
+                    -52.45574951171875,
+                    102.73709106445312
                 ],
                 [
-                    774.8321533203125,
-                    -195.7455291748047,
-                    -50.95913314819336
+                    -792.5318603515625,
+                    -52.45574951171875,
+                    -102.73709106445312
                 ],
                 [
-                    757.208251953125,
-                    -253.7073211669922,
-                    52.09912872314453
+                    -758.7369384765625,
+                    -252.4332275390625,
+                    50.64947509765625
                 ],
                 [
-                    757.208251953125,
-                    -253.7073211669922,
-                    -52.09912872314453
+                    -758.7369384765625,
+                    -252.4332275390625,
+                    -50.64947509765625
                 ],
                 [
-                    496.303955078125,
-                    -61.787967681884766,
-                    623.1691284179688
+                    -788.06298828125,
+                    -134.44085693359375,
+                    52.262142181396484
                 ],
                 [
-                    496.303955078125,
-                    -61.787967681884766,
-                    -623.1691284179688
+                    -788.06298828125,
+                    -134.44085693359375,
+                    -52.262142181396484
                 ],
                 [
-                    535.00537109375,
-                    -66.51810455322266,
-                    590.4307861328125
+                    -776.4176025390625,
+                    -192.7180938720703,
+                    50.46007537841797
                 ],
                 [
-                    535.00537109375,
-                    -66.51810455322266,
-                    -590.4307861328125
+                    -776.4176025390625,
+                    -192.7180938720703,
+                    -50.46007537841797
                 ],
                 [
-                    507.3966064453125,
-                    -102.24584197998047,
-                    608.1911010742188
+                    -519.3875732421875,
+                    -474.84228515625,
+                    382.7892150878906
                 ],
                 [
-                    507.3966064453125,
-                    -102.24584197998047,
-                    -608.1911010742188
+                    -519.3875732421875,
+                    -474.84228515625,
+                    -382.7892150878906
                 ],
                 [
-                    495.66650390625,
-                    63.794158935546875,
-                    625.0731201171875
+                    -589.7916259765625,
+                    -539.9993286132812,
+                    31.385650634765625
                 ],
                 [
-                    495.66650390625,
-                    63.794158935546875,
-                    -625.0731201171875
+                    -589.7916259765625,
+                    -539.9993286132812,
+                    -31.385650634765625
                 ],
                 [
-                    536.465087890625,
-                    62.479278564453125,
-                    591.1757202148438
+                    -664.1055908203125,
+                    -391.93499755859375,
+                    214.2198486328125
                 ],
                 [
-                    536.465087890625,
-                    62.479278564453125,
-                    -591.1757202148438
+                    -664.1055908203125,
+                    -391.93499755859375,
+                    -214.2198486328125
                 ],
                 [
-                    509.5772705078125,
-                    104.66801452636719,
-                    608.5599365234375
+                    -671.1124267578125,
+                    353.4539794921875,
+                    255.13986206054688
                 ],
                 [
-                    509.5772705078125,
-                    104.66801452636719,
-                    -608.5599365234375
+                    -671.1124267578125,
+                    353.4539794921875,
+                    -255.13986206054688
                 ],
                 [
-                    57.18464660644531,
-                    756.6405029296875,
-                    257.4776611328125
+                    -272.1878662109375,
+                    227.8201904296875,
+                    714.9130859375
                 ],
                 [
-                    57.18464660644531,
-                    756.6405029296875,
-                    -257.4776611328125
+                    -272.1878662109375,
+                    227.8201904296875,
+                    -714.9130859375
                 ],
                 [
-                    56.550350189208984,
-                    784.9141845703125,
-                    153.61712646484375
+                    -304.2266845703125,
+                    259.1151123046875,
+                    690.8909912109375
                 ],
                 [
-                    56.550350189208984,
-                    784.9141845703125,
-                    -153.61712646484375
+                    -304.2266845703125,
+                    259.1151123046875,
+                    -690.8909912109375
                 ],
                 [
-                    58.870933532714844,
-                    793.3800048828125,
-                    102.9872817993164
+                    -659.2275390625,
+                    122.379150390625,
+                    434.29541015625
                 ],
                 [
-                    58.870933532714844,
-                    793.3800048828125,
-                    -102.9872817993164
+                    -659.2275390625,
+                    122.379150390625,
+                    -434.29541015625
                 ],
                 [
-                    57.199554443359375,
-                    773.483642578125,
-                    201.75070190429688
+                    -659.235107421875,
+                    173.853271484375,
+                    416.1129150390625
                 ],
                 [
-                    57.199554443359375,
-                    773.483642578125,
-                    -201.75070190429688
+                    -659.235107421875,
+                    173.853271484375,
+                    -416.1129150390625
                 ],
                 [
-                    139.70159912109375,
-                    787.957763671875,
-                    50.91852569580078
+                    -772.797119140625,
+                    52.59980773925781,
+                    200.1456298828125
                 ],
                 [
-                    139.70159912109375,
-                    787.957763671875,
-                    -50.91852569580078
+                    -772.797119140625,
+                    52.59980773925781,
+                    -200.1456298828125
                 ],
                 [
-                    195.7455291748047,
-                    774.8321533203125,
-                    50.95913314819336
+                    -784.455810546875,
+                    53.84759521484375,
+                    149.42941284179688
                 ],
                 [
-                    195.7455291748047,
-                    774.8321533203125,
-                    -50.95913314819336
+                    -784.455810546875,
+                    53.84759521484375,
+                    -149.42941284179688
                 ],
                 [
-                    253.7073211669922,
-                    757.208251953125,
-                    52.09912872314453
+                    -792.5318603515625,
+                    52.45574951171875,
+                    102.73709106445312
                 ],
                 [
-                    253.7073211669922,
-                    757.208251953125,
-                    -52.09912872314453
+                    -792.5318603515625,
+                    52.45574951171875,
+                    -102.73709106445312
                 ],
                 [
-                    61.787967681884766,
-                    496.303955078125,
-                    623.1691284179688
+                    -758.7369384765625,
+                    252.4332275390625,
+                    50.64947509765625
                 ],
                 [
-                    61.787967681884766,
-                    496.303955078125,
-                    -623.1691284179688
+                    -758.7369384765625,
+                    252.4332275390625,
+                    -50.64947509765625
                 ],
                 [
-                    66.51810455322266,
-                    535.00537109375,
-                    590.4307861328125
+                    -788.06298828125,
+                    134.44085693359375,
+                    52.262142181396484
                 ],
                 [
-                    66.51810455322266,
-                    535.00537109375,
-                    -590.4307861328125
+                    -788.06298828125,
+                    134.44085693359375,
+                    -52.262142181396484
                 ],
                 [
-                    102.24584197998047,
-                    507.3966064453125,
-                    608.1911010742188
+                    -776.4176025390625,
+                    192.7180938720703,
+                    50.46007537841797
                 ],
                 [
-                    102.24584197998047,
-                    507.3966064453125,
-                    -608.1911010742188
+                    -776.4176025390625,
+                    192.7180938720703,
+                    -50.46007537841797
                 ],
                 [
-                    -63.794158935546875,
-                    495.66650390625,
-                    625.0731201171875
+                    -519.3875732421875,
+                    474.84228515625,
+                    382.7892150878906
                 ],
                 [
-                    -63.794158935546875,
-                    495.66650390625,
-                    -625.0731201171875
+                    -519.3875732421875,
+                    474.84228515625,
+                    -382.7892150878906
                 ],
                 [
-                    -62.479278564453125,
-                    536.465087890625,
-                    591.1757202148438
+                    -589.7916259765625,
+                    539.9993286132812,
+                    31.385650634765625
                 ],
                 [
-                    -62.479278564453125,
-                    536.465087890625,
-                    -591.1757202148438
+                    -589.7916259765625,
+                    539.9993286132812,
+                    -31.385650634765625
                 ],
                 [
-                    -104.66801452636719,
-                    509.5772705078125,
-                    608.5599365234375
+                    -664.1055908203125,
+                    391.93499755859375,
+                    214.2198486328125
                 ],
                 [
-                    -104.66801452636719,
-                    509.5772705078125,
-                    -608.5599365234375
+                    -664.1055908203125,
+                    391.93499755859375,
+                    -214.2198486328125
                 ],
                 [
-                    -30.080101013183594,
-                    -32.959075927734375,
-                    795.609375
+                    -0.9048881530761719,
+                    -52.03678894042969,
+                    795.6461181640625
                 ],
                 [
-                    -30.080101013183594,
-                    -32.959075927734375,
-                    -795.609375
+                    -0.9048881530761719,
+                    -52.03678894042969,
+                    -795.6461181640625
                 ],
                 [
-                    -30.409873962402344,
-                    28.011474609375,
-                    794.8170166015625
+                    0.3806114196777344,
+                    -95.16731262207031,
+                    792.4293212890625
                 ],
                 [
-                    -30.409873962402344,
-                    28.011474609375,
-                    -794.8170166015625
+                    0.3806114196777344,
+                    -95.16731262207031,
+                    -792.4293212890625
                 ],
                 [
-                    26.932586669921875,
-                    29.49163818359375,
-                    794.9462890625
+                    52.03678894042969,
+                    -0.9048881530761719,
+                    795.6461181640625
                 ],
                 [
-                    26.932586669921875,
-                    29.49163818359375,
-                    -794.9462890625
+                    52.03678894042969,
+                    -0.9048881530761719,
+                    -795.6461181640625
                 ],
                 [
-                    31.324790954589844,
-                    -30.869232177734375,
-                    796.123291015625
+                    95.16731262207031,
+                    0.3806114196777344,
+                    792.4293212890625
                 ],
                 [
-                    31.324790954589844,
-                    -30.869232177734375,
-                    -796.123291015625
+                    95.16731262207031,
+                    0.3806114196777344,
+                    -792.4293212890625
                 ],
                 [
-                    60.774383544921875,
-                    -61.08855438232422,
-                    793.7529296875
+                    0.9048881530761719,
+                    52.03678894042969,
+                    795.6461181640625
                 ],
                 [
-                    60.774383544921875,
-                    -61.08855438232422,
-                    -793.7529296875
+                    0.9048881530761719,
+                    52.03678894042969,
+                    -795.6461181640625
                 ],
                 [
-                    -64.51433563232422,
-                    63.57179260253906,
-                    791.3201904296875
+                    -0.3806114196777344,
+                    95.16731262207031,
+                    792.4293212890625
                 ],
                 [
-                    -64.51433563232422,
-                    63.57179260253906,
-                    -791.3201904296875
+                    -0.3806114196777344,
+                    95.16731262207031,
+                    -792.4293212890625
                 ],
                 [
-                    -62.08665466308594,
-                    -61.97582244873047,
-                    792.7513427734375
+                    -52.03678894042969,
+                    0.9048881530761719,
+                    795.6461181640625
                 ],
                 [
-                    -62.08665466308594,
-                    -61.97582244873047,
-                    -792.7513427734375
+                    -52.03678894042969,
+                    0.9048881530761719,
+                    -795.6461181640625
                 ],
                 [
-                    59.22315979003906,
-                    59.033512115478516,
-                    791.696533203125
+                    -95.16731262207031,
+                    -0.3806114196777344,
+                    792.4293212890625
                 ],
                 [
-                    59.22315979003906,
-                    59.033512115478516,
-                    -791.696533203125
+                    -95.16731262207031,
+                    -0.3806114196777344,
+                    -792.4293212890625
+                ],
+                [
+                    274.56842041015625,
+                    -501.24560546875,
+                    559.7664794921875
+                ],
+                [
+                    274.56842041015625,
+                    -501.24560546875,
+                    -559.7664794921875
+                ],
+                [
+                    222.85589599609375,
+                    -527.6866455078125,
+                    557.570068359375
+                ],
+                [
+                    222.85589599609375,
+                    -527.6866455078125,
+                    -557.570068359375
+                ],
+                [
+                    63.207916259765625,
+                    -453.7802734375,
+                    654.310791015625
+                ],
+                [
+                    63.207916259765625,
+                    -453.7802734375,
+                    -654.310791015625
+                ],
+                [
+                    102.28143310546875,
+                    -417.467041015625,
+                    673.24755859375
+                ],
+                [
+                    102.28143310546875,
+                    -417.467041015625,
+                    -673.24755859375
+                ],
+                [
+                    133.3642578125,
+                    -684.0977783203125,
+                    390.3646240234375
+                ],
+                [
+                    133.3642578125,
+                    -684.0977783203125,
+                    -390.3646240234375
+                ],
+                [
+                    -274.56842041015625,
+                    -501.24560546875,
+                    559.7664794921875
+                ],
+                [
+                    -274.56842041015625,
+                    -501.24560546875,
+                    -559.7664794921875
+                ],
+                [
+                    -222.85589599609375,
+                    -527.6866455078125,
+                    557.570068359375
+                ],
+                [
+                    -222.85589599609375,
+                    -527.6866455078125,
+                    -557.570068359375
+                ],
+                [
+                    -63.207916259765625,
+                    -453.7802734375,
+                    654.310791015625
+                ],
+                [
+                    -63.207916259765625,
+                    -453.7802734375,
+                    -654.310791015625
+                ],
+                [
+                    -102.28143310546875,
+                    -417.467041015625,
+                    673.24755859375
+                ],
+                [
+                    -102.28143310546875,
+                    -417.467041015625,
+                    -673.24755859375
+                ],
+                [
+                    -133.3642578125,
+                    -684.0977783203125,
+                    390.3646240234375
+                ],
+                [
+                    -133.3642578125,
+                    -684.0977783203125,
+                    -390.3646240234375
+                ],
+                [
+                    501.24560546875,
+                    274.56842041015625,
+                    559.7664794921875
+                ],
+                [
+                    501.24560546875,
+                    274.56842041015625,
+                    -559.7664794921875
+                ],
+                [
+                    527.6866455078125,
+                    222.85589599609375,
+                    557.570068359375
+                ],
+                [
+                    527.6866455078125,
+                    222.85589599609375,
+                    -557.570068359375
+                ],
+                [
+                    453.7802734375,
+                    63.207916259765625,
+                    654.310791015625
+                ],
+                [
+                    453.7802734375,
+                    63.207916259765625,
+                    -654.310791015625
+                ],
+                [
+                    417.467041015625,
+                    102.28143310546875,
+                    673.24755859375
+                ],
+                [
+                    417.467041015625,
+                    102.28143310546875,
+                    -673.24755859375
+                ],
+                [
+                    684.0977783203125,
+                    133.3642578125,
+                    390.3646240234375
+                ],
+                [
+                    684.0977783203125,
+                    133.3642578125,
+                    -390.3646240234375
+                ],
+                [
+                    501.24560546875,
+                    -274.56842041015625,
+                    559.7664794921875
+                ],
+                [
+                    501.24560546875,
+                    -274.56842041015625,
+                    -559.7664794921875
+                ],
+                [
+                    527.6866455078125,
+                    -222.85589599609375,
+                    557.570068359375
+                ],
+                [
+                    527.6866455078125,
+                    -222.85589599609375,
+                    -557.570068359375
+                ],
+                [
+                    453.7802734375,
+                    -63.207916259765625,
+                    654.310791015625
+                ],
+                [
+                    453.7802734375,
+                    -63.207916259765625,
+                    -654.310791015625
+                ],
+                [
+                    417.467041015625,
+                    -102.28143310546875,
+                    673.24755859375
+                ],
+                [
+                    417.467041015625,
+                    -102.28143310546875,
+                    -673.24755859375
+                ],
+                [
+                    684.0977783203125,
+                    -133.3642578125,
+                    390.3646240234375
+                ],
+                [
+                    684.0977783203125,
+                    -133.3642578125,
+                    -390.3646240234375
+                ],
+                [
+                    -274.56842041015625,
+                    501.24560546875,
+                    559.7664794921875
+                ],
+                [
+                    -274.56842041015625,
+                    501.24560546875,
+                    -559.7664794921875
+                ],
+                [
+                    -222.85589599609375,
+                    527.6866455078125,
+                    557.570068359375
+                ],
+                [
+                    -222.85589599609375,
+                    527.6866455078125,
+                    -557.570068359375
+                ],
+                [
+                    -63.207916259765625,
+                    453.7802734375,
+                    654.310791015625
+                ],
+                [
+                    -63.207916259765625,
+                    453.7802734375,
+                    -654.310791015625
+                ],
+                [
+                    -102.28143310546875,
+                    417.467041015625,
+                    673.24755859375
+                ],
+                [
+                    -102.28143310546875,
+                    417.467041015625,
+                    -673.24755859375
+                ],
+                [
+                    -133.3642578125,
+                    684.0977783203125,
+                    390.3646240234375
+                ],
+                [
+                    -133.3642578125,
+                    684.0977783203125,
+                    -390.3646240234375
+                ],
+                [
+                    274.56842041015625,
+                    501.24560546875,
+                    559.7664794921875
+                ],
+                [
+                    274.56842041015625,
+                    501.24560546875,
+                    -559.7664794921875
+                ],
+                [
+                    222.85589599609375,
+                    527.6866455078125,
+                    557.570068359375
+                ],
+                [
+                    222.85589599609375,
+                    527.6866455078125,
+                    -557.570068359375
+                ],
+                [
+                    63.207916259765625,
+                    453.7802734375,
+                    654.310791015625
+                ],
+                [
+                    63.207916259765625,
+                    453.7802734375,
+                    -654.310791015625
+                ],
+                [
+                    102.28143310546875,
+                    417.467041015625,
+                    673.24755859375
+                ],
+                [
+                    102.28143310546875,
+                    417.467041015625,
+                    -673.24755859375
+                ],
+                [
+                    133.3642578125,
+                    684.0977783203125,
+                    390.3646240234375
+                ],
+                [
+                    133.3642578125,
+                    684.0977783203125,
+                    -390.3646240234375
+                ],
+                [
+                    -501.24560546875,
+                    -274.56842041015625,
+                    559.7664794921875
+                ],
+                [
+                    -501.24560546875,
+                    -274.56842041015625,
+                    -559.7664794921875
+                ],
+                [
+                    -527.6866455078125,
+                    -222.85589599609375,
+                    557.570068359375
+                ],
+                [
+                    -527.6866455078125,
+                    -222.85589599609375,
+                    -557.570068359375
+                ],
+                [
+                    -453.7802734375,
+                    -63.207916259765625,
+                    654.310791015625
+                ],
+                [
+                    -453.7802734375,
+                    -63.207916259765625,
+                    -654.310791015625
+                ],
+                [
+                    -417.467041015625,
+                    -102.28143310546875,
+                    673.24755859375
+                ],
+                [
+                    -417.467041015625,
+                    -102.28143310546875,
+                    -673.24755859375
+                ],
+                [
+                    -684.0977783203125,
+                    -133.3642578125,
+                    390.3646240234375
+                ],
+                [
+                    -684.0977783203125,
+                    -133.3642578125,
+                    -390.3646240234375
+                ],
+                [
+                    -501.24560546875,
+                    274.56842041015625,
+                    559.7664794921875
+                ],
+                [
+                    -501.24560546875,
+                    274.56842041015625,
+                    -559.7664794921875
+                ],
+                [
+                    -527.6866455078125,
+                    222.85589599609375,
+                    557.570068359375
+                ],
+                [
+                    -527.6866455078125,
+                    222.85589599609375,
+                    -557.570068359375
+                ],
+                [
+                    -453.7802734375,
+                    63.207916259765625,
+                    654.310791015625
+                ],
+                [
+                    -453.7802734375,
+                    63.207916259765625,
+                    -654.310791015625
+                ],
+                [
+                    -417.467041015625,
+                    102.28143310546875,
+                    673.24755859375
+                ],
+                [
+                    -417.467041015625,
+                    102.28143310546875,
+                    -673.24755859375
+                ],
+                [
+                    -684.0977783203125,
+                    133.3642578125,
+                    390.3646240234375
+                ],
+                [
+                    -684.0977783203125,
+                    133.3642578125,
+                    -390.3646240234375
                 ]
             ],
             "landing_zones": {
+                "rules": [
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    },
+                    {
+                        "max": 16,
+                        "min": 0
+                    }
+                ],
                 "list": [
                     [
                         163.158935546875,
@@ -2891,72 +3357,6 @@
                         180.42889404296875,
                         187.70384216308594
                     ]
-                ],
-                "rules": [
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    },
-                    {
-                        "min": 0,
-                        "max": 16
-                    }
                 ]
             }
         }
