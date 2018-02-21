@@ -11,15 +11,17 @@ cShareSystems.load_pas("Grand Homie 2v2 & 3v3", [
     "coui://ui/mods/grandhomie/systems/the_reef_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/t-_crevage_2v2_ns.pas",
 	"coui://ui/mods/grandhomie/systems/lugaan_2v2_ns.pas",
-    "coui://ui/mods/grandhomie/systems/teotihuacan_3v3_ns.pas",
-    "coui://ui/mods/grandhomie/systems/wide_angles_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/the_somme_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/tyburn_3v3_ns.pas",
-    "coui://ui/mods/grandhomie/systems/ayutthaya_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/carthage_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/wide_angles_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/ayutthaya_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/hastings_3v3_ns.pas",
-    "coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas"
+    "coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas",
+    "coui://ui/mods/grandhomie/systems/teotihuacan_3v3_ns.pas"
 ]);
 cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
+    "coui://ui/mods/grandhomie/systems/passchendaele_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_4v4.pas",
     "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/salt_4v4_ns.pas",
