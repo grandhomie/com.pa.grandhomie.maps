@@ -34,7 +34,7 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 1,
-                "landingZoneSize": 144
+                "landingZoneSize": 190
             },
             "planetCSG": [
                 {
