@@ -45,12 +45,14 @@ cShareSystems.load_pas("Grand Homie 12+ Players", [
     "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_8v8.pas",
     "coui://ui/mods/grandhomie/systems/battlestar_16p.pas",
     "coui://ui/mods/grandhomie/systems/lord_of_symmetry_8v8_ns.pas",
-    "coui://ui/mods/grandhomie/systems/macro_aggressions_800_16_players.pas"
+    "coui://ui/mods/grandhomie/systems/macro_aggressions_800_16_players.pas",
+    "coui://ui/mods/grandhomie/systems/32_ffa.pas"
 ]);
 cShareSystems.load_pas("Grand Homie XvX / FFA", [
     "coui://ui/mods/grandhomie/systems/actarus_42-3-475.pas",
     "coui://ui/mods/grandhomie/systems/euphor.pas",
     "coui://ui/mods/grandhomie/systems/wadiya_2018_97-4-550.pas",
     "coui://ui/mods/grandhomie/systems/stykades_102-4-650.pas",
-    "coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas"
+    "coui://ui/mods/grandhomie/systems/wadiya_no_crater.pas",
+    "coui://ui/mods/grandhomie/systems/32_ffa.pas"
 ]);
