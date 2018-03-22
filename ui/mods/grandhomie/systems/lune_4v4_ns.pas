@@ -1,6 +1,6 @@
 {
     "name": "Lune 4v4 NS",
-    "description":"4v4 unshared barren moon.  Wadiya-like planet with balanced spawns and metal (same planet as 'Salar de Uyuni' but north vs south spawns as opposed to checkerboard pattern).",
+    "description":"4v4 unshared barren moon with balanced spawns (team 1 in one hemisphere, team 2 in the other) and metal.  (Same planet as 'Salar de Uyuni' but north vs south spawns as opposed to checkerboard pattern).",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[8, 8],
