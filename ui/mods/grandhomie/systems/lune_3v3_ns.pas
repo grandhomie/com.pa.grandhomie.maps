@@ -1,6 +1,6 @@
 {
     "name": "Lune 3v3 NS",
-    "description":"3v3 unshared map (also works for 1v1 and 2v2).  Symmetrical metal like TheClassyBarren but with more metal and less clusters like Wadiya.",
+    "description":"3v3 unshared barren moon with balanced spawns (team 1 in one hemisphere, team 2 in the other) and metal.",
     "version":"1.1",
     "creator":"Grand Homie",
     "players":[2, 6],
