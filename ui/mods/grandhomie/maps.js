@@ -51,6 +51,7 @@ cShareSystems.load_pas("Grand Homie 12+ Players", [
     "coui://ui/mods/grandhomie/systems/32_ffa.pas"
 ]);
 cShareSystems.load_pas("Grand Homie XvX / FFA", [
+    "coui://ui/mods/grandhomie/systems/filibuster_6p_ffa.pas",
     "coui://ui/mods/grandhomie/systems/actarus_42-3-475.pas",
     "coui://ui/mods/grandhomie/systems/euphor.pas",
     "coui://ui/mods/grandhomie/systems/wadiya_2018_97-4-550.pas",
