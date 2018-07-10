@@ -1,7 +1,7 @@
 {
     "name": "Stykadès",
     "description":"(Recommended for 10+ players).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.  (102 clusters of 4 metal points).",
-    "version":"1.0",
+    "version":"1.1",
     "creator":"Grand Homie",
     "planets": [
         {
@@ -34,7 +34,7 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 1,
-                "landingZoneSize": 230
+                "landingZoneSize": 190
             },
             "planetCSG": [
                 {
