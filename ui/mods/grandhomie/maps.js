@@ -21,6 +21,7 @@ cShareSystems.load_pas("Grand Homie 2v2 & 3v3", [
     "coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas"
 ]);
 cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
+	"coui://ui/mods/grandhomie/systems/converge_4v4.pas",
     "coui://ui/mods/grandhomie/systems/hydaspes_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/arras_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/passchendaele_4v4_ns.pas",
