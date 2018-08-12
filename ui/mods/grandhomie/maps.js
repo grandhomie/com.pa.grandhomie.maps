@@ -41,6 +41,7 @@ cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
     "coui://ui/mods/grandhomie/systems/lune_5v5_ns.pas"
 ]);
 cShareSystems.load_pas("Grand Homie 12+ Players", [
+    "coui://ui/mods/grandhomie/systems/biohazard_6v6.pas",
     "coui://ui/mods/grandhomie/systems/sixmetry_6v6_ns.pas",
     "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_4v4v4.pas",
     "coui://ui/mods/grandhomie/systems/love_triangle_4v4v4_ns.pas",
