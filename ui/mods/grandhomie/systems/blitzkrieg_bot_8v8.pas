@@ -1,12 +1,12 @@
 {
-    "name": "Bot Sematary 8v8 or 4v4v4v4 NS",
+    "name": "Bot Cemetery 8v8 or 4v4v4v4 NS",
     "description":"Open, metal rich 16 players (8v8 or 4v4v4v4) unshared map.  Each team spawn spawns around an hexagon and make their way to the enemies' hexagons in an east-west direction.  (Similar to the 8 players map Blitzkrieg Bot and the 12 players Beat on the Bot).",
     "version":"1.1",
     "creator":"Grand Homie",
     "players":[16, 16],
     "planets": [
         {
-            "name": "Bot Sematary 8v8 or 4v4v4v4 NS",
+            "name": "Bot Cemetery 8v8 or 4v4v4v4 NS",
             "mass": 10000,
             "position_x": -600,
             "position_y": -17800,
@@ -6705,67 +6705,67 @@
                 "rules": [
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     },
                     {
                         "max": 16,
-                        "min": 16
+                        "min": 2
                     }
                 ],
                 "list": [

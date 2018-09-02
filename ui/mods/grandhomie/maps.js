@@ -1,4 +1,5 @@
-cShareSystems.load_pas("Grand Homie 2v2 & 3v3", [
+cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
+    "coui://ui/mods/grandhomie/systems/the_void.pas",
     "coui://ui/mods/grandhomie/systems/la_somme_2v2.pas",
     "coui://ui/mods/grandhomie/systems/theia_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/toisengard_2v2_ns.pas",
