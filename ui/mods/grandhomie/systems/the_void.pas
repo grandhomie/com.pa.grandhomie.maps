@@ -39,36 +39,9 @@
             },
             "planetCSG": [
                 {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
-                    "height": 504.2953186035156,
-                    "position": [
-                        0.33963775634765625,
-                        -392.1568603515625,
-                        317.05938720703125
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.9999997019767761,
                         0.00032155861845239997,
@@ -83,22 +56,20 @@
                         0.6287176609039307,
                         317.05938720703125
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        0.33963775634765625,
+                        -392.1568603515625,
+                        317.05938720703125
+                    ],
+                    "height": 504.2953186035156,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -110,14 +81,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 504.2953186035156,
-                    "position": [
-                        0.33963775634765625,
-                        -392.1568603515625,
-                        317.05938720703125
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.9999997019767761,
                         0.00032155861845239997,
@@ -132,22 +105,20 @@
                         -0.6287176609039307,
                         -317.05938720703125
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        0.33963775634765625,
+                        -392.1568603515625,
+                        317.05938720703125
+                    ],
+                    "height": 504.2953186035156,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -159,14 +130,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.4335632324219,
-                    "position": [
-                        193.03082275390625,
-                        -426.889404296875,
-                        189.65133666992188
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.8939400911331177,
                         0.23455248773097992,
@@ -181,22 +154,20 @@
                         0.3752251863479614,
                         189.65139770507812
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        193.03082275390625,
+                        -426.889404296875,
+                        189.65133666992188
+                    ],
+                    "height": 505.4335632324219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -208,14 +179,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.4335632324219,
-                    "position": [
-                        193.03082275390625,
-                        -426.889404296875,
-                        189.65133666992188
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.8939400911331177,
                         0.23455248773097992,
@@ -230,22 +203,20 @@
                         -0.3752251863479614,
                         -189.65138244628906
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        193.03082275390625,
+                        -426.889404296875,
+                        189.65133666992188
+                    ],
+                    "height": 505.4335632324219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -257,14 +228,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 504.6855163574219,
-                    "position": [
-                        311.1971435546875,
-                        -397.32073974609375,
-                        -0.20522308349609375
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.6196300983428955,
                         0.48563700914382935,
@@ -279,22 +252,20 @@
                         -0.00040662288665771484,
                         -0.2052166759967804
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        311.1971435546875,
+                        -397.32073974609375,
+                        -0.20522308349609375
+                    ],
+                    "height": 504.6855163574219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -306,14 +277,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.4335632324219,
-                    "position": [
-                        -193.03082275390625,
-                        -426.889404296875,
-                        -189.65133666992188
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.7665458917617798,
                         -0.5162858963012695,
@@ -328,22 +301,20 @@
                         0.3752250671386719,
                         189.6513214111328
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -193.03082275390625,
+                        -426.889404296875,
+                        -189.65133666992188
+                    ],
+                    "height": 505.4335632324219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -355,14 +326,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.4335632324219,
-                    "position": [
-                        -193.03082275390625,
-                        -426.889404296875,
-                        -189.65133666992188
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.7665458917617798,
                         -0.5162858963012695,
@@ -377,22 +350,20 @@
                         -0.3752250671386719,
                         -189.65133666992188
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": true,
-                    "pathable": true,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -193.03082275390625,
+                        -426.889404296875,
+                        -189.65133666992188
+                    ],
+                    "height": 505.4335632324219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -404,14 +375,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 504.6855163574219,
-                    "position": [
-                        -311.1971435546875,
-                        -397.32073974609375,
-                        0.20522308349609375
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
+                    "rotation": 0,
+                    "op": "BO_Subtract",
                     "transform": [
                         0.6199393272399902,
                         -0.48524221777915955,
@@ -426,22 +399,20 @@
                         -0.00040662288665771484,
                         -0.2052166610956192
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -311.1971435546875,
+                        -397.32073974609375,
+                        0.20522308349609375
+                    ],
+                    "height": 504.6855163574219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -453,14 +424,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 507.3652038574219,
-                    "position": [
-                        393.543701171875,
-                        60.573974609375,
-                        314.44171142578125
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": true,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": true
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.6285542249679565,
                         -0.057172682136297226,
@@ -475,22 +448,20 @@
                         0.6197541952133179,
                         314.44171142578125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        393.543701171875,
+                        60.573974609375,
+                        314.44171142578125
+                    ],
+                    "height": 507.3652038574219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -502,14 +473,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 507.3652038574219,
-                    "position": [
-                        393.543701171875,
-                        60.573974609375,
-                        314.44171142578125
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.6285542249679565,
                         -0.057172682136297226,
@@ -524,22 +497,20 @@
                         -0.6197541952133179,
                         -314.44171142578125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        393.543701171875,
+                        60.573974609375,
+                        314.44171142578125
+                    ],
+                    "height": 507.3652038574219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -551,14 +522,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.80389404296875,
-                    "position": [
-                        387.3251953125,
-                        280.4810791015625,
-                        167.80865478515625
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.5612095594406128,
                         -0.317749559879303,
@@ -573,22 +546,20 @@
                         0.3311116099357605,
                         167.80865478515625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        387.3251953125,
+                        280.4810791015625,
+                        167.80865478515625
+                    ],
+                    "height": 506.80389404296875,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -600,14 +571,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.80389404296875,
-                    "position": [
-                        387.3251953125,
-                        280.4810791015625,
-                        167.80865478515625
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.5612095594406128,
                         -0.317749559879303,
@@ -622,22 +595,20 @@
                         -0.3311116099357605,
                         -167.80865478515625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        387.3251953125,
+                        280.4810791015625,
+                        167.80865478515625
+                    ],
+                    "height": 506.80389404296875,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -649,14 +620,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.3117980957031,
-                    "position": [
-                        155.9498291015625,
-                        249.411376953125,
-                        412.09857177734375
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.9476984143257141,
                         -0.08364623039960861,
@@ -671,22 +644,20 @@
                         0.8139225244522095,
                         412.09857177734375
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        155.9498291015625,
+                        249.411376953125,
+                        412.09857177734375
+                    ],
+                    "height": 506.3117980957031,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -698,14 +669,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.3117980957031,
-                    "position": [
-                        155.9498291015625,
-                        249.411376953125,
-                        412.09857177734375
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.9476984143257141,
                         -0.08364623039960861,
@@ -720,22 +693,20 @@
                         -0.8139225244522095,
                         -412.0986022949219
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        155.9498291015625,
+                        249.411376953125,
+                        412.09857177734375
+                    ],
+                    "height": 506.3117980957031,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -747,14 +718,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 507.3652038574219,
-                    "position": [
-                        -393.543701171875,
-                        60.573974609375,
-                        -314.44171142578125
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         -0.582268476486206,
                         0.2435416579246521,
@@ -769,22 +742,20 @@
                         0.6197541952133179,
                         314.4417419433594
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -393.543701171875,
+                        60.573974609375,
+                        -314.44171142578125
+                    ],
+                    "height": 507.3652038574219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -796,14 +767,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 507.3652038574219,
-                    "position": [
-                        -393.543701171875,
-                        60.573974609375,
-                        -314.44171142578125
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         -0.582268476486206,
                         0.2435416579246521,
@@ -818,22 +791,20 @@
                         -0.6197541952133179,
                         -314.44171142578125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_henge.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -393.543701171875,
+                        60.573974609375,
+                        -314.44171142578125
+                    ],
+                    "height": 507.3652038574219,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -845,14 +816,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.80389404296875,
-                    "position": [
-                        -387.3251953125,
-                        280.4810791015625,
-                        -167.80865478515625
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.12679153680801392,
                         0.6323328614234924,
@@ -867,22 +840,20 @@
                         0.3311115503311157,
                         167.80862426757812
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -387.3251953125,
+                        280.4810791015625,
+                        -167.80865478515625
+                    ],
+                    "height": 506.80389404296875,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -894,14 +865,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.80389404296875,
-                    "position": [
-                        -387.3251953125,
-                        280.4810791015625,
-                        -167.80865478515625
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.12679153680801392,
                         0.6323328614234924,
@@ -916,22 +889,20 @@
                         -0.3311115503311157,
                         -167.80862426757812
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -387.3251953125,
+                        280.4810791015625,
+                        -167.80865478515625
+                    ],
+                    "height": 506.80389404296875,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -943,14 +914,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.3117980957031,
-                    "position": [
-                        -155.9498291015625,
-                        249.411376953125,
-                        -412.09857177734375
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.4901527166366577,
                         0.8154013156890869,
@@ -965,22 +938,20 @@
                         0.8139228820800781,
                         412.0987243652344
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -155.9498291015625,
+                        249.411376953125,
+                        -412.09857177734375
+                    ],
+                    "height": 506.3117980957031,
+                    "weightScale": [
                         1,
                         1,
                         1
                     ],
-                    "weightScale": [
+                    "scale": [
                         1,
                         1,
                         1
@@ -992,14 +963,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 506.3117980957031,
-                    "position": [
-                        -155.9498291015625,
-                        249.411376953125,
-                        -412.09857177734375
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.4901527166366577,
                         0.8154013156890869,
@@ -1014,22 +987,20 @@
                         -0.8139228820800781,
                         -412.0987548828125
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        0.31000012159347534,
-                        0.31000012159347534,
-                        0.31000012159347534
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -155.9498291015625,
+                        249.411376953125,
+                        -412.09857177734375
                     ],
+                    "height": 506.3117980957031,
                     "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
                         1,
                         1,
                         1
@@ -1041,14 +1012,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 504.18212890625,
-                    "position": [
-                        -0.61285400390625,
-                        430.303955078125,
-                        262.7503662109375
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
+                    "rotation": 1.6199990510940552,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.015035515651106834,
                         -0.30963507294654846,
@@ -1063,25 +1036,23 @@
                         0.1615540087223053,
                         262.7503662109375
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 1.6199990510940552,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_01.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        0.31000012159347534,
-                        0.31000012159347534,
-                        0.31000012159347534
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -0.61285400390625,
+                        430.303955078125,
+                        262.7503662109375
                     ],
+                    "height": 504.18212890625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.31000012159347534,
+                        0.31000012159347534,
+                        0.31000012159347534
                     ],
                     "weight": [
                         0,
@@ -1090,14 +1061,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 504.18212890625,
-                    "position": [
-                        -0.61285400390625,
-                        430.303955078125,
-                        262.7503662109375
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
+                    "rotation": 1.6199990510940552,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.015035515651106834,
                         -0.30963507294654846,
@@ -1112,25 +1085,23 @@
                         -0.1615540087223053,
                         -262.7503662109375
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 1.6199990510940552,
-                    "spec": "/pa/terrain/lava/brushes/lava_crack_01.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        0.18000036478042603,
-                        0.18000036478042603,
-                        0.18000036478042603
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -0.61285400390625,
+                        430.303955078125,
+                        262.7503662109375
                     ],
+                    "height": 504.18212890625,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.31000012159347534,
+                        0.31000012159347534,
+                        0.31000012159347534
                     ],
                     "weight": [
                         0,
@@ -1139,14 +1110,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 504.984375,
-                    "position": [
-                        2.63409423828125,
-                        -255.9168701171875,
-                        435.32611083984375
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_09.json",
+                    "rotation": 1.6099990606307983,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.0067992545664310455,
                         -0.17986945807933807,
@@ -1161,25 +1134,23 @@
                         0.15517085790634155,
                         435.32611083984375
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 1.6099990606307983,
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_09.json"
-                },
-                {
-                    "no_features": true,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        0.18000036478042603,
-                        0.18000036478042603,
-                        0.18000036478042603
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        2.63409423828125,
+                        -255.9168701171875,
+                        435.32611083984375
                     ],
+                    "height": 504.984375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.18000036478042603,
+                        0.18000036478042603,
+                        0.18000036478042603
                     ],
                     "weight": [
                         0,
@@ -1188,14 +1159,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 504.984375,
-                    "position": [
-                        2.63409423828125,
-                        -255.9168701171875,
-                        435.32611083984375
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/desert/brushes/desert_crack_09.json",
+                    "rotation": 1.6099990606307983,
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.0067992545664310455,
                         -0.17986945807933807,
@@ -1210,25 +1183,23 @@
                         -0.15517085790634155,
                         -435.32611083984375
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 1.6099990606307983,
-                    "spec": "/pa/terrain/desert/brushes/desert_crack_09.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        1.7199993133544922
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        2.63409423828125,
+                        -255.9168701171875,
+                        435.32611083984375
                     ],
+                    "height": 504.984375,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        0.18000036478042603,
+                        0.18000036478042603,
+                        0.18000036478042603
                     ],
                     "weight": [
                         0,
@@ -1237,14 +1208,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.1007385253906,
-                    "position": [
-                        354.06561279296875,
-                        -295.97174072265625,
-                        205.34121704101562
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": true,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         1.1191173791885376,
                         0.5022912621498108,
@@ -1259,25 +1232,23 @@
                         0.6992403864860535,
                         205.3412628173828
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        1.7199993133544922
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        354.06561279296875,
+                        -295.97174072265625,
+                        205.34121704101562
                     ],
+                    "height": 505.1007385253906,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7199993133544922,
+                        1.7199993133544922,
+                        1.7199993133544922
                     ],
                     "weight": [
                         0,
@@ -1286,14 +1257,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.1007385253906,
-                    "position": [
-                        354.06561279296875,
-                        -295.97174072265625,
-                        205.34121704101562
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         1.1191173791885376,
                         0.5022912621498108,
@@ -1308,25 +1281,23 @@
                         -0.6992403864860535,
                         -205.34124755859375
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        1.7199993133544922
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        354.06561279296875,
+                        -295.97174072265625,
+                        205.34121704101562
                     ],
+                    "height": 505.1007385253906,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7199993133544922,
+                        1.7199993133544922,
+                        1.7199993133544922
                     ],
                     "weight": [
                         0,
@@ -1335,14 +1306,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.1007385253906,
-                    "position": [
-                        -354.06561279296875,
-                        -295.97174072265625,
-                        -205.34121704101562
-                    ],
-                    "mirrored": true,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.29588547348976135,
                         -1.1904501914978027,
@@ -1357,25 +1330,23 @@
                         0.6992397904396057,
                         205.34107971191406
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json"
-                },
-                {
-                    "no_features": false,
-                    "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
-                    "twinId": 0,
-                    "scale": [
-                        1.7199993133544922,
-                        1.7199993133544922,
-                        1.7199993133544922
+                    "mirrored": true,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -354.06561279296875,
+                        -295.97174072265625,
+                        -205.34121704101562
                     ],
+                    "height": 505.1007385253906,
                     "weightScale": [
                         1,
                         1,
                         1
+                    ],
+                    "scale": [
+                        1.7199993133544922,
+                        1.7199993133544922,
+                        1.7199993133544922
                     ],
                     "weight": [
                         0,
@@ -1384,14 +1355,16 @@
                         0
                     ],
                     "weightHard": false,
-                    "height": 505.1007385253906,
-                    "position": [
-                        -354.06561279296875,
-                        -295.97174072265625,
-                        -205.34121704101562
-                    ],
-                    "mirrored": false,
-                    "proj": "BP_Bend",
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
+                },
+                {
+                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json",
+                    "rotation": 0,
+                    "op": "BO_Add",
                     "transform": [
                         0.29588547348976135,
                         -1.1904501914978027,
@@ -1406,9 +1379,36 @@
                         -0.6992397904396057,
                         -205.34107971191406
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
-                    "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json"
+                    "mirrored": false,
+                    "proj": "BP_Bend",
+                    "position": [
+                        -354.06561279296875,
+                        -295.97174072265625,
+                        -205.34121704101562
+                    ],
+                    "height": 505.1007385253906,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "scale": [
+                        1.7199993133544922,
+                        1.7199993133544922,
+                        1.7199993133544922
+                    ],
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "weightHard": false,
+                    "no_features": false,
+                    "pathable": false,
+                    "flooded": false,
+                    "twinId": 0,
+                    "mergeable": false
                 }
             ],
             "metal_spots": [
@@ -1543,21 +1543,6 @@
                     -407.10858154296875
                 ],
                 [
-                    192.138916015625,
-                    -46.0482177734375,
-                    466.288818359375
-                ],
-                [
-                    192.138916015625,
-                    -46.0482177734375,
-                    -466.288818359375
-                ],
-                [
-                    200.05224609375,
-                    25.566238403320312,
-                    464.802490234375
-                ],
-                [
                     168.74444580078125,
                     407.2734375,
                     247.5953369140625
@@ -1768,21 +1753,6 @@
                     -407.10858154296875
                 ],
                 [
-                    -192.138916015625,
-                    -46.0482177734375,
-                    466.288818359375
-                ],
-                [
-                    -192.138916015625,
-                    -46.0482177734375,
-                    -466.288818359375
-                ],
-                [
-                    -200.05224609375,
-                    25.566238403320312,
-                    464.802490234375
-                ],
-                [
                     -168.74444580078125,
                     407.2734375,
                     247.5953369140625
@@ -1883,16 +1853,6 @@
                     -408.4300537109375
                 ],
                 [
-                    103.848388671875,
-                    -0.3618125915527344,
-                    496.873046875
-                ],
-                [
-                    103.848388671875,
-                    -0.3618125915527344,
-                    -496.873046875
-                ],
-                [
                     -462.961669921875,
                     181.37969970703125,
                     97.88357543945312
@@ -1913,16 +1873,6 @@
                     -408.4300537109375
                 ],
                 [
-                    -103.848388671875,
-                    -0.3618125915527344,
-                    496.873046875
-                ],
-                [
-                    -103.848388671875,
-                    -0.3618125915527344,
-                    -496.873046875
-                ],
-                [
                     391.8304443359375,
                     -214.79025268554688,
                     233.5474853515625
@@ -1941,6 +1891,66 @@
                     -391.8304443359375,
                     -214.79025268554688,
                     -233.5474853515625
+                ],
+                [
+                    114.33364868164062,
+                    -3.99993896484375,
+                    494.8045654296875
+                ],
+                [
+                    114.33364868164062,
+                    -3.99993896484375,
+                    -494.8045654296875
+                ],
+                [
+                    184.255615234375,
+                    27.296920776367188,
+                    471.4332275390625
+                ],
+                [
+                    184.255615234375,
+                    27.296920776367188,
+                    -471.4332275390625
+                ],
+                [
+                    188.03228759765625,
+                    -57.22740173339844,
+                    466.735107421875
+                ],
+                [
+                    188.03228759765625,
+                    -57.22740173339844,
+                    -466.735107421875
+                ],
+                [
+                    -114.33364868164062,
+                    -3.99993896484375,
+                    494.8045654296875
+                ],
+                [
+                    -114.33364868164062,
+                    -3.99993896484375,
+                    -494.8045654296875
+                ],
+                [
+                    -184.255615234375,
+                    27.296920776367188,
+                    471.4332275390625
+                ],
+                [
+                    -184.255615234375,
+                    27.296920776367188,
+                    -471.4332275390625
+                ],
+                [
+                    -188.03228759765625,
+                    -57.22740173339844,
+                    466.735107421875
+                ],
+                [
+                    -188.03228759765625,
+                    -57.22740173339844,
+                    -466.735107421875
                 ]
             ],
             "landing_zones": {
@@ -2000,16 +2010,6 @@
                         424.80950927734375
                     ],
                     [
-                        84.53020477294922,
-                        -258.70660400390625,
-                        424.94091796875
-                    ],
-                    [
-                        75.73424530029297,
-                        -263.40191650390625,
-                        -423.74566650390625
-                    ],
-                    [
                         -82.85942077636719,
                         -269.02459716796875,
                         418.6501159667969
@@ -2018,6 +2018,16 @@
                         -75.38285827636719,
                         -270.85296630859375,
                         -418.9400634765625
+                    ],
+                    [
+                        84.53020477294922,
+                        -258.70660400390625,
+                        424.94091796875
+                    ],
+                    [
+                        75.73424530029297,
+                        -263.40191650390625,
+                        -423.74566650390625
                     ]
                 ]
             }
