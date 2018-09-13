@@ -1,6 +1,6 @@
 {
     "name": "Lune 1v1",
-    "description":"TODO",
+    "description":"Barren moon with huge spawns that have 4 equally good landing locations.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[2, 2],
