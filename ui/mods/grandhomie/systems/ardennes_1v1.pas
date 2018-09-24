@@ -1,12 +1,12 @@
 {
-    "name": "Ardennes 1v1",
-    "description":"1v1 map with trees.  Players spawn on the poles, many avenues to get to the enemy.  One platform is only accessible by air.",
+    "name": "The Ardennes 1v1",
+    "description":"1v1 map.  Players spawn on the poles, many avenues to get to the enemy, trees to reclaim.  One platform is only accessible by air.",
     "version":"1.0",
     "creator":"Grand Homie",
     "players":[2, 2],
     "planets": [
         {
-            "name": "Ardennes 1v1",
+            "name": "The Ardennes 1v1",
             "mass": 10000,
             "position_x": -2700,
             "position_y": -17900,
