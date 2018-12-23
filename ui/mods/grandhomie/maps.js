@@ -33,6 +33,7 @@ cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
     "coui://ui/mods/grandhomie/systems/lune_3v3_ns.pas"
 ]);
 cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
+    "coui://ui/mods/grandhomie/systems/collapse_4v4.pas",
 	"coui://ui/mods/grandhomie/systems/converge_4v4.pas",
     "coui://ui/mods/grandhomie/systems/hydaspes_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/arras_4v4_ns.pas",
@@ -53,6 +54,7 @@ cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
     "coui://ui/mods/grandhomie/systems/lune_5v5_ns.pas"
 ]);
 cShareSystems.load_pas("Grand Homie 12+ Players", [
+    "coui://ui/mods/grandhomie/systems/ilipa_6v6_ns.pas",
     "coui://ui/mods/grandhomie/systems/biohazard_6v6.pas",
     "coui://ui/mods/grandhomie/systems/sixmetry_6v6_ns.pas",
     "coui://ui/mods/grandhomie/systems/blitzkrieg_bot_4v4v4.pas",
