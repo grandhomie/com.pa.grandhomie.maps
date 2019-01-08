@@ -29,7 +29,7 @@
                 "metalClusters": 100,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
-                "biome": "moon",
+                "biome": "metal_boss",
                 "symmetryType": "terrain and CSG",
                 "symmetricalMetal": true,
                 "symmetricalStarts": true,
