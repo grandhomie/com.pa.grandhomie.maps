@@ -1,11 +1,8 @@
 cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
 	"coui://ui/mods/grandhomie/systems/desert_strike_1v1.pas",
 	"coui://ui/mods/grandhomie/systems/kobol_1v1.pas",
-    "coui://ui/mods/grandhomie/systems/enfer_1v1.pas",
 	"coui://ui/mods/grandhomie/systems/guadalcanal_1v1.pas",
 	"coui://ui/mods/grandhomie/systems/centax_1v1.pas",
-    "coui://ui/mods/grandhomie/systems/ardennes_1v1.pas",
-    "coui://ui/mods/grandhomie/systems/the_marne_1v1.pas",
     "coui://ui/mods/grandhomie/systems/north_sentinel_1v1.pas",
     "coui://ui/mods/grandhomie/systems/the_void_1v1.pas",
     "coui://ui/mods/grandhomie/systems/lune_1v1.pas",
