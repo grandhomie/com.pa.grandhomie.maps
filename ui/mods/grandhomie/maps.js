@@ -45,6 +45,7 @@ cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
     "coui://ui/mods/grandhomie/systems/lune_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/heavy_metal_gauntlet_4v4.pas",
     "coui://ui/mods/grandhomie/systems/thewall_4v4_ns.pas",
+    "coui://ui/mods/grandhomie/systems/station_gh_5v5_ns.pas",
     "coui://ui/mods/grandhomie/systems/bastille_5v5_ns.pas",
     "coui://ui/mods/grandhomie/systems/2_croissants_5v5_ns.pas",
     "coui://ui/mods/grandhomie/systems/ypres_5v5.pas",
