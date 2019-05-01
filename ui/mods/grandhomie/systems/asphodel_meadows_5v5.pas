@@ -39,11 +39,11 @@
             },
             "planetCSG": [
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -54,13 +54,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         -15.738876342773438,
@@ -69,6 +62,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.026280757039785385,
                         -0.9255091547966003,
@@ -83,16 +77,22 @@
                         0.9077549576759338,
                         685.82177734375
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 1.5399991273880005,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -103,13 +103,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         -15.738876342773438,
@@ -118,6 +111,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.026280757039785385,
                         -0.9255091547966003,
@@ -132,16 +126,22 @@
                         -0.9077549576759338,
                         -685.82177734375
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 1.5399991273880005,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -152,13 +152,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         34.72901916503906,
@@ -167,6 +160,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.8387678861618042,
                         0.007276961579918861,
@@ -181,16 +175,22 @@
                         0.7957971692085266,
                         662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 0,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -201,13 +201,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         34.72901916503906,
@@ -216,6 +209,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.8387678861618042,
                         0.007276961579918861,
@@ -230,16 +224,22 @@
                         -0.7957971692085266,
                         -662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 0,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -250,13 +250,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         13.779129028320312,
@@ -265,6 +258,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         1.033608317375183,
                         0.0033328100107610226,
@@ -279,16 +273,22 @@
                         0.9868974089622498,
                         668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 0,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -299,13 +299,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         13.779129028320312,
@@ -314,6 +307,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         1.033608317375183,
                         0.0033328100107610226,
@@ -328,16 +322,22 @@
                         -0.9868974089622498,
                         -668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 0,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -348,13 +348,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         116.77970886230469,
@@ -363,6 +356,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.8549911975860596,
                         -0.3147101104259491,
@@ -377,16 +371,22 @@
                         0.9077548980712891,
                         685.82177734375
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 2.7966361045837402,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -397,13 +397,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         116.77970886230469,
@@ -412,6 +405,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.8549911975860596,
                         -0.3147101104259491,
@@ -426,16 +420,22 @@
                         -0.9077548980712891,
                         -685.82177734375
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 2.7966361045837402,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -446,13 +446,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         205.7709503173828,
@@ -461,6 +454,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.25227269530296326,
                         -0.7557713389396667,
@@ -475,16 +469,22 @@
                         0.7957971692085266,
                         662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 1.2566370964050293,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -495,13 +495,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         205.7709503173828,
@@ -510,6 +503,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.25227269530296326,
                         -0.7557713389396667,
@@ -524,16 +518,22 @@
                         -0.7957971692085266,
                         -662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 1.2566370964050293,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -544,13 +544,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         187.927001953125,
@@ -559,6 +552,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.316232830286026,
                         -0.9377915263175964,
@@ -573,16 +567,22 @@
                         0.9868974089622498,
                         668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 1.2566370964050293,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -593,13 +593,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         187.927001953125,
@@ -608,6 +601,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.316232830286026,
                         -0.9377915263175964,
@@ -622,16 +616,22 @@
                         -0.9868974089622498,
                         -668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 1.2566370964050293,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -642,13 +642,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         87.91270446777344,
@@ -657,6 +650,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.5546943545341492,
                         0.7310077548027039,
@@ -671,16 +665,22 @@
                         0.9077548980712891,
                         685.8217163085938
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 4.0532732009887695,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -691,13 +691,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         87.91270446777344,
@@ -706,6 +699,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.5546943545341492,
                         0.7310077548027039,
@@ -720,16 +714,22 @@
                         -0.9077548980712891,
                         -685.8217163085938
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 4.0532732009887695,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -740,13 +740,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         92.44441986083984,
@@ -755,6 +748,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.6828548312187195,
                         -0.4743693172931671,
@@ -769,16 +763,22 @@
                         0.7957971692085266,
                         662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 2.5132741928100586,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -789,13 +789,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         92.44441986083984,
@@ -804,6 +797,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.6828548312187195,
                         -0.4743693172931671,
@@ -818,16 +812,22 @@
                         -0.7957971692085266,
                         -662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 2.5132741928100586,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -838,13 +838,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         102.36614227294922,
@@ -853,6 +846,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.8381657600402832,
                         -0.582919716835022,
@@ -867,16 +861,22 @@
                         0.9868974089622498,
                         668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 2.5132741928100586,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -887,13 +887,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         102.36614227294922,
@@ -902,6 +895,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.8381657600402832,
                         -0.582919716835022,
@@ -916,16 +910,22 @@
                         -0.9868974089622498,
                         -668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 2.5132741928100586,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -936,13 +936,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         -62.4466667175293,
@@ -951,6 +944,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.5121712684631348,
                         0.7664976716041565,
@@ -965,16 +959,22 @@
                         0.9077548980712891,
                         685.8217163085938
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 5.309910297393799,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -985,13 +985,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         -62.4466667175293,
@@ -1000,6 +993,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.5121712684631348,
                         0.7664976716041565,
@@ -1014,16 +1008,22 @@
                         -0.9077548980712891,
                         -685.8217163085938
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 5.309910297393799,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -1034,13 +1034,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         -148.63714599609375,
@@ -1049,6 +1042,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.6743001341819763,
                         0.4625950753688812,
@@ -1063,16 +1057,22 @@
                         0.7957971692085266,
                         662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 3.769911289215088,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -1083,13 +1083,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         -148.63714599609375,
@@ -1098,6 +1091,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.6743001341819763,
                         0.4625950753688812,
@@ -1112,16 +1106,22 @@
                         -0.7957971692085266,
                         -662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 3.769911289215088,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -1132,13 +1132,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         -124.66124725341797,
@@ -1147,6 +1140,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.8342476487159729,
                         0.5775272846221924,
@@ -1161,16 +1155,22 @@
                         0.9868974089622498,
                         668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 3.769911289215088,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -1181,13 +1181,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         -124.66124725341797,
@@ -1196,6 +1189,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -0.8342476487159729,
                         0.5775272846221924,
@@ -1210,16 +1204,22 @@
                         -0.9868974089622498,
                         -668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 3.769911289215088,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -1230,13 +1230,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         -126.50686645507812,
@@ -1245,6 +1238,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.8712335228919983,
                         -0.25728610157966614,
@@ -1259,16 +1253,22 @@
                         0.9077549576759338,
                         685.82177734375
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 6.566547393798828,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.9261540174484253,
                         0.9261540174484253,
@@ -1279,13 +1279,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.7225341796875,
                     "position": [
                         -126.50686645507812,
@@ -1294,6 +1287,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.8712335228919983,
                         -0.25728610157966614,
@@ -1308,16 +1302,22 @@
                         -0.9077549576759338,
                         -685.82177734375
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 6.566547393798828,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -1328,13 +1328,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         -184.30723571777344,
@@ -1343,6 +1336,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.26611441373825073,
                         0.7602688074111938,
@@ -1357,16 +1351,22 @@
                         0.7957971692085266,
                         662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 5.026548385620117,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         0.8400002121925354,
                         0.8400002121925354,
@@ -1377,13 +1377,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.726318359375,
                     "position": [
                         -184.30723571777344,
@@ -1392,6 +1385,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.26611441373825073,
                         0.7602688074111938,
@@ -1406,16 +1400,22 @@
                         -0.7957971692085266,
                         -662.9048461914062
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 5.026548385620117,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -1426,13 +1426,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         -179.41102600097656,
@@ -1441,6 +1434,7 @@
                     ],
                     "mirrored": false,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.32257235050201416,
                         0.9398512840270996,
@@ -1455,16 +1449,22 @@
                         0.9868974089622498,
                         668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 5.026548385620117,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 },
                 {
-                    "no_features": false,
                     "mergeable": false,
-                    "pathable": false,
-                    "flooded": false,
                     "twinId": 0,
+                    "flooded": false,
+                    "pathable": false,
+                    "no_features": false,
                     "scale": [
                         1.033846139907837,
                         1.033846139907837,
@@ -1475,13 +1475,6 @@
                         1,
                         1
                     ],
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    "weightHard": false,
                     "height": 699.8505859375,
                     "position": [
                         -179.41102600097656,
@@ -1490,6 +1483,7 @@
                     ],
                     "mirrored": true,
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         0.32257235050201416,
                         0.9398512840270996,
@@ -1504,1461 +1498,1417 @@
                         -0.9868974089622498,
                         -668.0691528320312
                     ],
-                    "op": "BO_Add",
+                    "weightHard": false,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
                     "rotation": 5.026548385620117,
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json"
                 }
             ],
             "metal_spots": [
                 [
-                    35.19239044189453,
-                    -534.2384643554688,
-                    450.6789245605469
+                    34.801605224609375,
+                    -532.9034423828125,
+                    449.1993408203125
                 ],
                 [
-                    35.19239044189453,
-                    -534.2384643554688,
-                    -450.6789245605469
+                    34.801605224609375,
+                    -532.9034423828125,
+                    -449.1993408203125
                 ],
                 [
-                    78.04460144042969,
-                    -504.03662109375,
-                    479.1069641113281
+                    80.52218627929688,
+                    -503.0894775390625,
+                    477.08837890625
                 ],
                 [
-                    78.04460144042969,
-                    -504.03662109375,
-                    -479.1069641113281
+                    80.52218627929688,
+                    -503.0894775390625,
+                    -477.08837890625
                 ],
                 [
-                    48.49949264526367,
-                    -314.333740234375,
-                    623.4579467773438
+                    48.54698944091797,
+                    -319.399169921875,
+                    621.021240234375
                 ],
                 [
-                    48.49949264526367,
-                    -314.333740234375,
-                    -623.4579467773438
+                    48.54698944091797,
+                    -319.399169921875,
+                    -621.021240234375
                 ],
                 [
-                    330.524658203125,
-                    -615.4722900390625,
-                    40.91568374633789
+                    149.30812072753906,
+                    -365.4422607421875,
+                    577.1244506835938
                 ],
                 [
-                    330.524658203125,
-                    -615.4722900390625,
-                    -40.91568374633789
+                    149.30812072753906,
+                    -365.4422607421875,
+                    -577.1244506835938
                 ],
                 [
-                    250.4467315673828,
-                    -646.860595703125,
-                    92.1699447631836
+                    304.9082946777344,
+                    -524.8145751953125,
+                    337.79254150390625
                 ],
                 [
-                    250.4467315673828,
-                    -646.860595703125,
-                    -92.1699447631836
+                    304.9082946777344,
+                    -524.8145751953125,
+                    -337.79254150390625
                 ],
                 [
-                    249.4884033203125,
-                    -521.8600463867188,
-                    393.83209228515625
+                    258.27093505859375,
+                    -512.386474609375,
+                    393.81988525390625
                 ],
                 [
-                    249.4884033203125,
-                    -521.8600463867188,
-                    -393.83209228515625
+                    258.27093505859375,
+                    -512.386474609375,
+                    -393.81988525390625
                 ],
                 [
-                    304.2867736816406,
-                    -524.6453247070312,
-                    349.0711669921875
+                    238.77667236328125,
+                    -556.7720947265625,
+                    343.25115966796875
                 ],
                 [
-                    304.2867736816406,
-                    -524.6453247070312,
-                    -349.0711669921875
+                    238.77667236328125,
+                    -556.7720947265625,
+                    -343.25115966796875
                 ],
                 [
-                    142.18844604492188,
-                    -351.14752197265625,
-                    588.514404296875
+                    261.080810546875,
+                    -645.3316650390625,
+                    42.820465087890625
                 ],
                 [
-                    142.18844604492188,
-                    -351.14752197265625,
-                    -588.514404296875
+                    261.080810546875,
+                    -645.3316650390625,
+                    -42.820465087890625
                 ],
                 [
-                    204.26214599609375,
-                    -569.1632080078125,
-                    352.5168762207031
+                    69.13961791992188,
+                    -693.068115234375,
+                    63.61320495605469
                 ],
                 [
-                    204.26214599609375,
-                    -569.1632080078125,
-                    -352.5168762207031
+                    69.13961791992188,
+                    -693.068115234375,
+                    -63.61320495605469
                 ],
                 [
-                    69.14021301269531,
-                    -692.8298950195312,
-                    69.50721740722656
+                    39.837127685546875,
+                    -628.870849609375,
+                    301.9791259765625
                 ],
                 [
-                    69.14021301269531,
-                    -692.8298950195312,
-                    -69.50721740722656
+                    39.837127685546875,
+                    -628.870849609375,
+                    -301.9791259765625
                 ],
                 [
-                    41.01457214355469,
-                    -632.2135009765625,
-                    297.1850280761719
+                    146.1085205078125,
+                    -655.3349609375,
+                    188.79489135742188
                 ],
                 [
-                    41.01457214355469,
-                    -632.2135009765625,
-                    -297.1850280761719
+                    146.1085205078125,
+                    -655.3349609375,
+                    -188.79489135742188
                 ],
                 [
-                    -35.19239044189453,
-                    -534.2384643554688,
-                    450.6789245605469
+                    221.2476806640625,
+                    -627.548583984375,
+                    207.7449951171875
                 ],
                 [
-                    -35.19239044189453,
-                    -534.2384643554688,
-                    -450.6789245605469
+                    221.2476806640625,
+                    -627.548583984375,
+                    -207.7449951171875
                 ],
                 [
-                    -78.04460144042969,
-                    -504.03662109375,
-                    479.1069641113281
+                    294.98968505859375,
+                    -590.68994140625,
+                    219.04721069335938
                 ],
                 [
-                    -78.04460144042969,
-                    -504.03662109375,
-                    -479.1069641113281
+                    294.98968505859375,
+                    -590.68994140625,
+                    -219.04721069335938
                 ],
                 [
-                    -48.49949264526367,
-                    -314.333740234375,
-                    623.4579467773438
+                    357.2908935546875,
+                    -590.59716796875,
+                    85.0477294921875
                 ],
                 [
-                    -48.49949264526367,
-                    -314.333740234375,
-                    -623.4579467773438
+                    357.2908935546875,
+                    -590.59716796875,
+                    -85.0477294921875
                 ],
                 [
-                    -330.524658203125,
-                    -615.4722900390625,
-                    40.91568374633789
+                    -34.801605224609375,
+                    -532.9034423828125,
+                    449.1993408203125
                 ],
                 [
-                    -330.524658203125,
-                    -615.4722900390625,
-                    -40.91568374633789
+                    -34.801605224609375,
+                    -532.9034423828125,
+                    -449.1993408203125
                 ],
                 [
-                    -250.4467315673828,
-                    -646.860595703125,
-                    92.1699447631836
+                    -80.52218627929688,
+                    -503.0894775390625,
+                    477.08837890625
                 ],
                 [
-                    -250.4467315673828,
-                    -646.860595703125,
-                    -92.1699447631836
+                    -80.52218627929688,
+                    -503.0894775390625,
+                    -477.08837890625
                 ],
                 [
-                    -249.4884033203125,
-                    -521.8600463867188,
-                    393.83209228515625
+                    -48.54698944091797,
+                    -319.399169921875,
+                    621.021240234375
                 ],
                 [
-                    -249.4884033203125,
-                    -521.8600463867188,
-                    -393.83209228515625
+                    -48.54698944091797,
+                    -319.399169921875,
+                    -621.021240234375
                 ],
                 [
-                    -304.2867736816406,
-                    -524.6453247070312,
-                    349.0711669921875
+                    -149.30812072753906,
+                    -365.4422607421875,
+                    577.1244506835938
                 ],
                 [
-                    -304.2867736816406,
-                    -524.6453247070312,
-                    -349.0711669921875
+                    -149.30812072753906,
+                    -365.4422607421875,
+                    -577.1244506835938
                 ],
                 [
-                    -142.18844604492188,
-                    -351.14752197265625,
-                    588.514404296875
+                    -304.9082946777344,
+                    -524.8145751953125,
+                    337.79254150390625
                 ],
                 [
-                    -142.18844604492188,
-                    -351.14752197265625,
-                    -588.514404296875
+                    -304.9082946777344,
+                    -524.8145751953125,
+                    -337.79254150390625
                 ],
                 [
-                    -204.26214599609375,
-                    -569.1632080078125,
-                    352.5168762207031
+                    -258.27093505859375,
+                    -512.386474609375,
+                    393.81988525390625
                 ],
                 [
-                    -204.26214599609375,
-                    -569.1632080078125,
-                    -352.5168762207031
+                    -258.27093505859375,
+                    -512.386474609375,
+                    -393.81988525390625
                 ],
                 [
-                    -69.14021301269531,
-                    -692.8298950195312,
-                    69.50721740722656
+                    -238.77667236328125,
+                    -556.7720947265625,
+                    343.25115966796875
                 ],
                 [
-                    -69.14021301269531,
-                    -692.8298950195312,
-                    -69.50721740722656
+                    -238.77667236328125,
+                    -556.7720947265625,
+                    -343.25115966796875
                 ],
                 [
-                    -41.01457214355469,
-                    -632.2135009765625,
-                    297.1850280761719
+                    -261.080810546875,
+                    -645.3316650390625,
+                    42.820465087890625
                 ],
                 [
-                    -41.01457214355469,
-                    -632.2135009765625,
-                    -297.1850280761719
+                    -261.080810546875,
+                    -645.3316650390625,
+                    -42.820465087890625
                 ],
                 [
-                    225.869873046875,
-                    -618.2352294921875,
-                    237.7621612548828
+                    -69.13961791992188,
+                    -693.068115234375,
+                    63.61320495605469
                 ],
                 [
-                    225.869873046875,
-                    -618.2352294921875,
-                    -237.7621612548828
+                    -69.13961791992188,
+                    -693.068115234375,
+                    -63.61320495605469
                 ],
                 [
-                    340.3112487792969,
-                    -583.0301513671875,
-                    184.264404296875
+                    -39.837127685546875,
+                    -628.870849609375,
+                    301.9791259765625
                 ],
                 [
-                    340.3112487792969,
-                    -583.0301513671875,
-                    -184.264404296875
+                    -39.837127685546875,
+                    -628.870849609375,
+                    -301.9791259765625
                 ],
                 [
-                    117.47581481933594,
-                    -659.3272094726562,
-                    203.09573364257812
+                    -146.1085205078125,
+                    -655.3349609375,
+                    188.79489135742188
                 ],
                 [
-                    117.47581481933594,
-                    -659.3272094726562,
-                    -203.09573364257812
+                    -146.1085205078125,
+                    -655.3349609375,
+                    -188.79489135742188
                 ],
                 [
-                    -225.869873046875,
-                    -618.2352294921875,
-                    237.7621612548828
+                    -221.2476806640625,
+                    -627.548583984375,
+                    207.7449951171875
                 ],
                 [
-                    -225.869873046875,
-                    -618.2352294921875,
-                    -237.7621612548828
+                    -221.2476806640625,
+                    -627.548583984375,
+                    -207.7449951171875
                 ],
                 [
-                    -340.3112487792969,
-                    -583.0301513671875,
-                    184.264404296875
+                    -294.98968505859375,
+                    -590.68994140625,
+                    219.04721069335938
                 ],
                 [
-                    -340.3112487792969,
-                    -583.0301513671875,
-                    -184.264404296875
+                    -294.98968505859375,
+                    -590.68994140625,
+                    -219.04721069335938
                 ],
                 [
-                    -117.47581481933594,
-                    -659.3272094726562,
-                    203.09573364257812
+                    -357.2908935546875,
+                    -590.59716796875,
+                    85.0477294921875
                 ],
                 [
-                    -117.47581481933594,
-                    -659.3272094726562,
-                    -203.09573364257812
+                    -357.2908935546875,
+                    -590.59716796875,
+                    -85.0477294921875
                 ],
                 [
-                    518.9660034179688,
-                    -131.61880493164062,
-                    450.6789245605469
+                    517.575578880225,
+                    -131.57792663080352,
+                    449.1993408203125
                 ],
                 [
-                    518.9660034179688,
-                    -131.61880493164062,
-                    -450.6789245605469
+                    517.575578880225,
+                    -131.57792663080352,
+                    -449.1993408203125
                 ],
                 [
-                    503.4844055175781,
-                    -81.53105163574219,
-                    479.1069641113281
+                    503.3492498775776,
+                    -78.88204828352623,
+                    477.08837890625
                 ],
                 [
-                    503.4844055175781,
-                    -81.53105163574219,
-                    -479.1069641113281
+                    503.3492498775776,
+                    -78.88204828352623,
+                    -477.08837890625
                 ],
                 [
-                    313.9363098144531,
-                    -51.008705139160156,
-                    623.4579467773438
+                    318.768506616447,
+                    -52.52884084081389,
+                    621.021240234375
                 ],
                 [
-                    313.9363098144531,
-                    -51.008705139160156,
-                    -623.4579467773438
+                    318.768506616447,
+                    -52.52884084081389,
+                    -621.021240234375
                 ],
                 [
-                    687.4866943359375,
-                    124.15621185302734,
-                    40.91568374633789
+                    393.69499011148594,
+                    29.072592121572853,
+                    577.1244506835938
                 ],
                 [
-                    687.4866943359375,
-                    124.15621185302734,
-                    -40.91568374633789
+                    393.69499011148594,
+                    29.072592121572853,
+                    -577.1244506835938
                 ],
                 [
-                    692.59326171875,
-                    38.2980842590332,
-                    92.1699447631836
+                    593.3501663674791,
+                    127.80839789468186,
+                    337.79254150390625
                 ],
                 [
-                    692.59326171875,
-                    38.2980842590332,
-                    -92.1699447631836
+                    593.3501663674791,
+                    127.80839789468186,
+                    -337.79254150390625
                 ],
                 [
-                    573.4146118164062,
-                    76.0139389038086,
-                    393.83209228515625
+                    567.1186036249612,
+                    87.2941274149536,
+                    393.81988525390625
                 ],
                 [
-                    573.4146118164062,
-                    76.0139389038086,
-                    -393.83209228515625
+                    567.1186036249612,
+                    87.2941274149536,
+                    -393.81988525390625
                 ],
                 [
-                    592.9971313476562,
-                    127.26959228515625,
-                    349.0711669921875
+                    603.3077784015525,
+                    55.03807092612564,
+                    343.25115966796875
                 ],
                 [
-                    592.9971313476562,
-                    127.26959228515625,
-                    -349.0711669921875
+                    603.3077784015525,
+                    55.03807092612564,
+                    -343.25115966796875
                 ],
                 [
-                    377.8997802734375,
-                    26.718706130981445,
-                    588.514404296875
+                    694.4252925711721,
+                    48.884154644874485,
+                    42.820465087890625
                 ],
                 [
-                    377.8997802734375,
-                    26.718706130981445,
-                    -588.514404296875
+                    694.4252925711721,
+                    48.884154644874485,
+                    -42.820465087890625
                 ],
                 [
-                    604.4268188476562,
-                    18.38375473022461,
-                    352.5168762207031
+                    680.5122641518992,
+                    -148.41414170993744,
+                    63.61320495605469
                 ],
                 [
-                    604.4268188476562,
-                    18.38375473022461,
-                    -352.5168762207031
+                    680.5122641518992,
+                    -148.41414170993744,
+                    -63.61320495605469
                 ],
                 [
-                    680.285888671875,
-                    -148.3399658203125,
-                    69.50721740722656
+                    610.4020688909843,
+                    -156.44441992048723,
+                    301.9791259765625
                 ],
                 [
-                    680.285888671875,
-                    -148.3399658203125,
-                    -69.50721740722656
+                    610.4020688909843,
+                    -156.44441992048723,
+                    -301.9791259765625
                 ],
                 [
-                    613.9450073242188,
-                    -156.3575439453125,
-                    297.1850280761719
+                    668.4106008155338,
+                    -63.552179422530685,
+                    188.79489135742188
                 ],
                 [
-                    613.9450073242188,
-                    -156.3575439453125,
-                    -297.1850280761719
+                    668.4106008155338,
+                    -63.552179422530685,
+                    -188.79489135742188
                 ],
                 [
-                    497.21588134765625,
-                    -198.5587158203125,
-                    450.6789245605469
+                    665.203463381373,
+                    16.495871163640032,
+                    207.7449951171875
                 ],
                 [
-                    497.21588134765625,
-                    -198.5587158203125,
-                    -450.6789245605469
+                    665.203463381373,
+                    16.495871163640032,
+                    -207.7449951171875
                 ],
                 [
-                    455.2502136230469,
-                    -229.980712890625,
-                    479.1069641113281
+                    652.9363437328354,
+                    98.0186319139575,
+                    219.04721069335938
                 ],
                 [
-                    455.2502136230469,
-                    -229.980712890625,
-                    -479.1069641113281
+                    652.9363437328354,
+                    98.0186319139575,
+                    -219.04721069335938
                 ],
                 [
-                    283.96197509765625,
-                    -143.26022338867188,
-                    623.4579467773438
+                    672.1002431459517,
+                    157.2992707960445,
+                    85.0477294921875
                 ],
                 [
-                    283.96197509765625,
-                    -143.26022338867188,
-                    -623.4579467773438
+                    672.1002431459517,
+                    157.2992707960445,
+                    -85.0477294921875
                 ],
                 [
-                    483.2112121582031,
-                    -504.5390319824219,
-                    40.91568374633789
+                    496.06700398836045,
+                    -197.7745134835959,
+                    449.1993408203125
                 ],
                 [
-                    483.2112121582031,
-                    -504.5390319824219,
-                    -40.91568374633789
+                    496.06700398836045,
+                    -197.7745134835959,
+                    -449.1993408203125
                 ],
                 [
-                    537.8086547851562,
-                    -438.07989501953125,
-                    92.1699447631836
+                    453.5838019085217,
+                    -232.04434821804125,
+                    477.08837890625
                 ],
                 [
-                    537.8086547851562,
-                    -438.07989501953125,
-                    -92.1699447631836
+                    453.5838019085217,
+                    -232.04434821804125,
+                    -477.08837890625
                 ],
                 [
-                    419.2222900390625,
-                    -398.54119873046875,
-                    393.83209228515625
+                    288.76481709047744,
+                    -144.87070214940798,
+                    621.021240234375
                 ],
                 [
-                    419.2222900390625,
-                    -398.54119873046875,
-                    -393.83209228515625
+                    288.76481709047744,
+                    -144.87070214940798,
+                    -621.021240234375
                 ],
                 [
-                    404.93756103515625,
-                    -451.51824951171875,
-                    349.0711669921875
+                    301.41749670549405,
+                    -254.92833018584614,
+                    577.1244506835938
                 ],
                 [
-                    404.93756103515625,
-                    -451.51824951171875,
-                    -349.0711669921875
+                    301.41749670549405,
+                    -254.92833018584614,
+                    -577.1244506835938
                 ],
                 [
-                    290.0224609375,
-                    -243.73980712890625,
-                    588.514404296875
+                    404.9064768048705,
+                    -452.16164315672245,
+                    337.79254150390625
                 ],
                 [
-                    290.0224609375,
-                    -243.73980712890625,
-                    -588.514404296875
+                    404.9064768048705,
+                    -452.16164315672245,
+                    -337.79254150390625
                 ],
                 [
-                    478.1858825683594,
-                    -370.14593505859375,
-                    352.5168762207031
+                    407.4983874525334,
+                    -403.9663840992824,
+                    393.81988525390625
                 ],
                 [
-                    478.1858825683594,
-                    -370.14593505859375,
-                    -352.5168762207031
+                    407.4983874525334,
+                    -403.9663840992824,
+                    -393.81988525390625
                 ],
                 [
-                    637.5548706054688,
-                    -279.85247802734375,
-                    69.50721740722656
+                    455.735679160447,
+                    -399.1421494546174,
+                    343.25115966796875
                 ],
                 [
-                    637.5548706054688,
-                    -279.85247802734375,
-                    -69.50721740722656
+                    455.735679160447,
+                    -399.1421494546174,
+                    -343.25115966796875
                 ],
                 [
-                    588.5965576171875,
-                    -234.3719024658203,
-                    297.1850280761719
+                    533.0684778428313,
+                    -447.7210576555774,
+                    42.820465087890625
                 ],
                 [
-                    588.5965576171875,
-                    -234.3719024658203,
-                    -297.1850280761719
+                    533.0684778428313,
+                    -447.7210576555774,
+                    -42.820465087890625
                 ],
                 [
-                    657.7742919921875,
-                    23.76982879638672,
-                    237.7621612548828
+                    637.7816303082061,
+                    -279.92551002373517,
+                    63.61320495605469
                 ],
                 [
-                    657.7742919921875,
-                    23.76982879638672,
-                    -237.7621612548828
+                    637.7816303082061,
+                    -279.92551002373517,
+                    -63.61320495605469
                 ],
                 [
-                    659.6566162109375,
-                    143.489013671875,
-                    184.264404296875
+                    585.7813699671469,
+                    -232.2191396721301,
+                    301.9791259765625
                 ],
                 [
-                    659.6566162109375,
-                    143.489013671875,
-                    -184.264404296875
+                    585.7813699671469,
+                    -232.2191396721301,
+                    -301.9791259765625
                 ],
                 [
-                    663.3594970703125,
-                    -92.01717376708984,
-                    203.09573364257812
+                    578.1105690957447,
+                    -341.467100452929,
+                    188.79489135742188
                 ],
                 [
-                    663.3594970703125,
-                    -92.01717376708984,
-                    -203.09573364257812
+                    578.1105690957447,
+                    -341.467100452929,
+                    -188.79489135742188
                 ],
                 [
-                    518.1790161132812,
-                    -405.8601989746094,
-                    237.7621612548828
+                    528.4648767988995,
+                    -404.3422256578517,
+                    207.7449951171875
                 ],
                 [
-                    518.1790161132812,
-                    -405.8601989746094,
-                    -237.7621612548828
+                    528.4648767988995,
+                    -404.3422256578517,
+                    -207.7449951171875
                 ],
                 [
-                    449.3326416015625,
-                    -503.8214416503906,
-                    184.264404296875
+                    470.6226920359975,
+                    -463.0850925157039,
+                    219.04721069335938
                 ],
                 [
-                    449.3326416015625,
-                    -503.8214416503906,
-                    -184.264404296875
+                    470.6226920359975,
+                    -463.0850925157039,
+                    -219.04721069335938
                 ],
                 [
-                    590.7554321289062,
-                    -315.4694519042969,
-                    203.09573364257812
+                    451.28232705833415,
+                    -522.3083942601627,
+                    85.0477294921875
                 ],
                 [
-                    590.7554321289062,
-                    -315.4694519042969,
-                    -203.09573364257812
+                    451.28232705833415,
+                    -522.3083942601627,
+                    -85.0477294921875
                 ],
                 [
-                    285.5462341308594,
-                    452.8935546875,
-                    450.6789245605469
+                    285.077694270272,
+                    451.58381155573596,
+                    449.1993408203125
                 ],
                 [
-                    285.5462341308594,
-                    452.8935546875,
-                    -450.6789245605469
+                    285.077694270272,
+                    451.58381155573596,
+                    -449.1993408203125
                 ],
                 [
-                    233.12588500976562,
-                    453.64764404296875,
-                    479.1069641113281
+                    230.56475835681,
+                    454.33769059763296,
+                    477.08837890625
                 ],
                 [
-                    233.12588500976562,
-                    453.64764404296875,
-                    -479.1069641113281
+                    230.56475835681,
+                    454.33769059763296,
+                    -477.08837890625
                 ],
                 [
-                    145.52381896972656,
-                    282.8086242675781,
-                    623.4579467773438
+                    148.46278219109206,
+                    286.9345608926184,
+                    621.021240234375
                 ],
                 [
-                    145.52381896972656,
-                    282.8086242675781,
-                    -623.4579467773438
+                    148.46278219109206,
+                    286.9345608926184,
+                    -621.021240234375
                 ],
                 [
-                    94.3655014038086,
-                    692.205078125,
-                    40.91568374633789
+                    94.00876436191304,
+                    383.41011081438194,
+                    577.1244506835938
                 ],
                 [
-                    94.3655014038086,
-                    692.205078125,
-                    -40.91568374633789
+                    94.00876436191304,
+                    383.41011081438194,
+                    -577.1244506835938
                 ],
                 [
-                    177.5994415283203,
-                    670.5300903320312,
-                    92.1699447631836
+                    61.80227536777247,
+                    603.8045091418965,
+                    337.79254150390625
                 ],
                 [
-                    177.5994415283203,
-                    670.5300903320312,
-                    -92.1699447631836
+                    61.80227536777247,
+                    603.8045091418965,
+                    -337.79254150390625
                 ],
                 [
-                    104.90129852294922,
-                    568.8392333984375,
-                    393.83209228515625
+                    92.22763763401164,
+                    566.3372123700804,
+                    393.81988525390625
                 ],
                 [
-                    104.90129852294922,
-                    568.8392333984375,
-                    -393.83209228515625
+                    92.22763763401164,
+                    566.3372123700804,
+                    -393.81988525390625
                 ],
                 [
-                    62.20561218261719,
-                    603.30224609375,
-                    349.0711669921875
+                    134.08804036606796,
+                    590.7874932341355,
+                    343.25115966796875
                 ],
                 [
-                    62.20561218261719,
-                    603.30224609375,
-                    -349.0711669921875
+                    134.08804036606796,
+                    590.7874932341355,
+                    -343.25115966796875
                 ],
                 [
-                    91.366455078125,
-                    367.66058349609375,
-                    588.514404296875
+                    168.09762290969928,
+                    675.543734120901,
+                    42.820465087890625
                 ],
                 [
-                    91.366455078125,
-                    367.66058349609375,
-                    -588.514404296875
+                    168.09762290969928,
+                    675.543734120901,
+                    -42.820465087890625
                 ],
                 [
-                    169.29417419433594,
-                    580.5249633789062,
-                    352.5168762207031
+                    351.4400910870985,
+                    601.3431312464902,
+                    63.61320495605469
                 ],
                 [
-                    169.29417419433594,
-                    580.5249633789062,
-                    -352.5168762207031
+                    351.4400910870985,
+                    601.3431312464902,
+                    -63.61320495605469
                 ],
                 [
-                    351.2995910644531,
-                    601.1507568359375,
-                    69.50721740722656
+                    337.4120976923363,
+                    532.1828807482527,
+                    301.9791259765625
                 ],
                 [
-                    351.2995910644531,
-                    601.1507568359375,
-                    -69.50721740722656
+                    337.4120976923363,
+                    532.1828807482527,
+                    -301.9791259765625
                 ],
                 [
-                    338.4242858886719,
-                    535.5792236328125,
-                    297.1850280761719
+                    266.9919492369256,
+                    616.0575539952443,
+                    188.79489135742188
                 ],
                 [
-                    338.4242858886719,
-                    535.5792236328125,
-                    -297.1850280761719
+                    266.9919492369256,
+                    616.0575539952443,
+                    -188.79489135742188
                 ],
                 [
-                    342.48870849609375,
-                    411.5224304199219,
-                    450.6789245605469
+                    189.87066913977213,
+                    637.7435930375437,
+                    207.7449951171875
                 ],
                 [
-                    342.48870849609375,
-                    411.5224304199219,
-                    -450.6789245605469
+                    189.87066913977213,
+                    637.7435930375437,
+                    -207.7449951171875
                 ],
                 [
-                    359.4046936035156,
-                    361.90069580078125,
-                    479.1069641113281
+                    108.54716785838298,
+                    651.2687874598408,
+                    219.04721069335938
                 ],
                 [
-                    359.4046936035156,
-                    361.90069580078125,
-                    -479.1069641113281
+                    108.54716785838298,
+                    651.2687874598408,
+                    -219.04721069335938
                 ],
                 [
-                    223.99765014648438,
-                    225.79403686523438,
-                    623.4579467773438
+                    58.08990055657932,
+                    687.8134637262791,
+                    85.0477294921875
                 ],
                 [
-                    223.99765014648438,
-                    225.79403686523438,
-                    -623.4579467773438
+                    58.08990055657932,
+                    687.8134637262791,
+                    -85.0477294921875
                 ],
                 [
-                    629.1656494140625,
-                    303.6500549316406,
-                    40.91568374633789
+                    341.3878743867458,
+                    410.6720709414758,
+                    449.1993408203125
                 ],
                 [
-                    629.1656494140625,
-                    303.6500549316406,
-                    -40.91568374633789
+                    341.3878743867458,
+                    410.6720709414758,
+                    -449.1993408203125
                 ],
                 [
-                    582.830810546875,
-                    376.1123046875,
-                    92.1699447631836
+                    360.8523926051628,
+                    359.67818344299684,
+                    477.08837890625
                 ],
                 [
-                    582.830810546875,
-                    376.1123046875,
-                    -92.1699447631836
+                    360.8523926051628,
+                    359.67818344299684,
+                    -477.08837890625
                 ],
                 [
-                    508.58203125,
-                    275.5480651855469,
-                    393.83209228515625
+                    227.01346115797958,
+                    229.8641520194784,
+                    621.021240234375
                 ],
                 [
-                    508.58203125,
-                    275.5480651855469,
-                    -393.83209228515625
+                    227.01346115797958,
+                    229.8641520194784,
+                    -621.021240234375
                 ],
                 [
-                    554.5519409179688,
-                    245.59170532226562,
-                    349.0711669921875
+                    335.59437849544383,
+                    207.8878879920787,
+                    577.1244506835938
                 ],
                 [
-                    554.5519409179688,
-                    245.59170532226562,
-                    -349.0711669921875
+                    335.59437849544383,
+                    207.8878879920787,
+                    -577.1244506835938
                 ],
                 [
-                    321.4322204589844,
-                    200.50804138183594,
-                    588.514404296875
+                    555.1542596081152,
+                    245.36331131545666,
+                    337.79254150390625
                 ],
                 [
-                    321.4322204589844,
-                    200.50804138183594,
-                    -588.514404296875
+                    555.1542596081152,
+                    245.36331131545666,
+                    -337.79254150390625
                 ],
                 [
-                    499.7972717285156,
-                    340.400390625,
-                    352.5168762207031
+                    510.118788865033,
+                    262.7215189236233,
+                    393.81988525390625
                 ],
                 [
-                    499.7972717285156,
-                    340.400390625,
-                    -352.5168762207031
+                    510.118788865033,
+                    262.7215189236233,
+                    -393.81988525390625
                 ],
                 [
-                    463.1707763671875,
-                    519.87158203125,
-                    69.50721740722656
+                    520.4368119704546,
+                    310.08868002091856,
+                    343.25115966796875
                 ],
                 [
-                    463.1707763671875,
-                    519.87158203125,
-                    -69.50721740722656
+                    520.4368119704546,
+                    310.08868002091856,
+                    -343.25115966796875
                 ],
                 [
-                    404.78729248046875,
-                    487.3637390136719,
-                    297.1850280761719
+                    590.535248184915,
+                    368.6248339288643,
+                    42.820465087890625
                 ],
                 [
-                    404.78729248046875,
-                    487.3637390136719,
-                    -297.1850280761719
+                    590.535248184915,
+                    368.6248339288643,
+                    -42.820465087890625
                 ],
                 [
-                    180.656982421875,
-                    632.92578125,
-                    237.7621612548828
+                    463.3103428507134,
+                    520.0646357215571,
+                    63.61320495605469
                 ],
                 [
-                    180.656982421875,
-                    632.92578125,
-                    -237.7621612548828
+                    463.3103428507134,
+                    520.0646357215571,
+                    -63.61320495605469
                 ],
                 [
-                    67.37893676757812,
-                    671.7112426757812,
-                    184.264404296875
+                    401.8699243017206,
+                    485.3515284537395,
+                    301.9791259765625
                 ],
                 [
-                    67.37893676757812,
-                    671.7112426757812,
-                    -184.264404296875
+                    401.8699243017206,
+                    485.3515284537395,
+                    -301.9791259765625
                 ],
                 [
-                    292.5028991699219,
-                    602.4574584960938,
-                    203.09573364257812
+                    503.40050146452734,
+                    444.2966868177152,
+                    188.79489135742188
                 ],
                 [
-                    292.5028991699219,
-                    602.4574584960938,
-                    -203.09573364257812
+                    503.40050146452734,
+                    444.2966868177152,
+                    -188.79489135742188
                 ],
                 [
-                    546.1221313476562,
-                    367.39984130859375,
-                    237.7621612548828
+                    547.8569363863081,
+                    377.65134544104274,
+                    207.7449951171875
                 ],
                 [
-                    546.1221313476562,
-                    367.39984130859375,
-                    -237.7621612548828
+                    547.8569363863081,
+                    377.65134544104274,
+                    -207.7449951171875
                 ],
                 [
-                    618.0140991210938,
-                    271.6513671875,
-                    184.264404296875
+                    585.8505046138147,
+                    304.48761454815536,
+                    219.04721069335938
                 ],
                 [
-                    618.0140991210938,
-                    271.6513671875,
-                    -184.264404296875
+                    585.8505046138147,
+                    304.48761454815536,
+                    -219.04721069335938
                 ],
                 [
-                    482.5827331542969,
-                    464.3563537597656,
-                    203.09573364257812
+                    636.1987101988843,
+                    267.7928277065888,
+                    85.0477294921875
                 ],
                 [
-                    482.5827331542969,
-                    464.3563537597656,
-                    -203.09573364257812
+                    636.1987101988843,
+                    267.7928277065888,
+                    -85.0477294921875
                 ],
                 [
-                    -342.48870849609375,
-                    411.5224304199219,
-                    450.6789245605469
+                    -341.3878743867457,
+                    410.6720709414759,
+                    449.1993408203125
                 ],
                 [
-                    -342.48870849609375,
-                    411.5224304199219,
-                    -450.6789245605469
+                    -341.3878743867457,
+                    410.6720709414759,
+                    -449.1993408203125
                 ],
                 [
-                    -359.4046936035156,
-                    361.90069580078125,
-                    479.1069641113281
+                    -360.85239260516266,
+                    359.67818344299695,
+                    477.08837890625
                 ],
                 [
-                    -359.4046936035156,
-                    361.90069580078125,
-                    -479.1069641113281
+                    -360.85239260516266,
+                    359.67818344299695,
+                    -477.08837890625
                 ],
                 [
-                    -223.99765014648438,
-                    225.79403686523438,
-                    623.4579467773438
+                    -227.01346115797946,
+                    229.86415201947844,
+                    621.021240234375
                 ],
                 [
-                    -223.99765014648438,
-                    225.79403686523438,
-                    -623.4579467773438
+                    -227.01346115797946,
+                    229.86415201947844,
+                    -621.021240234375
                 ],
                 [
-                    -629.1656494140625,
-                    303.6500549316406,
-                    40.91568374633789
+                    -335.5943784954438,
+                    207.88788799207884,
+                    577.1244506835938
                 ],
                 [
-                    -629.1656494140625,
-                    303.6500549316406,
-                    -40.91568374633789
+                    -335.5943784954438,
+                    207.88788799207884,
+                    -577.1244506835938
                 ],
                 [
-                    -582.830810546875,
-                    376.1123046875,
-                    92.1699447631836
+                    -555.1542596081152,
+                    245.3633113154568,
+                    337.79254150390625
                 ],
                 [
-                    -582.830810546875,
-                    376.1123046875,
-                    -92.1699447631836
+                    -555.1542596081152,
+                    245.3633113154568,
+                    -337.79254150390625
                 ],
                 [
-                    -508.58203125,
-                    275.5480651855469,
-                    393.83209228515625
+                    -510.11878886503314,
+                    262.7215189236234,
+                    393.81988525390625
                 ],
                 [
-                    -508.58203125,
-                    275.5480651855469,
-                    -393.83209228515625
+                    -510.11878886503314,
+                    262.7215189236234,
+                    -393.81988525390625
                 ],
                 [
-                    -554.5519409179688,
-                    245.59170532226562,
-                    349.0711669921875
+                    -520.4368119704545,
+                    310.0886800209187,
+                    343.25115966796875
                 ],
                 [
-                    -554.5519409179688,
-                    245.59170532226562,
-                    -349.0711669921875
+                    -520.4368119704545,
+                    310.0886800209187,
+                    -343.25115966796875
                 ],
                 [
-                    -321.4322204589844,
-                    200.50804138183594,
-                    588.514404296875
+                    -590.535248184915,
+                    368.62483392886446,
+                    42.820465087890625
                 ],
                 [
-                    -321.4322204589844,
-                    200.50804138183594,
-                    -588.514404296875
+                    -590.535248184915,
+                    368.62483392886446,
+                    -42.820465087890625
                 ],
                 [
-                    -499.7972717285156,
-                    340.400390625,
-                    352.5168762207031
+                    -463.31034285071337,
+                    520.0646357215574,
+                    63.61320495605469
                 ],
                 [
-                    -499.7972717285156,
-                    340.400390625,
-                    -352.5168762207031
+                    -463.31034285071337,
+                    520.0646357215574,
+                    -63.61320495605469
                 ],
                 [
-                    -463.1707763671875,
-                    519.87158203125,
-                    69.50721740722656
+                    -401.86992430172046,
+                    485.35152845373955,
+                    301.9791259765625
                 ],
                 [
-                    -463.1707763671875,
-                    519.87158203125,
-                    -69.50721740722656
+                    -401.86992430172046,
+                    485.35152845373955,
+                    -301.9791259765625
                 ],
                 [
-                    -404.78729248046875,
-                    487.3637390136719,
-                    297.1850280761719
+                    -503.4005014645272,
+                    444.2966868177152,
+                    188.79489135742188
                 ],
                 [
-                    -404.78729248046875,
-                    487.3637390136719,
-                    -297.1850280761719
+                    -503.4005014645272,
+                    444.2966868177152,
+                    -188.79489135742188
                 ],
                 [
-                    -285.5462341308594,
-                    452.8935546875,
-                    450.6789245605469
+                    -547.856936386308,
+                    377.65134544104285,
+                    207.7449951171875
                 ],
                 [
-                    -285.5462341308594,
-                    452.8935546875,
-                    -450.6789245605469
+                    -547.856936386308,
+                    377.65134544104285,
+                    -207.7449951171875
                 ],
                 [
-                    -233.12588500976562,
-                    453.64764404296875,
-                    479.1069641113281
+                    -585.8505046138146,
+                    304.4876145481555,
+                    219.04721069335938
                 ],
                 [
-                    -233.12588500976562,
-                    453.64764404296875,
-                    -479.1069641113281
+                    -585.8505046138146,
+                    304.4876145481555,
+                    -219.04721069335938
                 ],
                 [
-                    -145.52381896972656,
-                    282.8086242675781,
-                    623.4579467773438
+                    -636.1987101988842,
+                    267.7928277065889,
+                    85.0477294921875
                 ],
                 [
-                    -145.52381896972656,
-                    282.8086242675781,
-                    -623.4579467773438
+                    -636.1987101988842,
+                    267.7928277065889,
+                    -85.0477294921875
                 ],
                 [
-                    -94.3655014038086,
-                    692.205078125,
-                    40.91568374633789
+                    -285.0776942702718,
+                    451.583811555736,
+                    449.1993408203125
                 ],
                 [
-                    -94.3655014038086,
-                    692.205078125,
-                    -40.91568374633789
+                    -285.0776942702718,
+                    451.583811555736,
+                    -449.1993408203125
                 ],
                 [
-                    -177.5994415283203,
-                    670.5300903320312,
-                    92.1699447631836
+                    -230.56475835680985,
+                    454.337690597633,
+                    477.08837890625
                 ],
                 [
-                    -177.5994415283203,
-                    670.5300903320312,
-                    -92.1699447631836
+                    -230.56475835680985,
+                    454.337690597633,
+                    -477.08837890625
                 ],
                 [
-                    -104.90129852294922,
-                    568.8392333984375,
-                    393.83209228515625
+                    -148.462782191092,
+                    286.93456089261844,
+                    621.021240234375
                 ],
                 [
-                    -104.90129852294922,
-                    568.8392333984375,
-                    -393.83209228515625
+                    -148.462782191092,
+                    286.93456089261844,
+                    -621.021240234375
                 ],
                 [
-                    -62.20561218261719,
-                    603.30224609375,
-                    349.0711669921875
+                    -94.00876436191291,
+                    383.41011081438194,
+                    577.1244506835938
                 ],
                 [
-                    -62.20561218261719,
-                    603.30224609375,
-                    -349.0711669921875
+                    -94.00876436191291,
+                    383.41011081438194,
+                    -577.1244506835938
                 ],
                 [
-                    -91.366455078125,
-                    367.66058349609375,
-                    588.514404296875
+                    -61.80227536777235,
+                    603.8045091418962,
+                    337.79254150390625
                 ],
                 [
-                    -91.366455078125,
-                    367.66058349609375,
-                    -588.514404296875
+                    -61.80227536777235,
+                    603.8045091418962,
+                    -337.79254150390625
                 ],
                 [
-                    -169.29417419433594,
-                    580.5249633789062,
-                    352.5168762207031
+                    -92.22763763401153,
+                    566.3372123700802,
+                    393.81988525390625
                 ],
                 [
-                    -169.29417419433594,
-                    580.5249633789062,
-                    -352.5168762207031
+                    -92.22763763401153,
+                    566.3372123700802,
+                    -393.81988525390625
                 ],
                 [
-                    -351.2995910644531,
-                    601.1507568359375,
-                    69.50721740722656
+                    -134.08804036606782,
+                    590.7874932341355,
+                    343.25115966796875
                 ],
                 [
-                    -351.2995910644531,
-                    601.1507568359375,
-                    -69.50721740722656
+                    -134.08804036606782,
+                    590.7874932341355,
+                    -343.25115966796875
                 ],
                 [
-                    -338.4242858886719,
-                    535.5792236328125,
-                    297.1850280761719
+                    -168.09762290969914,
+                    675.5437341209009,
+                    42.820465087890625
                 ],
                 [
-                    -338.4242858886719,
-                    535.5792236328125,
-                    -297.1850280761719
+                    -168.09762290969914,
+                    675.5437341209009,
+                    -42.820465087890625
                 ],
                 [
-                    -546.1221313476562,
-                    367.39984130859375,
-                    237.7621612548828
+                    -351.44009108709827,
+                    601.3431312464902,
+                    63.61320495605469
                 ],
                 [
-                    -546.1221313476562,
-                    367.39984130859375,
-                    -237.7621612548828
+                    -351.44009108709827,
+                    601.3431312464902,
+                    -63.61320495605469
                 ],
                 [
-                    -618.0140991210938,
-                    271.6513671875,
-                    184.264404296875
+                    -337.4120976923362,
+                    532.1828807482528,
+                    301.9791259765625
                 ],
                 [
-                    -618.0140991210938,
-                    271.6513671875,
-                    -184.264404296875
+                    -337.4120976923362,
+                    532.1828807482528,
+                    -301.9791259765625
                 ],
                 [
-                    -482.5827331542969,
-                    464.3563537597656,
-                    203.09573364257812
+                    -266.9919492369255,
+                    616.0575539952443,
+                    188.79489135742188
                 ],
                 [
-                    -482.5827331542969,
-                    464.3563537597656,
-                    -203.09573364257812
+                    -266.9919492369255,
+                    616.0575539952443,
+                    -188.79489135742188
                 ],
                 [
-                    -180.656982421875,
-                    632.92578125,
-                    237.7621612548828
+                    -189.870669139772,
+                    637.7435930375439,
+                    207.7449951171875
                 ],
                 [
-                    -180.656982421875,
-                    632.92578125,
-                    -237.7621612548828
+                    -189.870669139772,
+                    637.7435930375439,
+                    -207.7449951171875
                 ],
                 [
-                    -67.37893676757812,
-                    671.7112426757812,
-                    184.264404296875
+                    -108.54716785838289,
+                    651.2687874598408,
+                    219.04721069335938
                 ],
                 [
-                    -67.37893676757812,
-                    671.7112426757812,
-                    -184.264404296875
+                    -108.54716785838289,
+                    651.2687874598408,
+                    -219.04721069335938
                 ],
                 [
-                    -292.5028991699219,
-                    602.4574584960938,
-                    203.09573364257812
+                    -58.08990055657915,
+                    687.8134637262791,
+                    85.0477294921875
                 ],
                 [
-                    -292.5028991699219,
-                    602.4574584960938,
-                    -203.09573364257812
+                    -58.08990055657915,
+                    687.8134637262791,
+                    -85.0477294921875
                 ],
                 [
-                    -497.21588134765625,
-                    -198.5587158203125,
-                    450.6789245605469
+                    -496.0670039883605,
+                    -197.77451348359577,
+                    449.1993408203125
                 ],
                 [
-                    -497.21588134765625,
-                    -198.5587158203125,
-                    -450.6789245605469
+                    -496.0670039883605,
+                    -197.77451348359577,
+                    -449.1993408203125
                 ],
                 [
-                    -455.2502136230469,
-                    -229.980712890625,
-                    479.1069641113281
+                    -453.58380190852176,
+                    -232.0443482180411,
+                    477.08837890625
                 ],
                 [
-                    -455.2502136230469,
-                    -229.980712890625,
-                    -479.1069641113281
+                    -453.58380190852176,
+                    -232.0443482180411,
+                    -477.08837890625
                 ],
                 [
-                    -283.96197509765625,
-                    -143.26022338867188,
-                    623.4579467773438
+                    -288.76481709047744,
+                    -144.87070214940786,
+                    621.021240234375
                 ],
                 [
-                    -283.96197509765625,
-                    -143.26022338867188,
-                    -623.4579467773438
+                    -288.76481709047744,
+                    -144.87070214940786,
+                    -621.021240234375
                 ],
                 [
-                    -483.2112121582031,
-                    -504.5390319824219,
-                    40.91568374633789
+                    -301.4174967054941,
+                    -254.92833018584605,
+                    577.1244506835938
                 ],
                 [
-                    -483.2112121582031,
-                    -504.5390319824219,
-                    -40.91568374633789
+                    -301.4174967054941,
+                    -254.92833018584605,
+                    -577.1244506835938
                 ],
                 [
-                    -537.8086547851562,
-                    -438.07989501953125,
-                    92.1699447631836
+                    -404.90647680487064,
+                    -452.16164315672233,
+                    337.79254150390625
                 ],
                 [
-                    -537.8086547851562,
-                    -438.07989501953125,
-                    -92.1699447631836
+                    -404.90647680487064,
+                    -452.16164315672233,
+                    -337.79254150390625
                 ],
                 [
-                    -419.2222900390625,
-                    -398.54119873046875,
-                    393.83209228515625
+                    -407.4983874525335,
+                    -403.96638409928244,
+                    393.81988525390625
                 ],
                 [
-                    -419.2222900390625,
-                    -398.54119873046875,
-                    -393.83209228515625
+                    -407.4983874525335,
+                    -403.96638409928244,
+                    -393.81988525390625
                 ],
                 [
-                    -404.93756103515625,
-                    -451.51824951171875,
-                    349.0711669921875
+                    -455.73567916044703,
+                    -399.1421494546172,
+                    343.25115966796875
                 ],
                 [
-                    -404.93756103515625,
-                    -451.51824951171875,
-                    -349.0711669921875
+                    -455.73567916044703,
+                    -399.1421494546172,
+                    -343.25115966796875
                 ],
                 [
-                    -290.0224609375,
-                    -243.73980712890625,
-                    588.514404296875
+                    -533.0684778428314,
+                    -447.7210576555773,
+                    42.820465087890625
                 ],
                 [
-                    -290.0224609375,
-                    -243.73980712890625,
-                    -588.514404296875
+                    -533.0684778428314,
+                    -447.7210576555773,
+                    -42.820465087890625
                 ],
                 [
-                    -478.1858825683594,
-                    -370.14593505859375,
-                    352.5168762207031
+                    -637.7816303082063,
+                    -279.9255100237351,
+                    63.61320495605469
                 ],
                 [
-                    -478.1858825683594,
-                    -370.14593505859375,
-                    -352.5168762207031
+                    -637.7816303082063,
+                    -279.9255100237351,
+                    -63.61320495605469
                 ],
                 [
-                    -637.5548706054688,
-                    -279.85247802734375,
-                    69.50721740722656
+                    -585.7813699671469,
+                    -232.21913967212996,
+                    301.9791259765625
                 ],
                 [
-                    -637.5548706054688,
-                    -279.85247802734375,
-                    -69.50721740722656
+                    -585.7813699671469,
+                    -232.21913967212996,
+                    -301.9791259765625
                 ],
                 [
-                    -588.5965576171875,
-                    -234.3719024658203,
-                    297.1850280761719
+                    -578.1105690957446,
+                    -341.4671004529289,
+                    188.79489135742188
                 ],
                 [
-                    -588.5965576171875,
-                    -234.3719024658203,
-                    -297.1850280761719
+                    -578.1105690957446,
+                    -341.4671004529289,
+                    -188.79489135742188
                 ],
                 [
-                    -518.9660034179688,
-                    -131.61880493164062,
-                    450.6789245605469
+                    -528.4648767988995,
+                    -404.3422256578516,
+                    207.7449951171875
                 ],
                 [
-                    -518.9660034179688,
-                    -131.61880493164062,
-                    -450.6789245605469
+                    -528.4648767988995,
+                    -404.3422256578516,
+                    -207.7449951171875
                 ],
                 [
-                    -503.4844055175781,
-                    -81.53105163574219,
-                    479.1069641113281
+                    -470.6226920359975,
+                    -463.0850925157037,
+                    219.04721069335938
                 ],
                 [
-                    -503.4844055175781,
-                    -81.53105163574219,
-                    -479.1069641113281
+                    -470.6226920359975,
+                    -463.0850925157037,
+                    -219.04721069335938
                 ],
                 [
-                    -313.9363098144531,
-                    -51.008705139160156,
-                    623.4579467773438
+                    -451.2823270583342,
+                    -522.3083942601625,
+                    85.0477294921875
                 ],
                 [
-                    -313.9363098144531,
-                    -51.008705139160156,
-                    -623.4579467773438
+                    -451.2823270583342,
+                    -522.3083942601625,
+                    -85.0477294921875
                 ],
                 [
-                    -687.4866943359375,
-                    124.15621185302734,
-                    40.91568374633789
+                    -517.575578880225,
+                    -131.57792663080335,
+                    449.1993408203125
                 ],
                 [
-                    -687.4866943359375,
-                    124.15621185302734,
-                    -40.91568374633789
+                    -517.575578880225,
+                    -131.57792663080335,
+                    -449.1993408203125
                 ],
                 [
-                    -692.59326171875,
-                    38.2980842590332,
-                    92.1699447631836
+                    -503.34924987757756,
+                    -78.8820482835261,
+                    477.08837890625
                 ],
                 [
-                    -692.59326171875,
-                    38.2980842590332,
-                    -92.1699447631836
+                    -503.34924987757756,
+                    -78.8820482835261,
+                    -477.08837890625
                 ],
                 [
-                    -573.4146118164062,
-                    76.0139389038086,
-                    393.83209228515625
+                    -318.768506616447,
+                    -52.52884084081383,
+                    621.021240234375
                 ],
                 [
-                    -573.4146118164062,
-                    76.0139389038086,
-                    -393.83209228515625
+                    -318.768506616447,
+                    -52.52884084081383,
+                    -621.021240234375
                 ],
                 [
-                    -592.9971313476562,
-                    127.26959228515625,
-                    349.0711669921875
+                    -393.6949901114858,
+                    29.07259212157298,
+                    577.1244506835938
                 ],
                 [
-                    -592.9971313476562,
-                    127.26959228515625,
-                    -349.0711669921875
+                    -393.6949901114858,
+                    29.07259212157298,
+                    -577.1244506835938
                 ],
                 [
-                    -377.8997802734375,
-                    26.718706130981445,
-                    588.514404296875
+                    -593.3501663674789,
+                    127.80839789468189,
+                    337.79254150390625
                 ],
                 [
-                    -377.8997802734375,
-                    26.718706130981445,
-                    -588.514404296875
+                    -593.3501663674789,
+                    127.80839789468189,
+                    -337.79254150390625
                 ],
                 [
-                    -604.4268188476562,
-                    18.38375473022461,
-                    352.5168762207031
+                    -567.1186036249611,
+                    87.2941274149537,
+                    393.81988525390625
                 ],
                 [
-                    -604.4268188476562,
-                    18.38375473022461,
-                    -352.5168762207031
+                    -567.1186036249611,
+                    87.2941274149537,
+                    -393.81988525390625
                 ],
                 [
-                    -680.285888671875,
-                    -148.3399658203125,
-                    69.50721740722656
+                    -603.3077784015524,
+                    55.03807092612577,
+                    343.25115966796875
                 ],
                 [
-                    -680.285888671875,
-                    -148.3399658203125,
-                    -69.50721740722656
+                    -603.3077784015524,
+                    55.03807092612577,
+                    -343.25115966796875
                 ],
                 [
-                    -613.9450073242188,
-                    -156.3575439453125,
-                    297.1850280761719
+                    -694.425292571172,
+                    48.88415464487457,
+                    42.820465087890625
                 ],
                 [
-                    -613.9450073242188,
-                    -156.3575439453125,
-                    -297.1850280761719
+                    -694.425292571172,
+                    48.88415464487457,
+                    -42.820465087890625
                 ],
                 [
-                    -518.1790161132812,
-                    -405.8601989746094,
-                    237.7621612548828
+                    -680.5122641518992,
+                    -148.41414170993716,
+                    63.61320495605469
                 ],
                 [
-                    -518.1790161132812,
-                    -405.8601989746094,
-                    -237.7621612548828
+                    -680.5122641518992,
+                    -148.41414170993716,
+                    -63.61320495605469
                 ],
                 [
-                    -449.3326416015625,
-                    -503.8214416503906,
-                    184.264404296875
+                    -610.4020688909843,
+                    -156.4444199204871,
+                    301.9791259765625
                 ],
                 [
-                    -449.3326416015625,
-                    -503.8214416503906,
-                    -184.264404296875
+                    -610.4020688909843,
+                    -156.4444199204871,
+                    -301.9791259765625
                 ],
                 [
-                    -590.7554321289062,
-                    -315.4694519042969,
-                    203.09573364257812
+                    -668.4106008155338,
+                    -63.55217942253054,
+                    188.79489135742188
                 ],
                 [
-                    -590.7554321289062,
-                    -315.4694519042969,
-                    -203.09573364257812
+                    -668.4106008155338,
+                    -63.55217942253054,
+                    -188.79489135742188
                 ],
                 [
-                    -657.7742919921875,
-                    23.76982879638672,
-                    237.7621612548828
+                    -665.203463381373,
+                    16.495871163640203,
+                    207.7449951171875
                 ],
                 [
-                    -657.7742919921875,
-                    23.76982879638672,
-                    -237.7621612548828
+                    -665.203463381373,
+                    16.495871163640203,
+                    -207.7449951171875
                 ],
                 [
-                    -659.6566162109375,
-                    143.489013671875,
-                    184.264404296875
+                    -652.9363437328354,
+                    98.01863191395759,
+                    219.04721069335938
                 ],
                 [
-                    -659.6566162109375,
-                    143.489013671875,
-                    -184.264404296875
+                    -652.9363437328354,
+                    98.01863191395759,
+                    -219.04721069335938
                 ],
                 [
-                    -663.3594970703125,
-                    -92.01717376708984,
-                    203.09573364257812
+                    -672.1002431459516,
+                    157.29927079604462,
+                    85.0477294921875
                 ],
                 [
-                    -663.3594970703125,
-                    -92.01717376708984,
-                    -203.09573364257812
-                ],
-                [
-                    -0.804068922996521,
-                    -681.9031982421875,
-                    157.6621551513672
-                ],
-                [
-                    -0.804068922996521,
-                    -681.9031982421875,
-                    -157.6621551513672
-                ],
-                [
-                    648.2799682617188,
-                    -211.48439025878906,
-                    157.6621551513672
-                ],
-                [
-                    648.2799682617188,
-                    -211.48439025878906,
-                    -157.6621551513672
-                ],
-                [
-                    401.463134765625,
-                    551.1986083984375,
-                    157.6621551513672
-                ],
-                [
-                    401.463134765625,
-                    551.1986083984375,
-                    -157.6621551513672
-                ],
-                [
-                    -400.162109375,
-                    552.1438598632812,
-                    157.6621551513672
-                ],
-                [
-                    -400.162109375,
-                    552.1438598632812,
-                    -157.6621551513672
-                ],
-                [
-                    -648.7769165039062,
-                    -209.9549560546875,
-                    157.6621551513672
-                ],
-                [
-                    -648.7769165039062,
-                    -209.9549560546875,
-                    -157.6621551513672
+                    -672.1002431459516,
+                    157.29927079604462,
+                    -85.0477294921875
                 ]
             ],
             "landing_zones": {
