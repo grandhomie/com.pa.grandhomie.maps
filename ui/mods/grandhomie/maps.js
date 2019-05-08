@@ -21,6 +21,7 @@ cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
     "coui://ui/mods/grandhomie/systems/the_reef_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/t-_crevage_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/lugaan_2v2_ns.pas",
+    "coui://ui/mods/grandhomie/systems/asphodel_meadows_3v3.pas",
     "coui://ui/mods/grandhomie/systems/hydra_6p.pas",
     "coui://ui/mods/grandhomie/systems/twisted_3v3_ns.pas",
     "coui://ui/mods/grandhomie/systems/the_somme_3v3_ns.pas",
