@@ -1,12 +1,11 @@
 {
-    "name": "Memezo 1v1",
-    "description":"Map made for Nimzo's casual tournament.",
-    "version":"1.0",
+    "name": "Memezo (Guma)",
+    "description":"Map made for Guma Guma.",
+    "version":"1.1",
     "creator":"Grand Homie",
-    "players":[2, 2],
     "planets": [
         {
-            "name": "Memezo 1v1",
+            "name": "Memezo (Guma)",
             "mass": 10000,
             "position_x": -600,
             "position_y": -17800,
@@ -35,7 +34,7 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 500
+                "landingZoneSize": 80
             },
             "planetCSG": [
                 {
@@ -364,31 +363,7 @@
                     368.181818182,
                     0
                 ]
-            ],
-            "landing_zones": {
-                "rules": [
-                    {
-                        "max": 10,
-                        "min": 0
-                    },
-                    {
-                        "max": 10,
-                        "min": 0
-                    }
-                ],
-                "list": [
-                    [
-                        "-375",
-                        "0",
-                        "0"
-                    ],
-                    [
-                        "375",
-                        "0",
-                        "-0"
-                    ]
-                ]
-            }
+            ]
         }
     ]
 }
