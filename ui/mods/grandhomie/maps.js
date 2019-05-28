@@ -35,6 +35,7 @@ cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
 cShareSystems.load_pas("Grand Homie 4v4 & 5v5", [
     "coui://ui/mods/grandhomie/systems/collapse_4v4.pas",
 	"coui://ui/mods/grandhomie/systems/converge_4v4.pas",
+    "coui://ui/mods/grandhomie/systems/jotunheim_2v2v2v2.pas",
     "coui://ui/mods/grandhomie/systems/hydaspes_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/arras_4v4_ns.pas",
     "coui://ui/mods/grandhomie/systems/passchendaele_4v4_ns.pas",
@@ -71,6 +72,7 @@ cShareSystems.load_pas("Grand Homie XvX / FFA", [
     "coui://ui/mods/grandhomie/systems/glacier_4p.pas",
     "coui://ui/mods/grandhomie/systems/hydra_6p.pas",
     "coui://ui/mods/grandhomie/systems/filibuster_6p_ffa.pas",
+    "coui://ui/mods/grandhomie/systems/jotunheim_2v2v2v2.pas",
     "coui://ui/mods/grandhomie/systems/actarus_42-3-475.pas",
     "coui://ui/mods/grandhomie/systems/euphor.pas",
     "coui://ui/mods/grandhomie/systems/wadiya_2018_97-4-550.pas",
