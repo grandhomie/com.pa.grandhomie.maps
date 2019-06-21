@@ -1,5 +1,5 @@
 {
-    "name": "(New) Station Gamma Heta 5v5 NS",
+    "name": "Station Gamma Heta 5v5 NS",
     "description":"5v5 unshared big map with slightly less metal than usual.  Released: April 10th, 2019",
     "version":"1.0",
     "creator":"Grand Homie",

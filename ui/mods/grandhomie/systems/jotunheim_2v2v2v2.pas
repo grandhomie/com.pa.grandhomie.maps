@@ -1,5 +1,5 @@
 {
-    "name": "(New) Jotunheim 2v2v2v2 / 4v4 NS",
+    "name": "Jotunheim 2v2v2v2 / 4v4 NS",
     "description":"2v2v2v2 or 4v4 unshared map.",
     "version":"1.0",
     "creator":"Grand Homie",

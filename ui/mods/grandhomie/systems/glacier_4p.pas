@@ -1,5 +1,5 @@
 {
-    "name": "(New) Glacier",
+    "name": "Glacier",
     "description":"FFA/2v2/1v1 map.",
     "version":"1.2",
     "creator":"Grand Homie",

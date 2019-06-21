@@ -1,5 +1,5 @@
 {
-    "name": "(New) Hydra",
+    "name": "Hydra",
     "description":"FFA/2v2v2/3v3 map.",
     "version":"1.0",
     "creator":"Grand Homie",

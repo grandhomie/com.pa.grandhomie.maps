@@ -1,5 +1,5 @@
 {
-    "name": "(New) Asphodel Meadows 3v3 NS",
+    "name": "Asphodel Meadows 3v3 NS",
     "description":"Unshared 3v3 barren(ish) green planet.  Similar to Lune 3v3 but bigger.",
     "version":"1.0",
     "creator":"Grand Homie",
