@@ -1,5 +1,5 @@
 {
-    "name": "(New) The Aisne 1v1",
+    "name": "The Aisne 1v1",
     "description":"Follow up to the Battle of the Marne: the 1st Battle of the Aisne.",
     "version":"1.0",
     "creator":"Grand Homie",

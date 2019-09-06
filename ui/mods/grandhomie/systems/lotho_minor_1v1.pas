@@ -1,5 +1,5 @@
 {
-    "name": "(New) Lotho Minor 1v1",
+    "name": "Lotho Minor 1v1",
     "description":"Hemispheric 1v1 map.",
     "version":"1.0",
     "creator":"Grand Homie",

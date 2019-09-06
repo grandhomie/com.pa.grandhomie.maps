@@ -1,5 +1,5 @@
 {
-    "name": "(New) Ostfront 1v1",
+    "name": "Ostfront 1v1",
     "description":"Medium size, relative low metal (68) 1v1 map.",
     "version":"1.0",
     "creator":"Grand Homie",

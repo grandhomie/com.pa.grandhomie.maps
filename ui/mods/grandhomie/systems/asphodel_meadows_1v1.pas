@@ -1,5 +1,5 @@
 {
-    "name": "(New) Asphodel Meadows 1v1",
+    "name": "Asphodel Meadows 1v1",
     "description":"Large 1v1 map with 2 landing zones per player.  Open and light on CSGs.",
     "version":"1.1",
     "creator":"Grand Homie",

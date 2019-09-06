@@ -1,5 +1,5 @@
 {
-    "name": "(New) Jakku 1v1",
+    "name": "Jakku 1v1",
     "description":"Big, metal rich desert 1v1 map.",
     "version":"1.0",
     "creator":"Grand Homie",
