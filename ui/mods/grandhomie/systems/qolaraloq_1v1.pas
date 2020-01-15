@@ -1,5 +1,5 @@
 {
-    "name": "Qolaraloq 1v1 (New)",
+    "name": "(New) Qolaraloq 1v1",
     "description":"1v1 map with symmetry across the center of the planet; so everything (spawns, metal and CSGs) is on polar opposites.  Some CSGs but no big chokes.",
     "version":"1.0",
     "creator":"Grand Homie",
