@@ -27,6 +27,8 @@ cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
     "coui://ui/mods/grandhomie/systems/gsystem_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/the_reef_2v2_ns.pas",
     "coui://ui/mods/grandhomie/systems/t-_crevage_2v2_ns.pas",
+    "coui://ui/mods/grandhomie/systems/paf_6p_ffa.pas",
+    "coui://ui/mods/grandhomie/systems/paf_6p_ffa_single.pas",
     "coui://ui/mods/grandhomie/systems/asphodel_meadows_3v3.pas",
     "coui://ui/mods/grandhomie/systems/hydra_6p.pas",
     "coui://ui/mods/grandhomie/systems/twisted_3v3_ns.pas",
@@ -78,6 +80,10 @@ cShareSystems.load_pas("Grand Homie 12+ Players", [
 ]);
 cShareSystems.load_pas("Grand Homie XvX / FFA", [
     "coui://ui/mods/grandhomie/systems/glacier_4p.pas",
+    "coui://ui/mods/grandhomie/systems/paf_5p_ffa.pas",
+    "coui://ui/mods/grandhomie/systems/paf_5p_ffa_single.pas",
+    "coui://ui/mods/grandhomie/systems/paf_6p_ffa.pas",
+    "coui://ui/mods/grandhomie/systems/paf_6p_ffa_single.pas",
     "coui://ui/mods/grandhomie/systems/hydra_6p.pas",
     "coui://ui/mods/grandhomie/systems/filibuster_6p_ffa.pas",
     "coui://ui/mods/grandhomie/systems/jotunheim_2v2v2v2.pas",
