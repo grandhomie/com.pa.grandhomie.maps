@@ -1,5 +1,5 @@
 {
-    "name": "(New) Preys 5v5 NS",
+    "name": "Preys 5v5 NS",
     "description":"5v5 unshared map similar to Ypres (2 groups of 2 players per team and 1 player spawning alone) but bigger and less metal dense.",
     "version":"1.0",
     "creator":"Grand Homie",

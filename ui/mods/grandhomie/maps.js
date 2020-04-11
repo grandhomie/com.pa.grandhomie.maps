@@ -1,4 +1,5 @@
 cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
+    "coui://ui/mods/grandhomie/systems/complaints_1v1.pas",
 	"coui://ui/mods/grandhomie/systems/herculaneum_1v1.pas",
 	"coui://ui/mods/grandhomie/systems/qolaraloq_1v1.pas",
     "coui://ui/mods/grandhomie/systems/asphodel_meadows_1v1.pas",

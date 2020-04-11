@@ -1,5 +1,5 @@
 {
-    "name": "(New) Herculaneum 1v1",
+    "name": "Herculaneum 1v1",
     "description":"Forge style map.",
     "version":"1.0",
     "creator":"Grand Homie",
