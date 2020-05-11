@@ -1,4 +1,5 @@
 cShareSystems.load_pas("Grand Homie 1v1, 2v2 & 3v3", [
+    "coui://ui/mods/grandhomie/systems/stunning_estate.pas",
 	"coui://ui/mods/grandhomie/systems/qolaraloq_1v1.pas",
     "coui://ui/mods/grandhomie/systems/asphodel_meadows_1v1.pas",
     "coui://ui/mods/grandhomie/systems/lotho_minor_1v1.pas",
@@ -78,6 +79,7 @@ cShareSystems.load_pas("Grand Homie 12+ Players", [
     "coui://ui/mods/grandhomie/systems/32_ffa.pas"
 ]);
 cShareSystems.load_pas("Grand Homie XvX / FFA", [
+    "coui://ui/mods/grandhomie/systems/stunning_estate.pas",
     "coui://ui/mods/grandhomie/systems/glacier_4p.pas",
     "coui://ui/mods/grandhomie/systems/paf_5p_ffa.pas",
     "coui://ui/mods/grandhomie/systems/paf_5p_ffa_single.pas",
