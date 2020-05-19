@@ -1,6 +1,6 @@
 {
     "name": "TheWall 4v4 NS",
-    "description":"TheWall modified for 4v4 unshared.  North / South 4v4 battle with 2 lanes each to fight for.  Focus on 1 lane or try to get both early?  Tough choice.",
+    "description":"TheWall modified for 4v4 unshared.  4v4 battle with 2 lanes each to fight for.",
     "version":"1.0",
     "creator":"AndreasG",
     "players":[8, 8],
@@ -12,7 +12,7 @@
             "position_y": -9300,
             "velocity_x": 57.66265106201172,
             "velocity_y": 133.92616271972656,
-            "required_thrust_to_move": 3,
+            "required_thrust_to_move": 0,
             "starting_planet": true,
             "respawn": false,
             "start_destroyed": false,

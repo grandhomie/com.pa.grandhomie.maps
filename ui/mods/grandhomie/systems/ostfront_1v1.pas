@@ -12,7 +12,7 @@
             "position_y": -43300,
             "velocity_x": 106.5186996459961,
             "velocity_y": 11.562080383300781,
-            "required_thrust_to_move": 3,
+            "required_thrust_to_move": 0,
             "starting_planet": true,
             "respawn": false,
             "start_destroyed": false,

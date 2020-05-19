@@ -1,6 +1,6 @@
 {
     "name": "Wadiya - No Crater",
-    "description":"Wadiya without the craters.  (Fixed - really without craters)",
+    "description":"Wadiya without the craters.",
     "creator":"AndreasG",
     "version":"1.2",
     "planets": [
@@ -11,7 +11,7 @@
             "position_y": -6200,
             "velocity_x": 18.708784103393555,
             "velocity_y": 113.15800476074219,
-            "required_thrust_to_move": 3,
+            "required_thrust_to_move": 0,
             "starting_planet": true,
             "respawn": false,
             "start_destroyed": false,
